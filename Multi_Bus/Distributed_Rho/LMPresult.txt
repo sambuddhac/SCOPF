@@ -1,0 +1,22 @@
+
+Locational Marginal Prices for Real Power at nodes ($/MWh): 
+1	Contingency Scenario: 	0	-5653.46
+1	Contingency Scenario: 	1	9325.22
+
+Node : 	1	 LMP : 	3671.76	 $/MWh
+2	Contingency Scenario: 	0	-5653.46
+2	Contingency Scenario: 	1	-123.584
+
+Node : 	2	 LMP : 	-5777.05	 $/MWh
+3	Contingency Scenario: 	0	-5653.46
+3	Contingency Scenario: 	1	-4803.55
+
+Node : 	3	 LMP : 	-10457	 $/MWh
+4	Contingency Scenario: 	0	-5653.46
+4	Contingency Scenario: 	1	-1186.56
+
+Node : 	4	 LMP : 	-6840.02	 $/MWh
+5	Contingency Scenario: 	0	-5653.46
+5	Contingency Scenario: 	1	-3531.46
+
+Node : 	5	 LMP : 	-9184.93	 $/MWh

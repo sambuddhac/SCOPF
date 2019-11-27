@@ -1,0 +1,36 @@
+# Produced by CVXGEN, 2015-02-05 18:10:14 -0500.
+# CVXGEN is Copyright (C) 2006-2012 Jacob Mattingley, jem@cvxgen.com.
+# The code in this file is Copyright (C) 2006-2012 Jacob Mattingley.
+# CVXGEN, or solvers produced by CVXGEN, cannot be used for commercial
+# applications without prior written permission from Jacob Mattingley.
+
+# Filename: description.cvxgen.
+# Description: A description of the CVXGEN problem.
+
+dimensions
+  C=100
+end
+
+parameters
+  rho positive # ADMM tuning parameter
+  PgMax positive; PgMin nonnegative # Generator Limits
+  c2 nonnegative; c1 nonnegative; c0 nonnegative # Generator cost coefficients, quadratic, liear and constant terms respectively
+  Pg_N_init[m], m=0..C # Generator injection from last iteration
+  Pg_N_avg[m], m=0..C # Net average power from last iteration
+  Thetag_N_avg[m], m=0..C # Net average bus voltage angle from last iteration
+  ug_N[m], m=0..C # Dual variable for net power balance
+  vg_N[m], m=0..C #  Dual variable for net angle balance
+  Vg_N_avg[m], m=0..C # Average of dual variable for net angle balance from last to last iteration
+
+end
+
+variables
+  Pg # Generator real power output
+  Thetag[m], m=0..C # Generator bus angle
+end
+
+minimize
+  c2*square(Pg)+c1*Pg+c0+(rho/2)*(sum[m=0..C](square(Pg-Pg_N_init[m]+Pg_N_avg[m]+ug_N[m])+square(Thetag[m]-Vg_N_avg[m]-Thetag_N_avg[m]+vg_N[m])))
+subject to
+  PgMin <= Pg <= PgMax
+end

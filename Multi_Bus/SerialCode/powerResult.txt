@@ -1,0 +1,1173 @@
+Gen#	Conn.	MW
+1	1	-nan
+2	4	-nan
+3	6	-nan
+4	8	-nan
+5	10	-nan
+6	12	-nan
+7	15	-nan
+8	18	-nan
+9	19	-nan
+10	24	-nan
+11	25	-nan
+12	26	-nan
+13	27	-nan
+14	31	-nan
+15	32	-nan
+16	34	-nan
+17	36	-nan
+18	40	-nan
+19	42	-nan
+20	46	-nan
+21	49	-nan
+22	54	-nan
+23	55	-nan
+24	56	-nan
+25	59	-nan
+26	61	-nan
+27	62	-nan
+28	65	-nan
+29	66	-nan
+30	69	-nan
+31	70	-nan
+32	72	-nan
+33	73	-nan
+34	74	-nan
+35	76	-nan
+36	77	-nan
+37	80	-nan
+38	85	-nan
+39	87	-nan
+40	89	-nan
+41	90	-nan
+42	91	-nan
+43	92	-nan
+44	99	-nan
+45	100	-nan
+46	103	-nan
+47	104	-nan
+48	105	-nan
+49	107	-nan
+50	110	-nan
+51	111	-nan
+52	112	-nan
+53	113	-nan
+54	116	-nan
+T.line#	From	To	From MW	To MW
+1	1	2	-10000	10000
+2	1	3	-10000	10000
+3	2	12	-nan	-nan
+4	3	5	-nan	-nan
+5	3	12	-nan	-nan
+6	4	5	-nan	-nan
+7	4	11	-nan	-nan
+8	5	6	-nan	-nan
+9	8	5	-nan	-nan
+10	5	11	-nan	-nan
+11	6	7	-nan	-nan
+12	7	12	-nan	-nan
+13	8	9	-nan	-nan
+14	8	30	-nan	-nan
+15	9	10	-nan	-nan
+16	11	12	-nan	-nan
+17	11	13	-nan	-nan
+18	12	14	-nan	-nan
+19	12	16	-nan	-nan
+20	12	117	-nan	-nan
+21	13	15	-nan	-nan
+22	14	15	-nan	-nan
+23	15	17	-nan	-nan
+24	15	19	-nan	-nan
+25	15	33	-nan	-nan
+26	16	17	-nan	-nan
+27	17	18	-nan	-nan
+28	30	17	-nan	-nan
+29	17	31	-nan	-nan
+30	17	113	-nan	-nan
+31	18	19	-nan	-nan
+32	19	20	-nan	-nan
+33	19	34	-nan	-nan
+34	20	21	-nan	-nan
+35	21	22	-nan	-nan
+36	22	23	-nan	-nan
+37	23	24	-nan	-nan
+38	23	25	-nan	-nan
+39	23	32	-nan	-nan
+40	24	70	-nan	-nan
+41	24	72	-nan	-nan
+42	26	25	-nan	-nan
+43	25	27	-nan	-nan
+44	26	30	-nan	-nan
+45	27	28	-nan	-nan
+46	27	32	-nan	-nan
+47	27	115	-nan	-nan
+48	28	29	-nan	-nan
+49	29	31	-nan	-nan
+50	30	38	-nan	-nan
+51	31	32	-nan	-nan
+52	32	113	-nan	-nan
+53	32	114	-nan	-nan
+54	33	37	-nan	-nan
+55	34	36	-nan	-nan
+56	34	37	-nan	-nan
+57	34	43	-nan	-nan
+58	35	36	-nan	-nan
+59	35	37	-nan	-nan
+60	38	37	-nan	-nan
+61	37	39	-nan	-nan
+62	37	40	-nan	-nan
+63	38	65	-nan	-nan
+64	39	40	-nan	-nan
+65	40	41	-nan	-nan
+66	40	42	-nan	-nan
+67	41	42	-nan	-nan
+68	42	49	-nan	-nan
+69	42	49	-nan	-nan
+70	43	44	-nan	-nan
+71	44	45	-nan	-nan
+72	45	46	-nan	-nan
+73	45	49	-nan	-nan
+74	46	47	-nan	-nan
+75	46	48	-nan	-nan
+76	47	49	-nan	-nan
+77	47	69	-nan	-nan
+78	48	49	-nan	-nan
+79	49	50	-nan	-nan
+80	49	51	-nan	-nan
+81	49	54	-nan	-nan
+82	49	54	-nan	-nan
+83	49	66	-nan	-nan
+84	49	66	-nan	-nan
+85	49	69	-nan	-nan
+86	50	57	-nan	-nan
+87	51	52	-nan	-nan
+88	51	58	-nan	-nan
+89	52	53	-nan	-nan
+90	53	54	-nan	-nan
+91	54	55	-nan	-nan
+92	54	56	-nan	-nan
+93	54	59	-nan	-nan
+94	55	56	-nan	-nan
+95	55	59	-nan	-nan
+96	56	57	-nan	-nan
+97	56	58	-nan	-nan
+98	56	59	-nan	-nan
+99	56	59	-nan	-nan
+100	59	60	-nan	-nan
+101	59	61	-nan	-nan
+102	63	59	-nan	-nan
+103	60	61	-nan	-nan
+104	60	62	-nan	-nan
+105	61	62	-nan	-nan
+106	64	61	-nan	-nan
+107	62	66	-nan	-nan
+108	62	67	-nan	-nan
+109	63	64	-nan	-nan
+110	64	65	-nan	-nan
+111	65	66	-nan	-nan
+112	65	68	-nan	-nan
+113	66	67	-nan	-nan
+114	68	69	-nan	-nan
+115	68	81	-nan	-nan
+116	68	116	-nan	-nan
+117	69	70	-nan	-nan
+118	69	75	-nan	-nan
+119	69	77	-nan	-nan
+120	70	71	-nan	-nan
+121	70	74	-nan	-nan
+122	70	75	-nan	-nan
+123	71	72	-nan	-nan
+124	71	73	-nan	-nan
+125	74	75	-nan	-nan
+126	75	77	-nan	-nan
+127	75	118	-nan	-nan
+128	76	77	-nan	-nan
+129	76	118	-nan	-nan
+130	77	78	-nan	-nan
+131	77	80	-nan	-nan
+132	77	80	-nan	-nan
+133	77	82	-nan	-nan
+134	78	79	-nan	-nan
+135	79	80	-nan	-nan
+136	81	80	-nan	-nan
+137	80	96	-nan	-nan
+138	80	97	-nan	-nan
+139	80	98	-nan	-nan
+140	80	99	-nan	-nan
+141	82	83	-nan	-nan
+142	82	96	-nan	-nan
+143	83	84	-nan	-nan
+144	83	85	-nan	-nan
+145	84	85	-nan	-nan
+146	85	86	-nan	-nan
+147	85	88	-nan	-nan
+148	85	89	-nan	-nan
+149	86	87	-nan	-nan
+150	88	89	-nan	-nan
+151	89	90	-nan	-nan
+152	89	90	-nan	-nan
+153	89	92	-nan	-nan
+154	89	92	-nan	-nan
+155	90	91	-nan	-nan
+156	91	92	-nan	-nan
+157	92	93	-nan	-nan
+158	92	94	-nan	-nan
+159	92	100	-nan	-nan
+160	92	102	-nan	-nan
+161	93	94	-nan	-nan
+162	94	95	-nan	-nan
+163	94	96	-nan	-nan
+164	94	100	-nan	-nan
+165	95	96	-nan	-nan
+166	96	97	-nan	-nan
+167	98	100	-nan	-nan
+168	99	100	-nan	-nan
+169	100	101	-nan	-nan
+170	100	103	-nan	-nan
+171	100	104	-nan	-nan
+172	100	106	-nan	-nan
+173	101	102	-nan	-nan
+174	103	104	-nan	-nan
+175	103	105	-nan	-nan
+176	103	110	-nan	-nan
+177	104	105	-nan	-nan
+178	105	106	-nan	-nan
+179	105	107	-nan	-nan
+180	105	108	-nan	-nan
+181	106	107	-nan	-nan
+182	108	109	-nan	-nan
+183	109	110	-nan	-nan
+184	110	111	-nan	-nan
+185	110	112	-nan	-nan
+186	114	115	-nan	-nan
+T.line#	Contingency Scenario	From	To	From MW	To MW
+1	1	1	2	0	0
+1	2	1	2	-12500	12500
+1	3	1	2	-12500	12500
+1	4	1	2	-12500	12500
+1	5	1	2	-12500	12500
+2	1	1	3	-12500	12500
+2	2	1	3	0	0
+2	3	1	3	-12500	12500
+2	4	1	3	-12500	12500
+2	5	1	3	-12500	12500
+3	1	2	12	-nan	-nan
+3	2	2	12	-nan	-nan
+3	3	2	12	0	0
+3	4	2	12	-nan	-nan
+3	5	2	12	-nan	-nan
+4	1	3	5	-nan	-nan
+4	2	3	5	-nan	-nan
+4	3	3	5	-nan	-nan
+4	4	3	5	0	0
+4	5	3	5	-nan	-nan
+5	1	3	12	-nan	-nan
+5	2	3	12	-nan	-nan
+5	3	3	12	-nan	-nan
+5	4	3	12	-nan	-nan
+5	5	3	12	0	0
+6	1	4	5	-nan	-nan
+6	2	4	5	-nan	-nan
+6	3	4	5	-nan	-nan
+6	4	4	5	-nan	-nan
+6	5	4	5	-nan	-nan
+7	1	4	11	-nan	-nan
+7	2	4	11	-nan	-nan
+7	3	4	11	-nan	-nan
+7	4	4	11	-nan	-nan
+7	5	4	11	-nan	-nan
+8	1	5	6	-nan	-nan
+8	2	5	6	-nan	-nan
+8	3	5	6	-nan	-nan
+8	4	5	6	-nan	-nan
+8	5	5	6	-nan	-nan
+9	1	8	5	-nan	-nan
+9	2	8	5	-nan	-nan
+9	3	8	5	-nan	-nan
+9	4	8	5	-nan	-nan
+9	5	8	5	-nan	-nan
+10	1	5	11	-nan	-nan
+10	2	5	11	-nan	-nan
+10	3	5	11	-nan	-nan
+10	4	5	11	-nan	-nan
+10	5	5	11	-nan	-nan
+11	1	6	7	-nan	-nan
+11	2	6	7	-nan	-nan
+11	3	6	7	-nan	-nan
+11	4	6	7	-nan	-nan
+11	5	6	7	-nan	-nan
+12	1	7	12	-nan	-nan
+12	2	7	12	-nan	-nan
+12	3	7	12	-nan	-nan
+12	4	7	12	-nan	-nan
+12	5	7	12	-nan	-nan
+13	1	8	9	-nan	-nan
+13	2	8	9	-nan	-nan
+13	3	8	9	-nan	-nan
+13	4	8	9	-nan	-nan
+13	5	8	9	-nan	-nan
+14	1	8	30	-nan	-nan
+14	2	8	30	-nan	-nan
+14	3	8	30	-nan	-nan
+14	4	8	30	-nan	-nan
+14	5	8	30	-nan	-nan
+15	1	9	10	-nan	-nan
+15	2	9	10	-nan	-nan
+15	3	9	10	-nan	-nan
+15	4	9	10	-nan	-nan
+15	5	9	10	-nan	-nan
+16	1	11	12	-nan	-nan
+16	2	11	12	-nan	-nan
+16	3	11	12	-nan	-nan
+16	4	11	12	-nan	-nan
+16	5	11	12	-nan	-nan
+17	1	11	13	-nan	-nan
+17	2	11	13	-nan	-nan
+17	3	11	13	-nan	-nan
+17	4	11	13	-nan	-nan
+17	5	11	13	-nan	-nan
+18	1	12	14	-nan	-nan
+18	2	12	14	-nan	-nan
+18	3	12	14	-nan	-nan
+18	4	12	14	-nan	-nan
+18	5	12	14	-nan	-nan
+19	1	12	16	-nan	-nan
+19	2	12	16	-nan	-nan
+19	3	12	16	-nan	-nan
+19	4	12	16	-nan	-nan
+19	5	12	16	-nan	-nan
+20	1	12	117	-nan	-nan
+20	2	12	117	-nan	-nan
+20	3	12	117	-nan	-nan
+20	4	12	117	-nan	-nan
+20	5	12	117	-nan	-nan
+21	1	13	15	-nan	-nan
+21	2	13	15	-nan	-nan
+21	3	13	15	-nan	-nan
+21	4	13	15	-nan	-nan
+21	5	13	15	-nan	-nan
+22	1	14	15	-nan	-nan
+22	2	14	15	-nan	-nan
+22	3	14	15	-nan	-nan
+22	4	14	15	-nan	-nan
+22	5	14	15	-nan	-nan
+23	1	15	17	-nan	-nan
+23	2	15	17	-nan	-nan
+23	3	15	17	-nan	-nan
+23	4	15	17	-nan	-nan
+23	5	15	17	-nan	-nan
+24	1	15	19	-nan	-nan
+24	2	15	19	-nan	-nan
+24	3	15	19	-nan	-nan
+24	4	15	19	-nan	-nan
+24	5	15	19	-nan	-nan
+25	1	15	33	-nan	-nan
+25	2	15	33	-nan	-nan
+25	3	15	33	-nan	-nan
+25	4	15	33	-nan	-nan
+25	5	15	33	-nan	-nan
+26	1	16	17	-nan	-nan
+26	2	16	17	-nan	-nan
+26	3	16	17	-nan	-nan
+26	4	16	17	-nan	-nan
+26	5	16	17	-nan	-nan
+27	1	17	18	-nan	-nan
+27	2	17	18	-nan	-nan
+27	3	17	18	-nan	-nan
+27	4	17	18	-nan	-nan
+27	5	17	18	-nan	-nan
+28	1	30	17	-nan	-nan
+28	2	30	17	-nan	-nan
+28	3	30	17	-nan	-nan
+28	4	30	17	-nan	-nan
+28	5	30	17	-nan	-nan
+29	1	17	31	-nan	-nan
+29	2	17	31	-nan	-nan
+29	3	17	31	-nan	-nan
+29	4	17	31	-nan	-nan
+29	5	17	31	-nan	-nan
+30	1	17	113	-nan	-nan
+30	2	17	113	-nan	-nan
+30	3	17	113	-nan	-nan
+30	4	17	113	-nan	-nan
+30	5	17	113	-nan	-nan
+31	1	18	19	-nan	-nan
+31	2	18	19	-nan	-nan
+31	3	18	19	-nan	-nan
+31	4	18	19	-nan	-nan
+31	5	18	19	-nan	-nan
+32	1	19	20	-nan	-nan
+32	2	19	20	-nan	-nan
+32	3	19	20	-nan	-nan
+32	4	19	20	-nan	-nan
+32	5	19	20	-nan	-nan
+33	1	19	34	-nan	-nan
+33	2	19	34	-nan	-nan
+33	3	19	34	-nan	-nan
+33	4	19	34	-nan	-nan
+33	5	19	34	-nan	-nan
+34	1	20	21	-nan	-nan
+34	2	20	21	-nan	-nan
+34	3	20	21	-nan	-nan
+34	4	20	21	-nan	-nan
+34	5	20	21	-nan	-nan
+35	1	21	22	-nan	-nan
+35	2	21	22	-nan	-nan
+35	3	21	22	-nan	-nan
+35	4	21	22	-nan	-nan
+35	5	21	22	-nan	-nan
+36	1	22	23	-nan	-nan
+36	2	22	23	-nan	-nan
+36	3	22	23	-nan	-nan
+36	4	22	23	-nan	-nan
+36	5	22	23	-nan	-nan
+37	1	23	24	-nan	-nan
+37	2	23	24	-nan	-nan
+37	3	23	24	-nan	-nan
+37	4	23	24	-nan	-nan
+37	5	23	24	-nan	-nan
+38	1	23	25	-nan	-nan
+38	2	23	25	-nan	-nan
+38	3	23	25	-nan	-nan
+38	4	23	25	-nan	-nan
+38	5	23	25	-nan	-nan
+39	1	23	32	-nan	-nan
+39	2	23	32	-nan	-nan
+39	3	23	32	-nan	-nan
+39	4	23	32	-nan	-nan
+39	5	23	32	-nan	-nan
+40	1	24	70	-nan	-nan
+40	2	24	70	-nan	-nan
+40	3	24	70	-nan	-nan
+40	4	24	70	-nan	-nan
+40	5	24	70	-nan	-nan
+41	1	24	72	-nan	-nan
+41	2	24	72	-nan	-nan
+41	3	24	72	-nan	-nan
+41	4	24	72	-nan	-nan
+41	5	24	72	-nan	-nan
+42	1	26	25	-nan	-nan
+42	2	26	25	-nan	-nan
+42	3	26	25	-nan	-nan
+42	4	26	25	-nan	-nan
+42	5	26	25	-nan	-nan
+43	1	25	27	-nan	-nan
+43	2	25	27	-nan	-nan
+43	3	25	27	-nan	-nan
+43	4	25	27	-nan	-nan
+43	5	25	27	-nan	-nan
+44	1	26	30	-nan	-nan
+44	2	26	30	-nan	-nan
+44	3	26	30	-nan	-nan
+44	4	26	30	-nan	-nan
+44	5	26	30	-nan	-nan
+45	1	27	28	-nan	-nan
+45	2	27	28	-nan	-nan
+45	3	27	28	-nan	-nan
+45	4	27	28	-nan	-nan
+45	5	27	28	-nan	-nan
+46	1	27	32	-nan	-nan
+46	2	27	32	-nan	-nan
+46	3	27	32	-nan	-nan
+46	4	27	32	-nan	-nan
+46	5	27	32	-nan	-nan
+47	1	27	115	-nan	-nan
+47	2	27	115	-nan	-nan
+47	3	27	115	-nan	-nan
+47	4	27	115	-nan	-nan
+47	5	27	115	-nan	-nan
+48	1	28	29	-nan	-nan
+48	2	28	29	-nan	-nan
+48	3	28	29	-nan	-nan
+48	4	28	29	-nan	-nan
+48	5	28	29	-nan	-nan
+49	1	29	31	-nan	-nan
+49	2	29	31	-nan	-nan
+49	3	29	31	-nan	-nan
+49	4	29	31	-nan	-nan
+49	5	29	31	-nan	-nan
+50	1	30	38	-nan	-nan
+50	2	30	38	-nan	-nan
+50	3	30	38	-nan	-nan
+50	4	30	38	-nan	-nan
+50	5	30	38	-nan	-nan
+51	1	31	32	-nan	-nan
+51	2	31	32	-nan	-nan
+51	3	31	32	-nan	-nan
+51	4	31	32	-nan	-nan
+51	5	31	32	-nan	-nan
+52	1	32	113	-nan	-nan
+52	2	32	113	-nan	-nan
+52	3	32	113	-nan	-nan
+52	4	32	113	-nan	-nan
+52	5	32	113	-nan	-nan
+53	1	32	114	-nan	-nan
+53	2	32	114	-nan	-nan
+53	3	32	114	-nan	-nan
+53	4	32	114	-nan	-nan
+53	5	32	114	-nan	-nan
+54	1	33	37	-nan	-nan
+54	2	33	37	-nan	-nan
+54	3	33	37	-nan	-nan
+54	4	33	37	-nan	-nan
+54	5	33	37	-nan	-nan
+55	1	34	36	-nan	-nan
+55	2	34	36	-nan	-nan
+55	3	34	36	-nan	-nan
+55	4	34	36	-nan	-nan
+55	5	34	36	-nan	-nan
+56	1	34	37	-nan	-nan
+56	2	34	37	-nan	-nan
+56	3	34	37	-nan	-nan
+56	4	34	37	-nan	-nan
+56	5	34	37	-nan	-nan
+57	1	34	43	-nan	-nan
+57	2	34	43	-nan	-nan
+57	3	34	43	-nan	-nan
+57	4	34	43	-nan	-nan
+57	5	34	43	-nan	-nan
+58	1	35	36	-nan	-nan
+58	2	35	36	-nan	-nan
+58	3	35	36	-nan	-nan
+58	4	35	36	-nan	-nan
+58	5	35	36	-nan	-nan
+59	1	35	37	-nan	-nan
+59	2	35	37	-nan	-nan
+59	3	35	37	-nan	-nan
+59	4	35	37	-nan	-nan
+59	5	35	37	-nan	-nan
+60	1	38	37	-nan	-nan
+60	2	38	37	-nan	-nan
+60	3	38	37	-nan	-nan
+60	4	38	37	-nan	-nan
+60	5	38	37	-nan	-nan
+61	1	37	39	-nan	-nan
+61	2	37	39	-nan	-nan
+61	3	37	39	-nan	-nan
+61	4	37	39	-nan	-nan
+61	5	37	39	-nan	-nan
+62	1	37	40	-nan	-nan
+62	2	37	40	-nan	-nan
+62	3	37	40	-nan	-nan
+62	4	37	40	-nan	-nan
+62	5	37	40	-nan	-nan
+63	1	38	65	-nan	-nan
+63	2	38	65	-nan	-nan
+63	3	38	65	-nan	-nan
+63	4	38	65	-nan	-nan
+63	5	38	65	-nan	-nan
+64	1	39	40	-nan	-nan
+64	2	39	40	-nan	-nan
+64	3	39	40	-nan	-nan
+64	4	39	40	-nan	-nan
+64	5	39	40	-nan	-nan
+65	1	40	41	-nan	-nan
+65	2	40	41	-nan	-nan
+65	3	40	41	-nan	-nan
+65	4	40	41	-nan	-nan
+65	5	40	41	-nan	-nan
+66	1	40	42	-nan	-nan
+66	2	40	42	-nan	-nan
+66	3	40	42	-nan	-nan
+66	4	40	42	-nan	-nan
+66	5	40	42	-nan	-nan
+67	1	41	42	-nan	-nan
+67	2	41	42	-nan	-nan
+67	3	41	42	-nan	-nan
+67	4	41	42	-nan	-nan
+67	5	41	42	-nan	-nan
+68	1	42	49	-nan	-nan
+68	2	42	49	-nan	-nan
+68	3	42	49	-nan	-nan
+68	4	42	49	-nan	-nan
+68	5	42	49	-nan	-nan
+69	1	42	49	-nan	-nan
+69	2	42	49	-nan	-nan
+69	3	42	49	-nan	-nan
+69	4	42	49	-nan	-nan
+69	5	42	49	-nan	-nan
+70	1	43	44	-nan	-nan
+70	2	43	44	-nan	-nan
+70	3	43	44	-nan	-nan
+70	4	43	44	-nan	-nan
+70	5	43	44	-nan	-nan
+71	1	44	45	-nan	-nan
+71	2	44	45	-nan	-nan
+71	3	44	45	-nan	-nan
+71	4	44	45	-nan	-nan
+71	5	44	45	-nan	-nan
+72	1	45	46	-nan	-nan
+72	2	45	46	-nan	-nan
+72	3	45	46	-nan	-nan
+72	4	45	46	-nan	-nan
+72	5	45	46	-nan	-nan
+73	1	45	49	-nan	-nan
+73	2	45	49	-nan	-nan
+73	3	45	49	-nan	-nan
+73	4	45	49	-nan	-nan
+73	5	45	49	-nan	-nan
+74	1	46	47	-nan	-nan
+74	2	46	47	-nan	-nan
+74	3	46	47	-nan	-nan
+74	4	46	47	-nan	-nan
+74	5	46	47	-nan	-nan
+75	1	46	48	-nan	-nan
+75	2	46	48	-nan	-nan
+75	3	46	48	-nan	-nan
+75	4	46	48	-nan	-nan
+75	5	46	48	-nan	-nan
+76	1	47	49	-nan	-nan
+76	2	47	49	-nan	-nan
+76	3	47	49	-nan	-nan
+76	4	47	49	-nan	-nan
+76	5	47	49	-nan	-nan
+77	1	47	69	-nan	-nan
+77	2	47	69	-nan	-nan
+77	3	47	69	-nan	-nan
+77	4	47	69	-nan	-nan
+77	5	47	69	-nan	-nan
+78	1	48	49	-nan	-nan
+78	2	48	49	-nan	-nan
+78	3	48	49	-nan	-nan
+78	4	48	49	-nan	-nan
+78	5	48	49	-nan	-nan
+79	1	49	50	-nan	-nan
+79	2	49	50	-nan	-nan
+79	3	49	50	-nan	-nan
+79	4	49	50	-nan	-nan
+79	5	49	50	-nan	-nan
+80	1	49	51	-nan	-nan
+80	2	49	51	-nan	-nan
+80	3	49	51	-nan	-nan
+80	4	49	51	-nan	-nan
+80	5	49	51	-nan	-nan
+81	1	49	54	-nan	-nan
+81	2	49	54	-nan	-nan
+81	3	49	54	-nan	-nan
+81	4	49	54	-nan	-nan
+81	5	49	54	-nan	-nan
+82	1	49	54	-nan	-nan
+82	2	49	54	-nan	-nan
+82	3	49	54	-nan	-nan
+82	4	49	54	-nan	-nan
+82	5	49	54	-nan	-nan
+83	1	49	66	-nan	-nan
+83	2	49	66	-nan	-nan
+83	3	49	66	-nan	-nan
+83	4	49	66	-nan	-nan
+83	5	49	66	-nan	-nan
+84	1	49	66	-nan	-nan
+84	2	49	66	-nan	-nan
+84	3	49	66	-nan	-nan
+84	4	49	66	-nan	-nan
+84	5	49	66	-nan	-nan
+85	1	49	69	-nan	-nan
+85	2	49	69	-nan	-nan
+85	3	49	69	-nan	-nan
+85	4	49	69	-nan	-nan
+85	5	49	69	-nan	-nan
+86	1	50	57	-nan	-nan
+86	2	50	57	-nan	-nan
+86	3	50	57	-nan	-nan
+86	4	50	57	-nan	-nan
+86	5	50	57	-nan	-nan
+87	1	51	52	-nan	-nan
+87	2	51	52	-nan	-nan
+87	3	51	52	-nan	-nan
+87	4	51	52	-nan	-nan
+87	5	51	52	-nan	-nan
+88	1	51	58	-nan	-nan
+88	2	51	58	-nan	-nan
+88	3	51	58	-nan	-nan
+88	4	51	58	-nan	-nan
+88	5	51	58	-nan	-nan
+89	1	52	53	-nan	-nan
+89	2	52	53	-nan	-nan
+89	3	52	53	-nan	-nan
+89	4	52	53	-nan	-nan
+89	5	52	53	-nan	-nan
+90	1	53	54	-nan	-nan
+90	2	53	54	-nan	-nan
+90	3	53	54	-nan	-nan
+90	4	53	54	-nan	-nan
+90	5	53	54	-nan	-nan
+91	1	54	55	-nan	-nan
+91	2	54	55	-nan	-nan
+91	3	54	55	-nan	-nan
+91	4	54	55	-nan	-nan
+91	5	54	55	-nan	-nan
+92	1	54	56	-nan	-nan
+92	2	54	56	-nan	-nan
+92	3	54	56	-nan	-nan
+92	4	54	56	-nan	-nan
+92	5	54	56	-nan	-nan
+93	1	54	59	-nan	-nan
+93	2	54	59	-nan	-nan
+93	3	54	59	-nan	-nan
+93	4	54	59	-nan	-nan
+93	5	54	59	-nan	-nan
+94	1	55	56	-nan	-nan
+94	2	55	56	-nan	-nan
+94	3	55	56	-nan	-nan
+94	4	55	56	-nan	-nan
+94	5	55	56	-nan	-nan
+95	1	55	59	-nan	-nan
+95	2	55	59	-nan	-nan
+95	3	55	59	-nan	-nan
+95	4	55	59	-nan	-nan
+95	5	55	59	-nan	-nan
+96	1	56	57	-nan	-nan
+96	2	56	57	-nan	-nan
+96	3	56	57	-nan	-nan
+96	4	56	57	-nan	-nan
+96	5	56	57	-nan	-nan
+97	1	56	58	-nan	-nan
+97	2	56	58	-nan	-nan
+97	3	56	58	-nan	-nan
+97	4	56	58	-nan	-nan
+97	5	56	58	-nan	-nan
+98	1	56	59	-nan	-nan
+98	2	56	59	-nan	-nan
+98	3	56	59	-nan	-nan
+98	4	56	59	-nan	-nan
+98	5	56	59	-nan	-nan
+99	1	56	59	-nan	-nan
+99	2	56	59	-nan	-nan
+99	3	56	59	-nan	-nan
+99	4	56	59	-nan	-nan
+99	5	56	59	-nan	-nan
+100	1	59	60	-nan	-nan
+100	2	59	60	-nan	-nan
+100	3	59	60	-nan	-nan
+100	4	59	60	-nan	-nan
+100	5	59	60	-nan	-nan
+101	1	59	61	-nan	-nan
+101	2	59	61	-nan	-nan
+101	3	59	61	-nan	-nan
+101	4	59	61	-nan	-nan
+101	5	59	61	-nan	-nan
+102	1	63	59	-nan	-nan
+102	2	63	59	-nan	-nan
+102	3	63	59	-nan	-nan
+102	4	63	59	-nan	-nan
+102	5	63	59	-nan	-nan
+103	1	60	61	-nan	-nan
+103	2	60	61	-nan	-nan
+103	3	60	61	-nan	-nan
+103	4	60	61	-nan	-nan
+103	5	60	61	-nan	-nan
+104	1	60	62	-nan	-nan
+104	2	60	62	-nan	-nan
+104	3	60	62	-nan	-nan
+104	4	60	62	-nan	-nan
+104	5	60	62	-nan	-nan
+105	1	61	62	-nan	-nan
+105	2	61	62	-nan	-nan
+105	3	61	62	-nan	-nan
+105	4	61	62	-nan	-nan
+105	5	61	62	-nan	-nan
+106	1	64	61	-nan	-nan
+106	2	64	61	-nan	-nan
+106	3	64	61	-nan	-nan
+106	4	64	61	-nan	-nan
+106	5	64	61	-nan	-nan
+107	1	62	66	-nan	-nan
+107	2	62	66	-nan	-nan
+107	3	62	66	-nan	-nan
+107	4	62	66	-nan	-nan
+107	5	62	66	-nan	-nan
+108	1	62	67	-nan	-nan
+108	2	62	67	-nan	-nan
+108	3	62	67	-nan	-nan
+108	4	62	67	-nan	-nan
+108	5	62	67	-nan	-nan
+109	1	63	64	-nan	-nan
+109	2	63	64	-nan	-nan
+109	3	63	64	-nan	-nan
+109	4	63	64	-nan	-nan
+109	5	63	64	-nan	-nan
+110	1	64	65	-nan	-nan
+110	2	64	65	-nan	-nan
+110	3	64	65	-nan	-nan
+110	4	64	65	-nan	-nan
+110	5	64	65	-nan	-nan
+111	1	65	66	-nan	-nan
+111	2	65	66	-nan	-nan
+111	3	65	66	-nan	-nan
+111	4	65	66	-nan	-nan
+111	5	65	66	-nan	-nan
+112	1	65	68	-nan	-nan
+112	2	65	68	-nan	-nan
+112	3	65	68	-nan	-nan
+112	4	65	68	-nan	-nan
+112	5	65	68	-nan	-nan
+113	1	66	67	-nan	-nan
+113	2	66	67	-nan	-nan
+113	3	66	67	-nan	-nan
+113	4	66	67	-nan	-nan
+113	5	66	67	-nan	-nan
+114	1	68	69	-nan	-nan
+114	2	68	69	-nan	-nan
+114	3	68	69	-nan	-nan
+114	4	68	69	-nan	-nan
+114	5	68	69	-nan	-nan
+115	1	68	81	-nan	-nan
+115	2	68	81	-nan	-nan
+115	3	68	81	-nan	-nan
+115	4	68	81	-nan	-nan
+115	5	68	81	-nan	-nan
+116	1	68	116	-nan	-nan
+116	2	68	116	-nan	-nan
+116	3	68	116	-nan	-nan
+116	4	68	116	-nan	-nan
+116	5	68	116	-nan	-nan
+117	1	69	70	-nan	-nan
+117	2	69	70	-nan	-nan
+117	3	69	70	-nan	-nan
+117	4	69	70	-nan	-nan
+117	5	69	70	-nan	-nan
+118	1	69	75	-nan	-nan
+118	2	69	75	-nan	-nan
+118	3	69	75	-nan	-nan
+118	4	69	75	-nan	-nan
+118	5	69	75	-nan	-nan
+119	1	69	77	-nan	-nan
+119	2	69	77	-nan	-nan
+119	3	69	77	-nan	-nan
+119	4	69	77	-nan	-nan
+119	5	69	77	-nan	-nan
+120	1	70	71	-nan	-nan
+120	2	70	71	-nan	-nan
+120	3	70	71	-nan	-nan
+120	4	70	71	-nan	-nan
+120	5	70	71	-nan	-nan
+121	1	70	74	-nan	-nan
+121	2	70	74	-nan	-nan
+121	3	70	74	-nan	-nan
+121	4	70	74	-nan	-nan
+121	5	70	74	-nan	-nan
+122	1	70	75	-nan	-nan
+122	2	70	75	-nan	-nan
+122	3	70	75	-nan	-nan
+122	4	70	75	-nan	-nan
+122	5	70	75	-nan	-nan
+123	1	71	72	-nan	-nan
+123	2	71	72	-nan	-nan
+123	3	71	72	-nan	-nan
+123	4	71	72	-nan	-nan
+123	5	71	72	-nan	-nan
+124	1	71	73	-nan	-nan
+124	2	71	73	-nan	-nan
+124	3	71	73	-nan	-nan
+124	4	71	73	-nan	-nan
+124	5	71	73	-nan	-nan
+125	1	74	75	-nan	-nan
+125	2	74	75	-nan	-nan
+125	3	74	75	-nan	-nan
+125	4	74	75	-nan	-nan
+125	5	74	75	-nan	-nan
+126	1	75	77	-nan	-nan
+126	2	75	77	-nan	-nan
+126	3	75	77	-nan	-nan
+126	4	75	77	-nan	-nan
+126	5	75	77	-nan	-nan
+127	1	75	118	-nan	-nan
+127	2	75	118	-nan	-nan
+127	3	75	118	-nan	-nan
+127	4	75	118	-nan	-nan
+127	5	75	118	-nan	-nan
+128	1	76	77	-nan	-nan
+128	2	76	77	-nan	-nan
+128	3	76	77	-nan	-nan
+128	4	76	77	-nan	-nan
+128	5	76	77	-nan	-nan
+129	1	76	118	-nan	-nan
+129	2	76	118	-nan	-nan
+129	3	76	118	-nan	-nan
+129	4	76	118	-nan	-nan
+129	5	76	118	-nan	-nan
+130	1	77	78	-nan	-nan
+130	2	77	78	-nan	-nan
+130	3	77	78	-nan	-nan
+130	4	77	78	-nan	-nan
+130	5	77	78	-nan	-nan
+131	1	77	80	-nan	-nan
+131	2	77	80	-nan	-nan
+131	3	77	80	-nan	-nan
+131	4	77	80	-nan	-nan
+131	5	77	80	-nan	-nan
+132	1	77	80	-nan	-nan
+132	2	77	80	-nan	-nan
+132	3	77	80	-nan	-nan
+132	4	77	80	-nan	-nan
+132	5	77	80	-nan	-nan
+133	1	77	82	-nan	-nan
+133	2	77	82	-nan	-nan
+133	3	77	82	-nan	-nan
+133	4	77	82	-nan	-nan
+133	5	77	82	-nan	-nan
+134	1	78	79	-nan	-nan
+134	2	78	79	-nan	-nan
+134	3	78	79	-nan	-nan
+134	4	78	79	-nan	-nan
+134	5	78	79	-nan	-nan
+135	1	79	80	-nan	-nan
+135	2	79	80	-nan	-nan
+135	3	79	80	-nan	-nan
+135	4	79	80	-nan	-nan
+135	5	79	80	-nan	-nan
+136	1	81	80	-nan	-nan
+136	2	81	80	-nan	-nan
+136	3	81	80	-nan	-nan
+136	4	81	80	-nan	-nan
+136	5	81	80	-nan	-nan
+137	1	80	96	-nan	-nan
+137	2	80	96	-nan	-nan
+137	3	80	96	-nan	-nan
+137	4	80	96	-nan	-nan
+137	5	80	96	-nan	-nan
+138	1	80	97	-nan	-nan
+138	2	80	97	-nan	-nan
+138	3	80	97	-nan	-nan
+138	4	80	97	-nan	-nan
+138	5	80	97	-nan	-nan
+139	1	80	98	-nan	-nan
+139	2	80	98	-nan	-nan
+139	3	80	98	-nan	-nan
+139	4	80	98	-nan	-nan
+139	5	80	98	-nan	-nan
+140	1	80	99	-nan	-nan
+140	2	80	99	-nan	-nan
+140	3	80	99	-nan	-nan
+140	4	80	99	-nan	-nan
+140	5	80	99	-nan	-nan
+141	1	82	83	-nan	-nan
+141	2	82	83	-nan	-nan
+141	3	82	83	-nan	-nan
+141	4	82	83	-nan	-nan
+141	5	82	83	-nan	-nan
+142	1	82	96	-nan	-nan
+142	2	82	96	-nan	-nan
+142	3	82	96	-nan	-nan
+142	4	82	96	-nan	-nan
+142	5	82	96	-nan	-nan
+143	1	83	84	-nan	-nan
+143	2	83	84	-nan	-nan
+143	3	83	84	-nan	-nan
+143	4	83	84	-nan	-nan
+143	5	83	84	-nan	-nan
+144	1	83	85	-nan	-nan
+144	2	83	85	-nan	-nan
+144	3	83	85	-nan	-nan
+144	4	83	85	-nan	-nan
+144	5	83	85	-nan	-nan
+145	1	84	85	-nan	-nan
+145	2	84	85	-nan	-nan
+145	3	84	85	-nan	-nan
+145	4	84	85	-nan	-nan
+145	5	84	85	-nan	-nan
+146	1	85	86	-nan	-nan
+146	2	85	86	-nan	-nan
+146	3	85	86	-nan	-nan
+146	4	85	86	-nan	-nan
+146	5	85	86	-nan	-nan
+147	1	85	88	-nan	-nan
+147	2	85	88	-nan	-nan
+147	3	85	88	-nan	-nan
+147	4	85	88	-nan	-nan
+147	5	85	88	-nan	-nan
+148	1	85	89	-nan	-nan
+148	2	85	89	-nan	-nan
+148	3	85	89	-nan	-nan
+148	4	85	89	-nan	-nan
+148	5	85	89	-nan	-nan
+149	1	86	87	-nan	-nan
+149	2	86	87	-nan	-nan
+149	3	86	87	-nan	-nan
+149	4	86	87	-nan	-nan
+149	5	86	87	-nan	-nan
+150	1	88	89	-nan	-nan
+150	2	88	89	-nan	-nan
+150	3	88	89	-nan	-nan
+150	4	88	89	-nan	-nan
+150	5	88	89	-nan	-nan
+151	1	89	90	-nan	-nan
+151	2	89	90	-nan	-nan
+151	3	89	90	-nan	-nan
+151	4	89	90	-nan	-nan
+151	5	89	90	-nan	-nan
+152	1	89	90	-nan	-nan
+152	2	89	90	-nan	-nan
+152	3	89	90	-nan	-nan
+152	4	89	90	-nan	-nan
+152	5	89	90	-nan	-nan
+153	1	89	92	-nan	-nan
+153	2	89	92	-nan	-nan
+153	3	89	92	-nan	-nan
+153	4	89	92	-nan	-nan
+153	5	89	92	-nan	-nan
+154	1	89	92	-nan	-nan
+154	2	89	92	-nan	-nan
+154	3	89	92	-nan	-nan
+154	4	89	92	-nan	-nan
+154	5	89	92	-nan	-nan
+155	1	90	91	-nan	-nan
+155	2	90	91	-nan	-nan
+155	3	90	91	-nan	-nan
+155	4	90	91	-nan	-nan
+155	5	90	91	-nan	-nan
+156	1	91	92	-nan	-nan
+156	2	91	92	-nan	-nan
+156	3	91	92	-nan	-nan
+156	4	91	92	-nan	-nan
+156	5	91	92	-nan	-nan
+157	1	92	93	-nan	-nan
+157	2	92	93	-nan	-nan
+157	3	92	93	-nan	-nan
+157	4	92	93	-nan	-nan
+157	5	92	93	-nan	-nan
+158	1	92	94	-nan	-nan
+158	2	92	94	-nan	-nan
+158	3	92	94	-nan	-nan
+158	4	92	94	-nan	-nan
+158	5	92	94	-nan	-nan
+159	1	92	100	-nan	-nan
+159	2	92	100	-nan	-nan
+159	3	92	100	-nan	-nan
+159	4	92	100	-nan	-nan
+159	5	92	100	-nan	-nan
+160	1	92	102	-nan	-nan
+160	2	92	102	-nan	-nan
+160	3	92	102	-nan	-nan
+160	4	92	102	-nan	-nan
+160	5	92	102	-nan	-nan
+161	1	93	94	-nan	-nan
+161	2	93	94	-nan	-nan
+161	3	93	94	-nan	-nan
+161	4	93	94	-nan	-nan
+161	5	93	94	-nan	-nan
+162	1	94	95	-nan	-nan
+162	2	94	95	-nan	-nan
+162	3	94	95	-nan	-nan
+162	4	94	95	-nan	-nan
+162	5	94	95	-nan	-nan
+163	1	94	96	-nan	-nan
+163	2	94	96	-nan	-nan
+163	3	94	96	-nan	-nan
+163	4	94	96	-nan	-nan
+163	5	94	96	-nan	-nan
+164	1	94	100	-nan	-nan
+164	2	94	100	-nan	-nan
+164	3	94	100	-nan	-nan
+164	4	94	100	-nan	-nan
+164	5	94	100	-nan	-nan
+165	1	95	96	-nan	-nan
+165	2	95	96	-nan	-nan
+165	3	95	96	-nan	-nan
+165	4	95	96	-nan	-nan
+165	5	95	96	-nan	-nan
+166	1	96	97	-nan	-nan
+166	2	96	97	-nan	-nan
+166	3	96	97	-nan	-nan
+166	4	96	97	-nan	-nan
+166	5	96	97	-nan	-nan
+167	1	98	100	-nan	-nan
+167	2	98	100	-nan	-nan
+167	3	98	100	-nan	-nan
+167	4	98	100	-nan	-nan
+167	5	98	100	-nan	-nan
+168	1	99	100	-nan	-nan
+168	2	99	100	-nan	-nan
+168	3	99	100	-nan	-nan
+168	4	99	100	-nan	-nan
+168	5	99	100	-nan	-nan
+169	1	100	101	-nan	-nan
+169	2	100	101	-nan	-nan
+169	3	100	101	-nan	-nan
+169	4	100	101	-nan	-nan
+169	5	100	101	-nan	-nan
+170	1	100	103	-nan	-nan
+170	2	100	103	-nan	-nan
+170	3	100	103	-nan	-nan
+170	4	100	103	-nan	-nan
+170	5	100	103	-nan	-nan
+171	1	100	104	-nan	-nan
+171	2	100	104	-nan	-nan
+171	3	100	104	-nan	-nan
+171	4	100	104	-nan	-nan
+171	5	100	104	-nan	-nan
+172	1	100	106	-nan	-nan
+172	2	100	106	-nan	-nan
+172	3	100	106	-nan	-nan
+172	4	100	106	-nan	-nan
+172	5	100	106	-nan	-nan
+173	1	101	102	-nan	-nan
+173	2	101	102	-nan	-nan
+173	3	101	102	-nan	-nan
+173	4	101	102	-nan	-nan
+173	5	101	102	-nan	-nan
+174	1	103	104	-nan	-nan
+174	2	103	104	-nan	-nan
+174	3	103	104	-nan	-nan
+174	4	103	104	-nan	-nan
+174	5	103	104	-nan	-nan
+175	1	103	105	-nan	-nan
+175	2	103	105	-nan	-nan
+175	3	103	105	-nan	-nan
+175	4	103	105	-nan	-nan
+175	5	103	105	-nan	-nan
+176	1	103	110	-nan	-nan
+176	2	103	110	-nan	-nan
+176	3	103	110	-nan	-nan
+176	4	103	110	-nan	-nan
+176	5	103	110	-nan	-nan
+177	1	104	105	-nan	-nan
+177	2	104	105	-nan	-nan
+177	3	104	105	-nan	-nan
+177	4	104	105	-nan	-nan
+177	5	104	105	-nan	-nan
+178	1	105	106	-nan	-nan
+178	2	105	106	-nan	-nan
+178	3	105	106	-nan	-nan
+178	4	105	106	-nan	-nan
+178	5	105	106	-nan	-nan
+179	1	105	107	-nan	-nan
+179	2	105	107	-nan	-nan
+179	3	105	107	-nan	-nan
+179	4	105	107	-nan	-nan
+179	5	105	107	-nan	-nan
+180	1	105	108	-nan	-nan
+180	2	105	108	-nan	-nan
+180	3	105	108	-nan	-nan
+180	4	105	108	-nan	-nan
+180	5	105	108	-nan	-nan
+181	1	106	107	-nan	-nan
+181	2	106	107	-nan	-nan
+181	3	106	107	-nan	-nan
+181	4	106	107	-nan	-nan
+181	5	106	107	-nan	-nan
+182	1	108	109	-nan	-nan
+182	2	108	109	-nan	-nan
+182	3	108	109	-nan	-nan
+182	4	108	109	-nan	-nan
+182	5	108	109	-nan	-nan
+183	1	109	110	-nan	-nan
+183	2	109	110	-nan	-nan
+183	3	109	110	-nan	-nan
+183	4	109	110	-nan	-nan
+183	5	109	110	-nan	-nan
+184	1	110	111	-nan	-nan
+184	2	110	111	-nan	-nan
+184	3	110	111	-nan	-nan
+184	4	110	111	-nan	-nan
+184	5	110	111	-nan	-nan
+185	1	110	112	-nan	-nan
+185	2	110	112	-nan	-nan
+185	3	110	112	-nan	-nan
+185	4	110	112	-nan	-nan
+185	5	110	112	-nan	-nan
+186	1	114	115	-nan	-nan
+186	2	114	115	-nan	-nan
+186	3	114	115	-nan	-nan
+186	4	114	115	-nan	-nan
+186	5	114	115	-nan	-nan

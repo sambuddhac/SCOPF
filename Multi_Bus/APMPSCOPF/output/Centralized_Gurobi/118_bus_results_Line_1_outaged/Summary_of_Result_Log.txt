@@ -1,0 +1,7981 @@
+
+Total Number of Structural Constraints (Rows) is: 1086
+
+Total Number of Decision Variables (Columns) is: 290
+
+Total number of columns after accounting for Power Generation continuous variables for different generators: 55
+
+Total number of columns after accounting for Voltage Phase Angles continuous variables for different intrazonal nodes: 291
+
+Total Number of columns for generation, angles: 290
+
+Decision Variables and Objective Function defined
+
+Total Number of columns: 290
+
+Non-zero elements of A matrix
+
+Row Number	Column Number	Non-zero Entry	From Reactance	ToReactance
+
+Coefficients for the supply-demand balance constraints
+Constraints corresponding to Supply-Demand Balance right hand side
+
+Generation	1
+
+1	1	1
+
+Intrazonal Node Angles	1
+
+1	55	-33.5949	-33.5949	-0
+
+Connected Intrazonal Node Angles	1
+
+1	56	10.01
+
+1	57	23.5849
+Connected load to node 1 is -51 MW
+1	51 MW
+
+Generation	2
+
+Intrazonal Node Angles	2
+
+2	56	-6.22376	-16.2338	10.01
+
+Connected Intrazonal Node Angles	2
+
+2	55	-10.01
+
+2	66	16.2338
+Connected load to node 2 is -20 MW
+2	20 MW
+
+Generation	3
+
+Intrazonal Node Angles	3
+
+3	57	8.07565	-15.5093	23.5849
+
+Connected Intrazonal Node Angles	3
+
+3	55	-23.5849
+
+3	59	9.25926
+
+3	66	6.25
+Connected load to node 3 is -39 MW
+3	39 MW
+
+Generation	4
+
+4	2	1
+
+Intrazonal Node Angles	4
+
+4	58	-139.848	-139.848	-0
+
+Connected Intrazonal Node Angles	4
+
+4	59	125.313
+
+4	65	14.5349
+Connected load to node 4 is -30 MW
+4	30 MW
+
+Generation	5
+
+Intrazonal Node Angles	5
+
+5	59	138.844	-33.1813	172.026
+
+Connected Intrazonal Node Angles	5
+
+5	57	-9.25926
+
+5	58	-125.313
+
+5	60	18.5185
+
+5	62	-37.4532
+
+5	65	14.6628
+Connected load to node 5 is 0 MW
+5	0 MW
+
+Generation	6
+
+6	3	1
+
+Intrazonal Node Angles	6
+
+6	60	-29.5584	-48.0769	18.5185
+
+Connected Intrazonal Node Angles	6
+
+6	59	-18.5185
+
+6	61	48.0769
+Connected load to node 6 is -52 MW
+6	52 MW
+
+Generation	7
+
+Intrazonal Node Angles	7
+
+7	61	18.6652	-29.4118	48.0769
+
+Connected Intrazonal Node Angles	7
+
+7	60	-48.0769
+
+7	66	29.4118
+Connected load to node 7 is -19 MW
+7	19 MW
+
+Generation	8
+
+8	4	1
+
+Intrazonal Node Angles	8
+
+8	62	-90.0813	-90.0813	-0
+
+Connected Intrazonal Node Angles	8
+
+8	59	37.4532
+
+8	63	32.7869
+
+8	84	19.8413
+Connected load to node 8 is 0 MW
+8	0 MW
+
+Generation	9
+
+Intrazonal Node Angles	9
+
+9	63	1.73098	-31.0559	32.7869
+
+Connected Intrazonal Node Angles	9
+
+9	62	-32.7869
+
+9	64	31.0559
+Connected load to node 9 is 0 MW
+9	0 MW
+
+Generation	10
+
+10	5	1
+
+Intrazonal Node Angles	10
+
+10	64	31.0559	-0	31.0559
+
+Connected Intrazonal Node Angles	10
+
+10	63	-31.0559
+Connected load to node 10 is 0 MW
+10	0 MW
+
+Generation	11
+
+Intrazonal Node Angles	11
+
+11	65	-35.5027	-64.7003	29.1976
+
+Connected Intrazonal Node Angles	11
+
+11	58	-14.5349
+
+11	59	-14.6628
+
+11	66	51.0204
+
+11	67	13.6799
+Connected load to node 11 is -70 MW
+11	70 MW
+
+Generation	12
+
+12	6	1
+
+Intrazonal Node Angles	12
+
+12	66	69.6384	-33.2775	102.916
+
+Connected Intrazonal Node Angles	12
+
+12	56	-16.2338
+
+12	57	-6.25
+
+12	61	-29.4118
+
+12	65	-51.0204
+
+12	68	14.1443
+
+12	70	11.9904
+
+12	171	7.14286
+Connected load to node 12 is -47 MW
+12	47 MW
+
+Generation	13
+
+Intrazonal Node Angles	13
+
+13	67	9.58824	-4.09165	13.6799
+
+Connected Intrazonal Node Angles	13
+
+13	65	-13.6799
+
+13	69	4.09165
+Connected load to node 13 is -34 MW
+13	34 MW
+
+Generation	14
+
+Intrazonal Node Angles	14
+
+14	68	9.01607	-5.12821	14.1443
+
+Connected Intrazonal Node Angles	14
+
+14	66	-14.1443
+
+14	69	5.12821
+Connected load to node 14 is -14 MW
+14	14 MW
+
+Generation	15
+
+15	7	1
+
+Intrazonal Node Angles	15
+
+15	69	-47.0827	-56.3026	9.21986
+
+Connected Intrazonal Node Angles	15
+
+15	67	-4.09165
+
+15	68	-5.12821
+
+15	71	22.8833
+
+15	73	25.3807
+
+15	87	8.03859
+Connected load to node 15 is -90 MW
+15	90 MW
+
+Generation	16
+
+Intrazonal Node Angles	16
+
+16	70	6.43794	-5.55247	11.9904
+
+Connected Intrazonal Node Angles	16
+
+16	66	-11.9904
+
+16	71	5.55247
+Connected load to node 16 is -25 MW
+16	25 MW
+
+Generation	17
+
+Intrazonal Node Angles	17
+
+17	71	-5.21356	-59.4225	54.209
+
+Connected Intrazonal Node Angles	17
+
+17	69	-22.8833
+
+17	70	-5.55247
+
+17	72	19.802
+
+17	84	-25.7732
+
+17	85	6.39795
+
+17	167	33.2226
+Connected load to node 17 is -11 MW
+17	11 MW
+
+Generation	18
+
+18	8	1
+
+Intrazonal Node Angles	18
+
+18	72	-0.481995	-20.284	19.802
+
+Connected Intrazonal Node Angles	18
+
+18	71	-19.802
+
+18	73	20.284
+Connected load to node 18 is -60 MW
+18	60 MW
+
+Generation	19
+
+19	9	1
+
+Intrazonal Node Angles	19
+
+19	73	33.0691	-12.5956	45.6647
+
+Connected Intrazonal Node Angles	19
+
+19	69	-25.3807
+
+19	72	-20.284
+
+19	74	8.54701
+
+19	88	4.04858
+Connected load to node 19 is -45 MW
+19	45 MW
+
+Generation	20
+
+Intrazonal Node Angles	20
+
+20	74	-3.23155	-11.7786	8.54701
+
+Connected Intrazonal Node Angles	20
+
+20	73	-8.54701
+
+20	75	11.7786
+Connected load to node 20 is -18 MW
+20	18 MW
+
+Generation	21
+
+Intrazonal Node Angles	21
+
+21	75	1.46928	-10.3093	11.7786
+
+Connected Intrazonal Node Angles	21
+
+21	74	-11.7786
+
+21	76	10.3093
+Connected load to node 21 is -14 MW
+21	14 MW
+
+Generation	22
+
+Intrazonal Node Angles	22
+
+22	76	4.01997	-6.28931	10.3093
+
+Connected Intrazonal Node Angles	22
+
+22	75	-10.3093
+
+22	77	6.28931
+Connected load to node 22 is -10 MW
+22	10 MW
+
+Generation	23
+
+Intrazonal Node Angles	23
+
+23	77	-35.2089	-41.4982	6.28931
+
+Connected Intrazonal Node Angles	23
+
+23	76	-6.28931
+
+23	78	20.3252
+
+23	79	12.5
+
+23	86	8.67303
+Connected load to node 23 is -7 MW
+23	7 MW
+
+Generation	24
+
+24	10	1
+
+Intrazonal Node Angles	24
+
+24	78	12.793	-7.53217	20.3252
+
+Connected Intrazonal Node Angles	24
+
+24	77	-20.3252
+
+24	124	2.43013
+
+24	126	5.10204
+Connected load to node 24 is 0 MW
+24	0 MW
+
+Generation	25
+
+25	11	1
+
+Intrazonal Node Angles	25
+
+25	79	32.543	-6.13497	38.678
+
+Connected Intrazonal Node Angles	25
+
+25	77	-12.5
+
+25	80	-26.178
+
+25	81	6.13497
+Connected load to node 25 is 0 MW
+25	0 MW
+
+Generation	26
+
+26	12	1
+
+Intrazonal Node Angles	26
+
+26	80	-37.8059	-37.8059	-0
+
+Connected Intrazonal Node Angles	26
+
+26	79	26.178
+
+26	84	11.6279
+Connected load to node 26 is 0 MW
+26	0 MW
+
+Generation	27
+
+27	13	1
+
+Intrazonal Node Angles	27
+
+27	81	-32.3012	-38.4362	6.13497
+
+Connected Intrazonal Node Angles	27
+
+27	79	-6.13497
+
+27	82	11.6959
+
+27	86	13.245
+
+27	169	13.4953
+Connected load to node 27 is -62 MW
+27	62 MW
+
+Generation	28
+
+Intrazonal Node Angles	28
+
+28	82	1.09145	-10.6045	11.6959
+
+Connected Intrazonal Node Angles	28
+
+28	81	-11.6959
+
+28	83	10.6045
+Connected load to node 28 is -17 MW
+28	17 MW
+
+Generation	29
+
+Intrazonal Node Angles	29
+
+29	83	-19.607	-30.2115	10.6045
+
+Connected Intrazonal Node Angles	29
+
+29	82	-10.6045
+
+29	85	30.2115
+Connected load to node 29 is -24 MW
+29	24 MW
+
+Generation	30
+
+Intrazonal Node Angles	30
+
+30	84	-12.8225	-44.2917	31.4692
+
+Connected Intrazonal Node Angles	30
+
+30	62	-19.8413
+
+30	71	25.7732
+
+30	80	-11.6279
+
+30	92	18.5185
+Connected load to node 30 is 0 MW
+30	0 MW
+
+Generation	31
+
+31	14	1
+
+Intrazonal Node Angles	31
+
+31	85	26.4571	-10.1523	36.6094
+
+Connected Intrazonal Node Angles	31
+
+31	71	-6.39795
+
+31	83	-30.2115
+
+31	86	10.1523
+Connected load to node 31 is -43 MW
+31	43 MW
+
+Generation	32
+
+32	15	1
+
+Intrazonal Node Angles	32
+
+32	86	10.8044	-21.266	32.0703
+
+Connected Intrazonal Node Angles	32
+
+32	77	-8.67303
+
+32	81	-13.245
+
+32	85	-10.1523
+
+32	167	4.92611
+
+32	168	16.3399
+Connected load to node 32 is -59 MW
+32	59 MW
+
+Generation	33
+
+Intrazonal Node Angles	33
+
+33	87	0.996332	-7.04225	8.03859
+
+Connected Intrazonal Node Angles	33
+
+33	69	-8.03859
+
+33	91	7.04225
+Connected load to node 33 is -23 MW
+33	23 MW
+
+Generation	34
+
+34	16	1
+
+Intrazonal Node Angles	34
+
+34	88	-145.597	-149.645	4.04858
+
+Connected Intrazonal Node Angles	34
+
+34	73	-4.04858
+
+34	90	37.3134
+
+34	91	106.383
+
+34	97	5.94884
+Connected load to node 34 is -59 MW
+34	59 MW
+
+Generation	35
+
+Intrazonal Node Angles	35
+
+35	89	-118.16	-118.16	-0
+
+Connected Intrazonal Node Angles	35
+
+35	90	98.0392
+
+35	91	20.1207
+Connected load to node 35 is -33 MW
+35	33 MW
+
+Generation	36
+
+36	17	1
+
+Intrazonal Node Angles	36
+
+36	90	135.353	-0	135.353
+
+Connected Intrazonal Node Angles	36
+
+36	88	-37.3134
+
+36	89	-98.0392
+Connected load to node 36 is -31 MW
+36	31 MW
+
+Generation	37
+
+Intrazonal Node Angles	37
+
+37	91	144.826	-15.3863	160.213
+
+Connected Intrazonal Node Angles	37
+
+37	87	-7.04225
+
+37	88	-106.383
+
+37	89	-20.1207
+
+37	92	-26.6667
+
+37	93	9.43396
+
+37	94	5.95238
+Connected load to node 37 is 0 MW
+37	0 MW
+
+Generation	38
+
+Intrazonal Node Angles	38
+
+38	92	-18.2901	-36.8087	18.5185
+
+Connected Intrazonal Node Angles	38
+
+38	84	-18.5185
+
+38	91	26.6667
+
+38	119	10.142
+Connected load to node 38 is 0 MW
+38	0 MW
+
+Generation	39
+
+Intrazonal Node Angles	39
+
+39	93	-7.09496	-16.5289	9.43396
+
+Connected Intrazonal Node Angles	39
+
+39	91	-9.43396
+
+39	94	16.5289
+Connected load to node 39 is -27 MW
+39	27 MW
+
+Generation	40
+
+40	18	1
+
+Intrazonal Node Angles	40
+
+40	94	-3.51706	-25.9984	22.4813
+
+Connected Intrazonal Node Angles	40
+
+40	91	-5.95238
+
+40	93	-16.5289
+
+40	95	20.5339
+
+40	96	5.46448
+Connected load to node 40 is -20 MW
+40	20 MW
+
+Generation	41
+
+Intrazonal Node Angles	41
+
+41	95	13.1265	-7.40741	20.5339
+
+Connected Intrazonal Node Angles	41
+
+41	94	-20.5339
+
+41	96	7.40741
+Connected load to node 41 is -37 MW
+41	37 MW
+
+Generation	42
+
+42	19	1
+
+Intrazonal Node Angles	42
+
+42	96	6.67994	-6.19195	12.8719
+
+Connected Intrazonal Node Angles	42
+
+42	94	-5.46448
+
+42	95	-7.40741
+
+42	103	6.19195
+Connected load to node 42 is -37 MW
+42	37 MW
+
+Generation	43
+
+Intrazonal Node Angles	43
+
+43	97	1.87386	-4.07498	5.94884
+
+Connected Intrazonal Node Angles	43
+
+43	88	-5.94884
+
+43	98	4.07498
+Connected load to node 43 is -18 MW
+43	18 MW
+
+Generation	44
+
+Intrazonal Node Angles	44
+
+44	98	-7.0238	-11.0988	4.07498
+
+Connected Intrazonal Node Angles	44
+
+44	97	-4.07498
+
+44	99	11.0988
+Connected load to node 44 is -16 MW
+44	16 MW
+
+Generation	45
+
+Intrazonal Node Angles	45
+
+45	99	-1.6522	-12.751	11.0988
+
+Connected Intrazonal Node Angles	45
+
+45	98	-11.0988
+
+45	100	7.37463
+
+45	103	5.37634
+Connected load to node 45 is -53 MW
+45	53 MW
+
+Generation	46
+
+46	20	1
+
+Intrazonal Node Angles	46
+
+46	100	-5.79039	-13.165	7.37463
+
+Connected Intrazonal Node Angles	46
+
+46	99	-7.37463
+
+46	101	7.87402
+
+46	102	5.29101
+Connected load to node 46 is -28 MW
+46	28 MW
+
+Generation	47
+
+Intrazonal Node Angles	47
+
+47	101	-11.7257	-19.5997	7.87402
+
+Connected Intrazonal Node Angles	47
+
+47	100	-7.87402
+
+47	103	16
+
+47	123	3.59971
+Connected load to node 47 is -34 MW
+47	34 MW
+
+Generation	48
+
+Intrazonal Node Angles	48
+
+48	102	-14.511	-19.802	5.29101
+
+Connected Intrazonal Node Angles	48
+
+48	100	-5.29101
+
+48	103	19.802
+Connected load to node 48 is -20 MW
+48	20 MW
+
+Generation	49
+
+49	21	1
+
+Intrazonal Node Angles	49
+
+49	103	-4.97271	-52.343	47.3703
+
+Connected Intrazonal Node Angles	49
+
+49	96	-6.19195
+
+49	99	-5.37634
+
+49	101	-16
+
+49	102	-19.802
+
+49	104	13.2979
+
+49	105	7.29927
+
+49	108	6.89663
+
+49	120	21.7628
+
+49	123	3.08642
+Connected load to node 49 is -87 MW
+49	87 MW
+
+Generation	50
+
+Intrazonal Node Angles	50
+
+50	104	5.83519	-7.46269	13.2979
+
+Connected Intrazonal Node Angles	50
+
+50	103	-13.2979
+
+50	111	7.46269
+Connected load to node 50 is -17 MW
+50	17 MW
+
+Generation	51
+
+Intrazonal Node Angles	51
+
+51	105	-23.6157	-30.915	7.29927
+
+Connected Intrazonal Node Angles	51
+
+51	103	-7.29927
+
+51	106	17.0068
+
+51	112	13.9082
+Connected load to node 51 is -17 MW
+51	17 MW
+
+Generation	52
+
+Intrazonal Node Angles	52
+
+52	106	10.8906	-6.11621	17.0068
+
+Connected Intrazonal Node Angles	52
+
+52	105	-17.0068
+
+52	107	6.11621
+Connected load to node 52 is -18 MW
+52	18 MW
+
+Generation	53
+
+Intrazonal Node Angles	53
+
+53	107	-2.08051	-8.19672	6.11621
+
+Connected Intrazonal Node Angles	53
+
+53	106	-6.11621
+
+53	108	8.19672
+Connected load to node 53 is -23 MW
+53	23 MW
+
+Generation	54
+
+54	22	1
+
+Intrazonal Node Angles	54
+
+54	108	-108.124	-123.217	15.0934
+
+Connected Intrazonal Node Angles	54
+
+54	103	-6.89663
+
+54	107	-8.19672
+
+54	109	14.1443
+
+54	110	104.712
+
+54	113	4.3611
+Connected load to node 54 is -113 MW
+54	113 MW
+
+Generation	55
+
+55	23	1
+
+Intrazonal Node Angles	55
+
+55	109	-56.7148	-70.8591	14.1443
+
+Connected Intrazonal Node Angles	55
+
+55	108	-14.1443
+
+55	110	66.2252
+
+55	113	4.63392
+Connected load to node 55 is -63 MW
+55	63 MW
+
+Generation	56
+
+56	24	1
+
+Intrazonal Node Angles	56
+
+56	110	142.065	-28.8721	170.937
+
+Connected Intrazonal Node Angles	56
+
+56	108	-104.712
+
+56	109	-66.2252
+
+56	111	10.352
+
+56	112	10.352
+
+56	113	8.16816
+Connected load to node 56 is -84 MW
+56	84 MW
+
+Generation	57
+
+Intrazonal Node Angles	57
+
+57	111	17.8147	-0	17.8147
+
+Connected Intrazonal Node Angles	57
+
+57	104	-7.46269
+
+57	110	-10.352
+Connected load to node 57 is -12 MW
+57	12 MW
+
+Generation	58
+
+Intrazonal Node Angles	58
+
+58	112	24.2602	-0	24.2602
+
+Connected Intrazonal Node Angles	58
+
+58	105	-13.9082
+
+58	110	-10.352
+Connected load to node 58 is -12 MW
+58	12 MW
+
+Generation	59
+
+59	25	1
+
+Intrazonal Node Angles	59
+
+59	113	29.5067	-13.5632	43.0699
+
+Connected Intrazonal Node Angles	59
+
+59	108	-4.3611
+
+59	109	-4.63392
+
+59	110	-8.16816
+
+59	114	6.89655
+
+59	115	6.66667
+
+59	117	-25.9067
+Connected load to node 59 is -277 MW
+59	277 MW
+
+Generation	60
+
+Intrazonal Node Angles	60
+
+60	114	-85.0028	-91.8994	6.89655
+
+Connected Intrazonal Node Angles	60
+
+60	113	-6.89655
+
+60	115	74.0741
+
+60	116	17.8253
+Connected load to node 60 is -78 MW
+60	78 MW
+
+Generation	61
+
+61	26	1
+
+Intrazonal Node Angles	61
+
+61	115	91.4584	-26.5957	118.054
+
+Connected Intrazonal Node Angles	61
+
+61	113	-6.66667
+
+61	114	-74.0741
+
+61	116	26.5957
+
+61	118	-37.3134
+Connected load to node 61 is 0 MW
+61	0 MW
+
+Generation	62
+
+62	27	1
+
+Intrazonal Node Angles	62
+
+62	116	31.2869	-13.1342	44.4211
+
+Connected Intrazonal Node Angles	62
+
+62	114	-17.8253
+
+62	115	-26.5957
+
+62	120	4.58716
+
+62	121	8.54701
+Connected load to node 62 is -77 MW
+62	77 MW
+
+Generation	63
+
+Intrazonal Node Angles	63
+
+63	117	-75.9067	-75.9067	-0
+
+Connected Intrazonal Node Angles	63
+
+63	113	25.9067
+
+63	118	50
+Connected load to node 63 is 0 MW
+63	0 MW
+
+Generation	64
+
+Intrazonal Node Angles	64
+
+64	118	-20.426	-70.426	50
+
+Connected Intrazonal Node Angles	64
+
+64	115	37.3134
+
+64	117	-50
+
+64	119	33.1126
+Connected load to node 64 is 0 MW
+64	0 MW
+
+Generation	65
+
+65	28	1
+
+Intrazonal Node Angles	65
+
+65	119	-46.2725	-89.527	43.2546
+
+Connected Intrazonal Node Angles	65
+
+65	92	-10.142
+
+65	118	-33.1126
+
+65	120	27.027
+
+65	122	62.5
+Connected load to node 65 is 0 MW
+65	0 MW
+
+Generation	66
+
+66	29	1
+
+Intrazonal Node Angles	66
+
+66	120	43.5248	-9.85222	53.377
+
+Connected Intrazonal Node Angles	66
+
+66	103	-21.7628
+
+66	116	-4.58716
+
+66	119	-27.027
+
+66	121	9.85222
+Connected load to node 66 is -39 MW
+66	39 MW
+
+Generation	67
+
+Intrazonal Node Angles	67
+
+67	121	18.3992	-0	18.3992
+
+Connected Intrazonal Node Angles	67
+
+67	116	-8.54701
+
+67	120	-9.85222
+Connected load to node 67 is -28 MW
+67	28 MW
+
+Generation	68
+
+Intrazonal Node Angles	68
+
+68	122	-260.946	-323.446	62.5
+
+Connected Intrazonal Node Angles	68
+
+68	119	-62.5
+
+68	123	27.027
+
+68	135	49.505
+
+68	170	246.914
+Connected load to node 68 is 0 MW
+68	0 MW
+
+Generation	69
+
+69	30	1
+
+Intrazonal Node Angles	69
+
+69	123	7.74143	-25.9717	33.7132
+
+Connected Intrazonal Node Angles	69
+
+69	101	-3.59971
+
+69	103	-3.08642
+
+69	122	-27.027
+
+69	124	7.87402
+
+69	129	8.19672
+
+69	131	9.90099
+Connected load to node 69 is 0 MW
+69	0 MW
+
+Generation	70
+
+70	31	1
+
+Intrazonal Node Angles	70
+
+70	124	-32.5156	-42.8198	10.3041
+
+Connected Intrazonal Node Angles	70
+
+70	78	-2.43013
+
+70	123	-7.87402
+
+70	125	28.169
+
+70	128	7.55858
+
+70	129	7.0922
+Connected load to node 70 is -66 MW
+70	66 MW
+
+Generation	71
+
+Intrazonal Node Angles	71
+
+71	125	0.587027	-27.582	28.169
+
+Connected Intrazonal Node Angles	71
+
+71	124	-28.169
+
+71	126	5.55556
+
+71	127	22.0264
+Connected load to node 71 is 0 MW
+71	0 MW
+
+Generation	72
+
+72	32	1
+
+Intrazonal Node Angles	72
+
+72	126	10.6576	-0	10.6576
+
+Connected Intrazonal Node Angles	72
+
+72	78	-5.10204
+
+72	125	-5.55556
+Connected load to node 72 is 0 MW
+72	0 MW
+
+Generation	73
+
+73	33	1
+
+Intrazonal Node Angles	73
+
+73	127	22.0264	-0	22.0264
+
+Connected Intrazonal Node Angles	73
+
+73	125	-22.0264
+Connected load to node 73 is 0 MW
+73	0 MW
+
+Generation	74
+
+74	34	1
+
+Intrazonal Node Angles	74
+
+74	128	-17.072	-24.6305	7.55858
+
+Connected Intrazonal Node Angles	74
+
+74	124	-7.55858
+
+74	129	24.6305
+Connected load to node 74 is -68 MW
+74	68 MW
+
+Generation	75
+
+Intrazonal Node Angles	75
+
+75	129	14.1269	-25.7925	39.9195
+
+Connected Intrazonal Node Angles	75
+
+75	123	-8.19672
+
+75	124	-7.0922
+
+75	128	-24.6305
+
+75	131	5.0025
+
+75	172	20.79
+Connected load to node 75 is -47 MW
+75	47 MW
+
+Generation	76
+
+76	35	1
+
+Intrazonal Node Angles	76
+
+76	130	-25.1391	-25.1391	-0
+
+Connected Intrazonal Node Angles	76
+
+76	131	6.75676
+
+76	172	18.3824
+Connected load to node 76 is -68 MW
+76	68 MW
+
+Generation	77
+
+77	36	1
+
+Intrazonal Node Angles	77
+
+77	131	-100.851	-122.511	21.6602
+
+Connected Intrazonal Node Angles	77
+
+77	123	-9.90099
+
+77	129	-5.0025
+
+77	130	-6.75676
+
+77	132	80.6452
+
+77	134	30.1424
+
+77	136	11.7233
+Connected load to node 77 is -61 MW
+77	61 MW
+
+Generation	78
+
+Intrazonal Node Angles	78
+
+78	132	39.6616	-40.9836	80.6452
+
+Connected Intrazonal Node Angles	78
+
+78	131	-80.6452
+
+78	133	40.9836
+Connected load to node 78 is -71 MW
+78	71 MW
+
+Generation	79
+
+Intrazonal Node Angles	79
+
+79	133	26.7791	-14.2045	40.9836
+
+Connected Intrazonal Node Angles	79
+
+79	132	-40.9836
+
+79	134	14.2045
+Connected load to node 79 is -39 MW
+79	39 MW
+
+Generation	80
+
+80	37	1
+
+Intrazonal Node Angles	80
+
+80	134	41.0592	-30.3148	71.3739
+
+Connected Intrazonal Node Angles	80
+
+80	131	-30.1424
+
+80	133	-14.2045
+
+80	135	-27.027
+
+80	150	5.49451
+
+80	151	10.7066
+
+80	152	9.25926
+
+80	153	4.85437
+Connected load to node 80 is -130 MW
+80	130 MW
+
+Generation	81
+
+Intrazonal Node Angles	81
+
+81	135	22.4779	-27.027	49.505
+
+Connected Intrazonal Node Angles	81
+
+81	122	-49.505
+
+81	134	27.027
+Connected load to node 81 is 0 MW
+81	0 MW
+
+Generation	82
+
+Intrazonal Node Angles	82
+
+82	136	-34.4297	-46.1531	11.7233
+
+Connected Intrazonal Node Angles	82
+
+82	131	-11.7233
+
+82	137	27.2851
+
+82	150	18.8679
+Connected load to node 82 is -54 MW
+82	54 MW
+
+Generation	83
+
+Intrazonal Node Angles	83
+
+83	137	12.9526	-14.3325	27.2851
+
+Connected Intrazonal Node Angles	83
+
+83	136	-27.2851
+
+83	138	7.57576
+
+83	139	6.75676
+Connected load to node 83 is -20 MW
+83	20 MW
+
+Generation	84
+
+Intrazonal Node Angles	84
+
+84	138	-8.02487	-15.6006	7.57576
+
+Connected Intrazonal Node Angles	84
+
+84	137	-7.57576
+
+84	139	15.6006
+Connected load to node 84 is -11 MW
+84	11 MW
+
+Generation	85
+
+85	38	1
+
+Intrazonal Node Angles	85
+
+85	139	-1.35697	-23.7143	22.3574
+
+Connected Intrazonal Node Angles	85
+
+85	137	-6.75676
+
+85	138	-15.6006
+
+85	140	8.13008
+
+85	142	9.80392
+
+85	143	5.78035
+Connected load to node 85 is -24 MW
+85	24 MW
+
+Generation	86
+
+Intrazonal Node Angles	86
+
+86	140	3.30848	-4.8216	8.13008
+
+Connected Intrazonal Node Angles	86
+
+86	139	-8.13008
+
+86	141	4.8216
+Connected load to node 86 is -21 MW
+86	21 MW
+
+Generation	87
+
+87	39	1
+
+Intrazonal Node Angles	87
+
+87	141	4.8216	-0	4.8216
+
+Connected Intrazonal Node Angles	87
+
+87	140	-4.8216
+Connected load to node 87 is 0 MW
+87	0 MW
+
+Generation	88
+
+Intrazonal Node Angles	88
+
+88	142	-4.24102	-14.0449	9.80392
+
+Connected Intrazonal Node Angles	88
+
+88	139	-9.80392
+
+88	143	14.0449
+Connected load to node 88 is -48 MW
+88	48 MW
+
+Generation	89
+
+89	40	1
+
+Intrazonal Node Angles	89
+
+89	143	-21.651	-41.4763	19.8253
+
+Connected Intrazonal Node Angles	89
+
+89	139	-5.78035
+
+89	142	-14.0449
+
+89	144	15.3492
+
+89	146	26.1271
+Connected load to node 89 is 0 MW
+89	0 MW
+
+Generation	90
+
+90	41	1
+
+Intrazonal Node Angles	90
+
+90	144	3.38752	-11.9617	15.3492
+
+Connected Intrazonal Node Angles	90
+
+90	143	-15.3492
+
+90	145	11.9617
+Connected load to node 90 is -78 MW
+90	78 MW
+
+Generation	91
+
+91	42	1
+
+Intrazonal Node Angles	91
+
+91	145	4.10009	-7.86164	11.9617
+
+Connected Intrazonal Node Angles	91
+
+91	144	-11.9617
+
+91	146	7.86164
+Connected load to node 91 is 0 MW
+91	0 MW
+
+Generation	92
+
+92	43	1
+
+Intrazonal Node Angles	92
+
+92	146	-5.41176	-39.4005	33.9887
+
+Connected Intrazonal Node Angles	92
+
+92	143	-26.1271
+
+92	145	-7.86164
+
+92	147	11.7925
+
+92	148	6.32911
+
+92	154	3.38983
+
+92	156	17.8891
+Connected load to node 92 is -65 MW
+92	65 MW
+
+Generation	93
+
+Intrazonal Node Angles	93
+
+93	147	-1.86875	-13.6612	11.7925
+
+Connected Intrazonal Node Angles	93
+
+93	146	-11.7925
+
+93	148	13.6612
+Connected load to node 93 is -12 MW
+93	12 MW
+
+Generation	94
+
+Intrazonal Node Angles	94
+
+94	148	-31.8	-51.7903	19.9903
+
+Connected Intrazonal Node Angles	94
+
+94	146	-6.32911
+
+94	147	-13.6612
+
+94	149	23.0415
+
+94	150	11.5075
+
+94	154	17.2414
+Connected load to node 94 is -30 MW
+94	30 MW
+
+Generation	95
+
+Intrazonal Node Angles	95
+
+95	149	4.75994	-18.2815	23.0415
+
+Connected Intrazonal Node Angles	95
+
+95	148	-23.0415
+
+95	150	18.2815
+Connected load to node 95 is -42 MW
+95	42 MW
+
+Generation	96
+
+Intrazonal Node Angles	96
+
+96	150	42.852	-11.2994	54.1514
+
+Connected Intrazonal Node Angles	96
+
+96	134	-5.49451
+
+96	136	-18.8679
+
+96	148	-11.5075
+
+96	149	-18.2815
+
+96	151	11.2994
+Connected load to node 96 is -38 MW
+96	38 MW
+
+Generation	97
+
+Intrazonal Node Angles	97
+
+97	151	22.0061	-0	22.0061
+
+Connected Intrazonal Node Angles	97
+
+97	134	-10.7066
+
+97	150	-11.2994
+Connected load to node 97 is -15 MW
+97	15 MW
+
+Generation	98
+
+Intrazonal Node Angles	98
+
+98	152	3.67267	-5.58659	9.25926
+
+Connected Intrazonal Node Angles	98
+
+98	134	-9.25926
+
+98	154	5.58659
+Connected load to node 98 is -34 MW
+98	34 MW
+
+Generation	99
+
+99	44	1
+
+Intrazonal Node Angles	99
+
+99	153	-7.44575	-12.3001	4.85437
+
+Connected Intrazonal Node Angles	99
+
+99	134	-4.85437
+
+99	154	12.3001
+Connected load to node 99 is 0 MW
+99	0 MW
+
+Generation	100
+
+100	45	1
+
+Intrazonal Node Angles	100
+
+100	154	2.2776	-36.2403	38.5179
+
+Connected Intrazonal Node Angles	100
+
+100	146	-3.38983
+
+100	148	-17.2414
+
+100	152	-5.58659
+
+100	153	-12.3001
+
+100	155	7.92393
+
+100	157	19.0476
+
+100	158	4.90196
+
+100	160	4.36681
+Connected load to node 100 is -37 MW
+100	37 MW
+
+Generation	101
+
+Intrazonal Node Angles	101
+
+101	155	-1.00464	-8.92857	7.92393
+
+Connected Intrazonal Node Angles	101
+
+101	154	-7.92393
+
+101	156	8.92857
+Connected load to node 101 is -22 MW
+101	22 MW
+
+Generation	102
+
+Intrazonal Node Angles	102
+
+102	156	26.8177	-0	26.8177
+
+Connected Intrazonal Node Angles	102
+
+102	146	-17.8891
+
+102	155	-8.92857
+Connected load to node 102 is -5 MW
+102	5 MW
+
+Generation	103
+
+103	46	1
+
+Intrazonal Node Angles	103
+
+103	157	1.06492	-17.9827	19.0476
+
+Connected Intrazonal Node Angles	103
+
+103	154	-19.0476
+
+103	158	6.31313
+
+103	159	6.15385
+
+103	164	5.51572
+Connected load to node 103 is -23 MW
+103	23 MW
+
+Generation	104
+
+104	47	1
+
+Intrazonal Node Angles	104
+
+104	158	-15.2399	-26.455	11.2151
+
+Connected Intrazonal Node Angles	104
+
+104	154	-4.90196
+
+104	157	-6.31313
+
+104	159	26.455
+Connected load to node 104 is -38 MW
+104	38 MW
+
+Generation	105
+
+105	48	1
+
+Intrazonal Node Angles	105
+
+105	159	-5.36189	-37.9708	32.6089
+
+Connected Intrazonal Node Angles	105
+
+105	157	-6.15385
+
+105	158	-26.455
+
+105	160	18.2815
+
+105	161	5.46448
+
+105	162	14.2248
+Connected load to node 105 is -31 MW
+105	31 MW
+
+Generation	106
+
+Intrazonal Node Angles	106
+
+106	160	17.1839	-5.46448	22.6483
+
+Connected Intrazonal Node Angles	106
+
+106	154	-4.36681
+
+106	159	-18.2815
+
+106	161	5.46448
+Connected load to node 106 is -43 MW
+106	43 MW
+
+Generation	107
+
+107	49	1
+
+Intrazonal Node Angles	107
+
+107	161	10.929	-0	10.929
+
+Connected Intrazonal Node Angles	107
+
+107	159	-5.46448
+
+107	160	-5.46448
+Connected load to node 107 is -28 MW
+107	28 MW
+
+Generation	108
+
+Intrazonal Node Angles	108
+
+108	162	-20.4975	-34.7222	14.2248
+
+Connected Intrazonal Node Angles	108
+
+108	159	-14.2248
+
+108	163	34.7222
+Connected load to node 108 is -2 MW
+108	2 MW
+
+Generation	109
+
+Intrazonal Node Angles	109
+
+109	163	21.5989	-13.1234	34.7222
+
+Connected Intrazonal Node Angles	109
+
+109	162	-34.7222
+
+109	164	13.1234
+Connected load to node 109 is -8 MW
+109	8 MW
+
+Generation	110
+
+110	50	1
+
+Intrazonal Node Angles	110
+
+110	164	-10.231	-28.87	18.6391
+
+Connected Intrazonal Node Angles	110
+
+110	157	-5.51572
+
+110	163	-13.1234
+
+110	165	13.245
+
+110	166	15.625
+Connected load to node 110 is -39 MW
+110	39 MW
+
+Generation	111
+
+111	51	1
+
+Intrazonal Node Angles	111
+
+111	165	13.245	-0	13.245
+
+Connected Intrazonal Node Angles	111
+
+111	164	-13.245
+Connected load to node 111 is 0 MW
+111	0 MW
+
+Generation	112
+
+112	52	1
+
+Intrazonal Node Angles	112
+
+112	166	15.625	-0	15.625
+
+Connected Intrazonal Node Angles	112
+
+112	164	-15.625
+Connected load to node 112 is -25 MW
+112	25 MW
+
+Generation	113
+
+113	53	1
+
+Intrazonal Node Angles	113
+
+113	167	38.1487	-0	38.1487
+
+Connected Intrazonal Node Angles	113
+
+113	71	-33.2226
+
+113	86	-4.92611
+Connected load to node 113 is 0 MW
+113	0 MW
+
+Generation	114
+
+Intrazonal Node Angles	114
+
+114	168	-79.814	-96.1538	16.3399
+
+Connected Intrazonal Node Angles	114
+
+114	86	-16.3399
+
+114	169	96.1538
+Connected load to node 114 is -8 MW
+114	8 MW
+
+Generation	115
+
+Intrazonal Node Angles	115
+
+115	169	109.649	-0	109.649
+
+Connected Intrazonal Node Angles	115
+
+115	81	-13.4953
+
+115	168	-96.1538
+Connected load to node 115 is -22 MW
+115	22 MW
+
+Generation	116
+
+116	54	1
+
+Intrazonal Node Angles	116
+
+116	170	246.914	-0	246.914
+
+Connected Intrazonal Node Angles	116
+
+116	122	-246.914
+Connected load to node 116 is 0 MW
+116	0 MW
+
+Generation	117
+
+Intrazonal Node Angles	117
+
+117	171	7.14286	-0	7.14286
+
+Connected Intrazonal Node Angles	117
+
+117	66	-7.14286
+Connected load to node 117 is -20 MW
+117	20 MW
+
+Generation	118
+
+Intrazonal Node Angles	118
+
+118	172	39.1724	-0	39.1724
+
+Connected Intrazonal Node Angles	118
+
+118	129	-20.79
+
+118	130	-18.3824
+Connected load to node 118 is -33 MW
+118	33 MW
+
+Generation	119
+
+119	1	1
+
+Intrazonal Node Angles	119
+
+119	173	-23.5849	-23.5849	-0
+
+Connected Intrazonal Node Angles	119
+
+119	174	10.01
+
+119	175	23.5849
+Connected load to node 119 is -51 MW
+119	51 MW
+
+Generation	120
+
+Intrazonal Node Angles	120
+
+120	174	-16.2338	-16.2338	-0
+
+Connected Intrazonal Node Angles	120
+
+120	173	-10.01
+
+120	184	16.2338
+Connected load to node 120 is -20 MW
+120	20 MW
+
+Generation	121
+
+Intrazonal Node Angles	121
+
+121	175	8.07565	-15.5093	23.5849
+
+Connected Intrazonal Node Angles	121
+
+121	173	-23.5849
+
+121	177	9.25926
+
+121	184	6.25
+Connected load to node 121 is -39 MW
+121	39 MW
+
+Generation	122
+
+122	2	1
+
+Intrazonal Node Angles	122
+
+122	176	-139.848	-139.848	-0
+
+Connected Intrazonal Node Angles	122
+
+122	177	125.313
+
+122	183	14.5349
+Connected load to node 122 is -30 MW
+122	30 MW
+
+Generation	123
+
+Intrazonal Node Angles	123
+
+123	177	138.844	-33.1813	172.026
+
+Connected Intrazonal Node Angles	123
+
+123	175	-9.25926
+
+123	176	-125.313
+
+123	178	18.5185
+
+123	180	-37.4532
+
+123	183	14.6628
+Connected load to node 123 is 0 MW
+123	0 MW
+
+Generation	124
+
+124	3	1
+
+Intrazonal Node Angles	124
+
+124	178	-29.5584	-48.0769	18.5185
+
+Connected Intrazonal Node Angles	124
+
+124	177	-18.5185
+
+124	179	48.0769
+Connected load to node 124 is -52 MW
+124	52 MW
+
+Generation	125
+
+Intrazonal Node Angles	125
+
+125	179	18.6652	-29.4118	48.0769
+
+Connected Intrazonal Node Angles	125
+
+125	178	-48.0769
+
+125	184	29.4118
+Connected load to node 125 is -19 MW
+125	19 MW
+
+Generation	126
+
+126	4	1
+
+Intrazonal Node Angles	126
+
+126	180	-90.0813	-90.0813	-0
+
+Connected Intrazonal Node Angles	126
+
+126	177	37.4532
+
+126	181	32.7869
+
+126	202	19.8413
+Connected load to node 126 is 0 MW
+126	0 MW
+
+Generation	127
+
+Intrazonal Node Angles	127
+
+127	181	1.73098	-31.0559	32.7869
+
+Connected Intrazonal Node Angles	127
+
+127	180	-32.7869
+
+127	182	31.0559
+Connected load to node 127 is 0 MW
+127	0 MW
+
+Generation	128
+
+128	5	1
+
+Intrazonal Node Angles	128
+
+128	182	31.0559	-0	31.0559
+
+Connected Intrazonal Node Angles	128
+
+128	181	-31.0559
+Connected load to node 128 is 0 MW
+128	0 MW
+
+Generation	129
+
+Intrazonal Node Angles	129
+
+129	183	-35.5027	-64.7003	29.1976
+
+Connected Intrazonal Node Angles	129
+
+129	176	-14.5349
+
+129	177	-14.6628
+
+129	184	51.0204
+
+129	185	13.6799
+Connected load to node 129 is -70 MW
+129	70 MW
+
+Generation	130
+
+130	6	1
+
+Intrazonal Node Angles	130
+
+130	184	69.6384	-33.2775	102.916
+
+Connected Intrazonal Node Angles	130
+
+130	174	-16.2338
+
+130	175	-6.25
+
+130	179	-29.4118
+
+130	183	-51.0204
+
+130	186	14.1443
+
+130	188	11.9904
+
+130	289	7.14286
+Connected load to node 130 is -47 MW
+130	47 MW
+
+Generation	131
+
+Intrazonal Node Angles	131
+
+131	185	9.58824	-4.09165	13.6799
+
+Connected Intrazonal Node Angles	131
+
+131	183	-13.6799
+
+131	187	4.09165
+Connected load to node 131 is -34 MW
+131	34 MW
+
+Generation	132
+
+Intrazonal Node Angles	132
+
+132	186	9.01607	-5.12821	14.1443
+
+Connected Intrazonal Node Angles	132
+
+132	184	-14.1443
+
+132	187	5.12821
+Connected load to node 132 is -14 MW
+132	14 MW
+
+Generation	133
+
+133	7	1
+
+Intrazonal Node Angles	133
+
+133	187	-47.0827	-56.3026	9.21986
+
+Connected Intrazonal Node Angles	133
+
+133	185	-4.09165
+
+133	186	-5.12821
+
+133	189	22.8833
+
+133	191	25.3807
+
+133	205	8.03859
+Connected load to node 133 is -90 MW
+133	90 MW
+
+Generation	134
+
+Intrazonal Node Angles	134
+
+134	188	6.43794	-5.55247	11.9904
+
+Connected Intrazonal Node Angles	134
+
+134	184	-11.9904
+
+134	189	5.55247
+Connected load to node 134 is -25 MW
+134	25 MW
+
+Generation	135
+
+Intrazonal Node Angles	135
+
+135	189	-5.21356	-59.4225	54.209
+
+Connected Intrazonal Node Angles	135
+
+135	187	-22.8833
+
+135	188	-5.55247
+
+135	190	19.802
+
+135	202	-25.7732
+
+135	203	6.39795
+
+135	285	33.2226
+Connected load to node 135 is -11 MW
+135	11 MW
+
+Generation	136
+
+136	8	1
+
+Intrazonal Node Angles	136
+
+136	190	-0.481995	-20.284	19.802
+
+Connected Intrazonal Node Angles	136
+
+136	189	-19.802
+
+136	191	20.284
+Connected load to node 136 is -60 MW
+136	60 MW
+
+Generation	137
+
+137	9	1
+
+Intrazonal Node Angles	137
+
+137	191	33.0691	-12.5956	45.6647
+
+Connected Intrazonal Node Angles	137
+
+137	187	-25.3807
+
+137	190	-20.284
+
+137	192	8.54701
+
+137	206	4.04858
+Connected load to node 137 is -45 MW
+137	45 MW
+
+Generation	138
+
+Intrazonal Node Angles	138
+
+138	192	-3.23155	-11.7786	8.54701
+
+Connected Intrazonal Node Angles	138
+
+138	191	-8.54701
+
+138	193	11.7786
+Connected load to node 138 is -18 MW
+138	18 MW
+
+Generation	139
+
+Intrazonal Node Angles	139
+
+139	193	1.46928	-10.3093	11.7786
+
+Connected Intrazonal Node Angles	139
+
+139	192	-11.7786
+
+139	194	10.3093
+Connected load to node 139 is -14 MW
+139	14 MW
+
+Generation	140
+
+Intrazonal Node Angles	140
+
+140	194	4.01997	-6.28931	10.3093
+
+Connected Intrazonal Node Angles	140
+
+140	193	-10.3093
+
+140	195	6.28931
+Connected load to node 140 is -10 MW
+140	10 MW
+
+Generation	141
+
+Intrazonal Node Angles	141
+
+141	195	-35.2089	-41.4982	6.28931
+
+Connected Intrazonal Node Angles	141
+
+141	194	-6.28931
+
+141	196	20.3252
+
+141	197	12.5
+
+141	204	8.67303
+Connected load to node 141 is -7 MW
+141	7 MW
+
+Generation	142
+
+142	10	1
+
+Intrazonal Node Angles	142
+
+142	196	12.793	-7.53217	20.3252
+
+Connected Intrazonal Node Angles	142
+
+142	195	-20.3252
+
+142	242	2.43013
+
+142	244	5.10204
+Connected load to node 142 is 0 MW
+142	0 MW
+
+Generation	143
+
+143	11	1
+
+Intrazonal Node Angles	143
+
+143	197	32.543	-6.13497	38.678
+
+Connected Intrazonal Node Angles	143
+
+143	195	-12.5
+
+143	198	-26.178
+
+143	199	6.13497
+Connected load to node 143 is 0 MW
+143	0 MW
+
+Generation	144
+
+144	12	1
+
+Intrazonal Node Angles	144
+
+144	198	-37.8059	-37.8059	-0
+
+Connected Intrazonal Node Angles	144
+
+144	197	26.178
+
+144	202	11.6279
+Connected load to node 144 is 0 MW
+144	0 MW
+
+Generation	145
+
+145	13	1
+
+Intrazonal Node Angles	145
+
+145	199	-32.3012	-38.4362	6.13497
+
+Connected Intrazonal Node Angles	145
+
+145	197	-6.13497
+
+145	200	11.6959
+
+145	204	13.245
+
+145	287	13.4953
+Connected load to node 145 is -62 MW
+145	62 MW
+
+Generation	146
+
+Intrazonal Node Angles	146
+
+146	200	1.09145	-10.6045	11.6959
+
+Connected Intrazonal Node Angles	146
+
+146	199	-11.6959
+
+146	201	10.6045
+Connected load to node 146 is -17 MW
+146	17 MW
+
+Generation	147
+
+Intrazonal Node Angles	147
+
+147	201	-19.607	-30.2115	10.6045
+
+Connected Intrazonal Node Angles	147
+
+147	200	-10.6045
+
+147	203	30.2115
+Connected load to node 147 is -24 MW
+147	24 MW
+
+Generation	148
+
+Intrazonal Node Angles	148
+
+148	202	-12.8225	-44.2917	31.4692
+
+Connected Intrazonal Node Angles	148
+
+148	180	-19.8413
+
+148	189	25.7732
+
+148	198	-11.6279
+
+148	210	18.5185
+Connected load to node 148 is 0 MW
+148	0 MW
+
+Generation	149
+
+149	14	1
+
+Intrazonal Node Angles	149
+
+149	203	26.4571	-10.1523	36.6094
+
+Connected Intrazonal Node Angles	149
+
+149	189	-6.39795
+
+149	201	-30.2115
+
+149	204	10.1523
+Connected load to node 149 is -43 MW
+149	43 MW
+
+Generation	150
+
+150	15	1
+
+Intrazonal Node Angles	150
+
+150	204	10.8044	-21.266	32.0703
+
+Connected Intrazonal Node Angles	150
+
+150	195	-8.67303
+
+150	199	-13.245
+
+150	203	-10.1523
+
+150	285	4.92611
+
+150	286	16.3399
+Connected load to node 150 is -59 MW
+150	59 MW
+
+Generation	151
+
+Intrazonal Node Angles	151
+
+151	205	0.996332	-7.04225	8.03859
+
+Connected Intrazonal Node Angles	151
+
+151	187	-8.03859
+
+151	209	7.04225
+Connected load to node 151 is -23 MW
+151	23 MW
+
+Generation	152
+
+152	16	1
+
+Intrazonal Node Angles	152
+
+152	206	-145.597	-149.645	4.04858
+
+Connected Intrazonal Node Angles	152
+
+152	191	-4.04858
+
+152	208	37.3134
+
+152	209	106.383
+
+152	215	5.94884
+Connected load to node 152 is -59 MW
+152	59 MW
+
+Generation	153
+
+Intrazonal Node Angles	153
+
+153	207	-118.16	-118.16	-0
+
+Connected Intrazonal Node Angles	153
+
+153	208	98.0392
+
+153	209	20.1207
+Connected load to node 153 is -33 MW
+153	33 MW
+
+Generation	154
+
+154	17	1
+
+Intrazonal Node Angles	154
+
+154	208	135.353	-0	135.353
+
+Connected Intrazonal Node Angles	154
+
+154	206	-37.3134
+
+154	207	-98.0392
+Connected load to node 154 is -31 MW
+154	31 MW
+
+Generation	155
+
+Intrazonal Node Angles	155
+
+155	209	144.826	-15.3863	160.213
+
+Connected Intrazonal Node Angles	155
+
+155	205	-7.04225
+
+155	206	-106.383
+
+155	207	-20.1207
+
+155	210	-26.6667
+
+155	211	9.43396
+
+155	212	5.95238
+Connected load to node 155 is 0 MW
+155	0 MW
+
+Generation	156
+
+Intrazonal Node Angles	156
+
+156	210	-18.2901	-36.8087	18.5185
+
+Connected Intrazonal Node Angles	156
+
+156	202	-18.5185
+
+156	209	26.6667
+
+156	237	10.142
+Connected load to node 156 is 0 MW
+156	0 MW
+
+Generation	157
+
+Intrazonal Node Angles	157
+
+157	211	-7.09496	-16.5289	9.43396
+
+Connected Intrazonal Node Angles	157
+
+157	209	-9.43396
+
+157	212	16.5289
+Connected load to node 157 is -27 MW
+157	27 MW
+
+Generation	158
+
+158	18	1
+
+Intrazonal Node Angles	158
+
+158	212	-3.51706	-25.9984	22.4813
+
+Connected Intrazonal Node Angles	158
+
+158	209	-5.95238
+
+158	211	-16.5289
+
+158	213	20.5339
+
+158	214	5.46448
+Connected load to node 158 is -20 MW
+158	20 MW
+
+Generation	159
+
+Intrazonal Node Angles	159
+
+159	213	13.1265	-7.40741	20.5339
+
+Connected Intrazonal Node Angles	159
+
+159	212	-20.5339
+
+159	214	7.40741
+Connected load to node 159 is -37 MW
+159	37 MW
+
+Generation	160
+
+160	19	1
+
+Intrazonal Node Angles	160
+
+160	214	6.67994	-6.19195	12.8719
+
+Connected Intrazonal Node Angles	160
+
+160	212	-5.46448
+
+160	213	-7.40741
+
+160	221	6.19195
+Connected load to node 160 is -37 MW
+160	37 MW
+
+Generation	161
+
+Intrazonal Node Angles	161
+
+161	215	1.87386	-4.07498	5.94884
+
+Connected Intrazonal Node Angles	161
+
+161	206	-5.94884
+
+161	216	4.07498
+Connected load to node 161 is -18 MW
+161	18 MW
+
+Generation	162
+
+Intrazonal Node Angles	162
+
+162	216	-7.0238	-11.0988	4.07498
+
+Connected Intrazonal Node Angles	162
+
+162	215	-4.07498
+
+162	217	11.0988
+Connected load to node 162 is -16 MW
+162	16 MW
+
+Generation	163
+
+Intrazonal Node Angles	163
+
+163	217	-1.6522	-12.751	11.0988
+
+Connected Intrazonal Node Angles	163
+
+163	216	-11.0988
+
+163	218	7.37463
+
+163	221	5.37634
+Connected load to node 163 is -53 MW
+163	53 MW
+
+Generation	164
+
+164	20	1
+
+Intrazonal Node Angles	164
+
+164	218	-5.79039	-13.165	7.37463
+
+Connected Intrazonal Node Angles	164
+
+164	217	-7.37463
+
+164	219	7.87402
+
+164	220	5.29101
+Connected load to node 164 is -28 MW
+164	28 MW
+
+Generation	165
+
+Intrazonal Node Angles	165
+
+165	219	-11.7257	-19.5997	7.87402
+
+Connected Intrazonal Node Angles	165
+
+165	218	-7.87402
+
+165	221	16
+
+165	241	3.59971
+Connected load to node 165 is -34 MW
+165	34 MW
+
+Generation	166
+
+Intrazonal Node Angles	166
+
+166	220	-14.511	-19.802	5.29101
+
+Connected Intrazonal Node Angles	166
+
+166	218	-5.29101
+
+166	221	19.802
+Connected load to node 166 is -20 MW
+166	20 MW
+
+Generation	167
+
+167	21	1
+
+Intrazonal Node Angles	167
+
+167	221	-4.97271	-52.343	47.3703
+
+Connected Intrazonal Node Angles	167
+
+167	214	-6.19195
+
+167	217	-5.37634
+
+167	219	-16
+
+167	220	-19.802
+
+167	222	13.2979
+
+167	223	7.29927
+
+167	226	6.89663
+
+167	238	21.7628
+
+167	241	3.08642
+Connected load to node 167 is -87 MW
+167	87 MW
+
+Generation	168
+
+Intrazonal Node Angles	168
+
+168	222	5.83519	-7.46269	13.2979
+
+Connected Intrazonal Node Angles	168
+
+168	221	-13.2979
+
+168	229	7.46269
+Connected load to node 168 is -17 MW
+168	17 MW
+
+Generation	169
+
+Intrazonal Node Angles	169
+
+169	223	-23.6157	-30.915	7.29927
+
+Connected Intrazonal Node Angles	169
+
+169	221	-7.29927
+
+169	224	17.0068
+
+169	230	13.9082
+Connected load to node 169 is -17 MW
+169	17 MW
+
+Generation	170
+
+Intrazonal Node Angles	170
+
+170	224	10.8906	-6.11621	17.0068
+
+Connected Intrazonal Node Angles	170
+
+170	223	-17.0068
+
+170	225	6.11621
+Connected load to node 170 is -18 MW
+170	18 MW
+
+Generation	171
+
+Intrazonal Node Angles	171
+
+171	225	-2.08051	-8.19672	6.11621
+
+Connected Intrazonal Node Angles	171
+
+171	224	-6.11621
+
+171	226	8.19672
+Connected load to node 171 is -23 MW
+171	23 MW
+
+Generation	172
+
+172	22	1
+
+Intrazonal Node Angles	172
+
+172	226	-108.124	-123.217	15.0934
+
+Connected Intrazonal Node Angles	172
+
+172	221	-6.89663
+
+172	225	-8.19672
+
+172	227	14.1443
+
+172	228	104.712
+
+172	231	4.3611
+Connected load to node 172 is -113 MW
+172	113 MW
+
+Generation	173
+
+173	23	1
+
+Intrazonal Node Angles	173
+
+173	227	-56.7148	-70.8591	14.1443
+
+Connected Intrazonal Node Angles	173
+
+173	226	-14.1443
+
+173	228	66.2252
+
+173	231	4.63392
+Connected load to node 173 is -63 MW
+173	63 MW
+
+Generation	174
+
+174	24	1
+
+Intrazonal Node Angles	174
+
+174	228	142.065	-28.8721	170.937
+
+Connected Intrazonal Node Angles	174
+
+174	226	-104.712
+
+174	227	-66.2252
+
+174	229	10.352
+
+174	230	10.352
+
+174	231	8.16816
+Connected load to node 174 is -84 MW
+174	84 MW
+
+Generation	175
+
+Intrazonal Node Angles	175
+
+175	229	17.8147	-0	17.8147
+
+Connected Intrazonal Node Angles	175
+
+175	222	-7.46269
+
+175	228	-10.352
+Connected load to node 175 is -12 MW
+175	12 MW
+
+Generation	176
+
+Intrazonal Node Angles	176
+
+176	230	24.2602	-0	24.2602
+
+Connected Intrazonal Node Angles	176
+
+176	223	-13.9082
+
+176	228	-10.352
+Connected load to node 176 is -12 MW
+176	12 MW
+
+Generation	177
+
+177	25	1
+
+Intrazonal Node Angles	177
+
+177	231	29.5067	-13.5632	43.0699
+
+Connected Intrazonal Node Angles	177
+
+177	226	-4.3611
+
+177	227	-4.63392
+
+177	228	-8.16816
+
+177	232	6.89655
+
+177	233	6.66667
+
+177	235	-25.9067
+Connected load to node 177 is -277 MW
+177	277 MW
+
+Generation	178
+
+Intrazonal Node Angles	178
+
+178	232	-85.0028	-91.8994	6.89655
+
+Connected Intrazonal Node Angles	178
+
+178	231	-6.89655
+
+178	233	74.0741
+
+178	234	17.8253
+Connected load to node 178 is -78 MW
+178	78 MW
+
+Generation	179
+
+179	26	1
+
+Intrazonal Node Angles	179
+
+179	233	91.4584	-26.5957	118.054
+
+Connected Intrazonal Node Angles	179
+
+179	231	-6.66667
+
+179	232	-74.0741
+
+179	234	26.5957
+
+179	236	-37.3134
+Connected load to node 179 is 0 MW
+179	0 MW
+
+Generation	180
+
+180	27	1
+
+Intrazonal Node Angles	180
+
+180	234	31.2869	-13.1342	44.4211
+
+Connected Intrazonal Node Angles	180
+
+180	232	-17.8253
+
+180	233	-26.5957
+
+180	238	4.58716
+
+180	239	8.54701
+Connected load to node 180 is -77 MW
+180	77 MW
+
+Generation	181
+
+Intrazonal Node Angles	181
+
+181	235	-75.9067	-75.9067	-0
+
+Connected Intrazonal Node Angles	181
+
+181	231	25.9067
+
+181	236	50
+Connected load to node 181 is 0 MW
+181	0 MW
+
+Generation	182
+
+Intrazonal Node Angles	182
+
+182	236	-20.426	-70.426	50
+
+Connected Intrazonal Node Angles	182
+
+182	233	37.3134
+
+182	235	-50
+
+182	237	33.1126
+Connected load to node 182 is 0 MW
+182	0 MW
+
+Generation	183
+
+183	28	1
+
+Intrazonal Node Angles	183
+
+183	237	-46.2725	-89.527	43.2546
+
+Connected Intrazonal Node Angles	183
+
+183	210	-10.142
+
+183	236	-33.1126
+
+183	238	27.027
+
+183	240	62.5
+Connected load to node 183 is 0 MW
+183	0 MW
+
+Generation	184
+
+184	29	1
+
+Intrazonal Node Angles	184
+
+184	238	43.5248	-9.85222	53.377
+
+Connected Intrazonal Node Angles	184
+
+184	221	-21.7628
+
+184	234	-4.58716
+
+184	237	-27.027
+
+184	239	9.85222
+Connected load to node 184 is -39 MW
+184	39 MW
+
+Generation	185
+
+Intrazonal Node Angles	185
+
+185	239	18.3992	-0	18.3992
+
+Connected Intrazonal Node Angles	185
+
+185	234	-8.54701
+
+185	238	-9.85222
+Connected load to node 185 is -28 MW
+185	28 MW
+
+Generation	186
+
+Intrazonal Node Angles	186
+
+186	240	-260.946	-323.446	62.5
+
+Connected Intrazonal Node Angles	186
+
+186	237	-62.5
+
+186	241	27.027
+
+186	253	49.505
+
+186	288	246.914
+Connected load to node 186 is 0 MW
+186	0 MW
+
+Generation	187
+
+187	30	1
+
+Intrazonal Node Angles	187
+
+187	241	7.74143	-25.9717	33.7132
+
+Connected Intrazonal Node Angles	187
+
+187	219	-3.59971
+
+187	221	-3.08642
+
+187	240	-27.027
+
+187	242	7.87402
+
+187	247	8.19672
+
+187	249	9.90099
+Connected load to node 187 is 0 MW
+187	0 MW
+
+Generation	188
+
+188	31	1
+
+Intrazonal Node Angles	188
+
+188	242	-32.5156	-42.8198	10.3041
+
+Connected Intrazonal Node Angles	188
+
+188	196	-2.43013
+
+188	241	-7.87402
+
+188	243	28.169
+
+188	246	7.55858
+
+188	247	7.0922
+Connected load to node 188 is -66 MW
+188	66 MW
+
+Generation	189
+
+Intrazonal Node Angles	189
+
+189	243	0.587027	-27.582	28.169
+
+Connected Intrazonal Node Angles	189
+
+189	242	-28.169
+
+189	244	5.55556
+
+189	245	22.0264
+Connected load to node 189 is 0 MW
+189	0 MW
+
+Generation	190
+
+190	32	1
+
+Intrazonal Node Angles	190
+
+190	244	10.6576	-0	10.6576
+
+Connected Intrazonal Node Angles	190
+
+190	196	-5.10204
+
+190	243	-5.55556
+Connected load to node 190 is 0 MW
+190	0 MW
+
+Generation	191
+
+191	33	1
+
+Intrazonal Node Angles	191
+
+191	245	22.0264	-0	22.0264
+
+Connected Intrazonal Node Angles	191
+
+191	243	-22.0264
+Connected load to node 191 is 0 MW
+191	0 MW
+
+Generation	192
+
+192	34	1
+
+Intrazonal Node Angles	192
+
+192	246	-17.072	-24.6305	7.55858
+
+Connected Intrazonal Node Angles	192
+
+192	242	-7.55858
+
+192	247	24.6305
+Connected load to node 192 is -68 MW
+192	68 MW
+
+Generation	193
+
+Intrazonal Node Angles	193
+
+193	247	14.1269	-25.7925	39.9195
+
+Connected Intrazonal Node Angles	193
+
+193	241	-8.19672
+
+193	242	-7.0922
+
+193	246	-24.6305
+
+193	249	5.0025
+
+193	290	20.79
+Connected load to node 193 is -47 MW
+193	47 MW
+
+Generation	194
+
+194	35	1
+
+Intrazonal Node Angles	194
+
+194	248	-25.1391	-25.1391	-0
+
+Connected Intrazonal Node Angles	194
+
+194	249	6.75676
+
+194	290	18.3824
+Connected load to node 194 is -68 MW
+194	68 MW
+
+Generation	195
+
+195	36	1
+
+Intrazonal Node Angles	195
+
+195	249	-100.851	-122.511	21.6602
+
+Connected Intrazonal Node Angles	195
+
+195	241	-9.90099
+
+195	247	-5.0025
+
+195	248	-6.75676
+
+195	250	80.6452
+
+195	252	30.1424
+
+195	254	11.7233
+Connected load to node 195 is -61 MW
+195	61 MW
+
+Generation	196
+
+Intrazonal Node Angles	196
+
+196	250	39.6616	-40.9836	80.6452
+
+Connected Intrazonal Node Angles	196
+
+196	249	-80.6452
+
+196	251	40.9836
+Connected load to node 196 is -71 MW
+196	71 MW
+
+Generation	197
+
+Intrazonal Node Angles	197
+
+197	251	26.7791	-14.2045	40.9836
+
+Connected Intrazonal Node Angles	197
+
+197	250	-40.9836
+
+197	252	14.2045
+Connected load to node 197 is -39 MW
+197	39 MW
+
+Generation	198
+
+198	37	1
+
+Intrazonal Node Angles	198
+
+198	252	41.0592	-30.3148	71.3739
+
+Connected Intrazonal Node Angles	198
+
+198	249	-30.1424
+
+198	251	-14.2045
+
+198	253	-27.027
+
+198	268	5.49451
+
+198	269	10.7066
+
+198	270	9.25926
+
+198	271	4.85437
+Connected load to node 198 is -130 MW
+198	130 MW
+
+Generation	199
+
+Intrazonal Node Angles	199
+
+199	253	22.4779	-27.027	49.505
+
+Connected Intrazonal Node Angles	199
+
+199	240	-49.505
+
+199	252	27.027
+Connected load to node 199 is 0 MW
+199	0 MW
+
+Generation	200
+
+Intrazonal Node Angles	200
+
+200	254	-34.4297	-46.1531	11.7233
+
+Connected Intrazonal Node Angles	200
+
+200	249	-11.7233
+
+200	255	27.2851
+
+200	268	18.8679
+Connected load to node 200 is -54 MW
+200	54 MW
+
+Generation	201
+
+Intrazonal Node Angles	201
+
+201	255	12.9526	-14.3325	27.2851
+
+Connected Intrazonal Node Angles	201
+
+201	254	-27.2851
+
+201	256	7.57576
+
+201	257	6.75676
+Connected load to node 201 is -20 MW
+201	20 MW
+
+Generation	202
+
+Intrazonal Node Angles	202
+
+202	256	-8.02487	-15.6006	7.57576
+
+Connected Intrazonal Node Angles	202
+
+202	255	-7.57576
+
+202	257	15.6006
+Connected load to node 202 is -11 MW
+202	11 MW
+
+Generation	203
+
+203	38	1
+
+Intrazonal Node Angles	203
+
+203	257	-1.35697	-23.7143	22.3574
+
+Connected Intrazonal Node Angles	203
+
+203	255	-6.75676
+
+203	256	-15.6006
+
+203	258	8.13008
+
+203	260	9.80392
+
+203	261	5.78035
+Connected load to node 203 is -24 MW
+203	24 MW
+
+Generation	204
+
+Intrazonal Node Angles	204
+
+204	258	3.30848	-4.8216	8.13008
+
+Connected Intrazonal Node Angles	204
+
+204	257	-8.13008
+
+204	259	4.8216
+Connected load to node 204 is -21 MW
+204	21 MW
+
+Generation	205
+
+205	39	1
+
+Intrazonal Node Angles	205
+
+205	259	4.8216	-0	4.8216
+
+Connected Intrazonal Node Angles	205
+
+205	258	-4.8216
+Connected load to node 205 is 0 MW
+205	0 MW
+
+Generation	206
+
+Intrazonal Node Angles	206
+
+206	260	-4.24102	-14.0449	9.80392
+
+Connected Intrazonal Node Angles	206
+
+206	257	-9.80392
+
+206	261	14.0449
+Connected load to node 206 is -48 MW
+206	48 MW
+
+Generation	207
+
+207	40	1
+
+Intrazonal Node Angles	207
+
+207	261	-21.651	-41.4763	19.8253
+
+Connected Intrazonal Node Angles	207
+
+207	257	-5.78035
+
+207	260	-14.0449
+
+207	262	15.3492
+
+207	264	26.1271
+Connected load to node 207 is 0 MW
+207	0 MW
+
+Generation	208
+
+208	41	1
+
+Intrazonal Node Angles	208
+
+208	262	3.38752	-11.9617	15.3492
+
+Connected Intrazonal Node Angles	208
+
+208	261	-15.3492
+
+208	263	11.9617
+Connected load to node 208 is -78 MW
+208	78 MW
+
+Generation	209
+
+209	42	1
+
+Intrazonal Node Angles	209
+
+209	263	4.10009	-7.86164	11.9617
+
+Connected Intrazonal Node Angles	209
+
+209	262	-11.9617
+
+209	264	7.86164
+Connected load to node 209 is 0 MW
+209	0 MW
+
+Generation	210
+
+210	43	1
+
+Intrazonal Node Angles	210
+
+210	264	-5.41176	-39.4005	33.9887
+
+Connected Intrazonal Node Angles	210
+
+210	261	-26.1271
+
+210	263	-7.86164
+
+210	265	11.7925
+
+210	266	6.32911
+
+210	272	3.38983
+
+210	274	17.8891
+Connected load to node 210 is -65 MW
+210	65 MW
+
+Generation	211
+
+Intrazonal Node Angles	211
+
+211	265	-1.86875	-13.6612	11.7925
+
+Connected Intrazonal Node Angles	211
+
+211	264	-11.7925
+
+211	266	13.6612
+Connected load to node 211 is -12 MW
+211	12 MW
+
+Generation	212
+
+Intrazonal Node Angles	212
+
+212	266	-31.8	-51.7903	19.9903
+
+Connected Intrazonal Node Angles	212
+
+212	264	-6.32911
+
+212	265	-13.6612
+
+212	267	23.0415
+
+212	268	11.5075
+
+212	272	17.2414
+Connected load to node 212 is -30 MW
+212	30 MW
+
+Generation	213
+
+Intrazonal Node Angles	213
+
+213	267	4.75994	-18.2815	23.0415
+
+Connected Intrazonal Node Angles	213
+
+213	266	-23.0415
+
+213	268	18.2815
+Connected load to node 213 is -42 MW
+213	42 MW
+
+Generation	214
+
+Intrazonal Node Angles	214
+
+214	268	42.852	-11.2994	54.1514
+
+Connected Intrazonal Node Angles	214
+
+214	252	-5.49451
+
+214	254	-18.8679
+
+214	266	-11.5075
+
+214	267	-18.2815
+
+214	269	11.2994
+Connected load to node 214 is -38 MW
+214	38 MW
+
+Generation	215
+
+Intrazonal Node Angles	215
+
+215	269	22.0061	-0	22.0061
+
+Connected Intrazonal Node Angles	215
+
+215	252	-10.7066
+
+215	268	-11.2994
+Connected load to node 215 is -15 MW
+215	15 MW
+
+Generation	216
+
+Intrazonal Node Angles	216
+
+216	270	3.67267	-5.58659	9.25926
+
+Connected Intrazonal Node Angles	216
+
+216	252	-9.25926
+
+216	272	5.58659
+Connected load to node 216 is -34 MW
+216	34 MW
+
+Generation	217
+
+217	44	1
+
+Intrazonal Node Angles	217
+
+217	271	-7.44575	-12.3001	4.85437
+
+Connected Intrazonal Node Angles	217
+
+217	252	-4.85437
+
+217	272	12.3001
+Connected load to node 217 is 0 MW
+217	0 MW
+
+Generation	218
+
+218	45	1
+
+Intrazonal Node Angles	218
+
+218	272	2.2776	-36.2403	38.5179
+
+Connected Intrazonal Node Angles	218
+
+218	264	-3.38983
+
+218	266	-17.2414
+
+218	270	-5.58659
+
+218	271	-12.3001
+
+218	273	7.92393
+
+218	275	19.0476
+
+218	276	4.90196
+
+218	278	4.36681
+Connected load to node 218 is -37 MW
+218	37 MW
+
+Generation	219
+
+Intrazonal Node Angles	219
+
+219	273	-1.00464	-8.92857	7.92393
+
+Connected Intrazonal Node Angles	219
+
+219	272	-7.92393
+
+219	274	8.92857
+Connected load to node 219 is -22 MW
+219	22 MW
+
+Generation	220
+
+Intrazonal Node Angles	220
+
+220	274	26.8177	-0	26.8177
+
+Connected Intrazonal Node Angles	220
+
+220	264	-17.8891
+
+220	273	-8.92857
+Connected load to node 220 is -5 MW
+220	5 MW
+
+Generation	221
+
+221	46	1
+
+Intrazonal Node Angles	221
+
+221	275	1.06492	-17.9827	19.0476
+
+Connected Intrazonal Node Angles	221
+
+221	272	-19.0476
+
+221	276	6.31313
+
+221	277	6.15385
+
+221	282	5.51572
+Connected load to node 221 is -23 MW
+221	23 MW
+
+Generation	222
+
+222	47	1
+
+Intrazonal Node Angles	222
+
+222	276	-15.2399	-26.455	11.2151
+
+Connected Intrazonal Node Angles	222
+
+222	272	-4.90196
+
+222	275	-6.31313
+
+222	277	26.455
+Connected load to node 222 is -38 MW
+222	38 MW
+
+Generation	223
+
+223	48	1
+
+Intrazonal Node Angles	223
+
+223	277	-5.36189	-37.9708	32.6089
+
+Connected Intrazonal Node Angles	223
+
+223	275	-6.15385
+
+223	276	-26.455
+
+223	278	18.2815
+
+223	279	5.46448
+
+223	280	14.2248
+Connected load to node 223 is -31 MW
+223	31 MW
+
+Generation	224
+
+Intrazonal Node Angles	224
+
+224	278	17.1839	-5.46448	22.6483
+
+Connected Intrazonal Node Angles	224
+
+224	272	-4.36681
+
+224	277	-18.2815
+
+224	279	5.46448
+Connected load to node 224 is -43 MW
+224	43 MW
+
+Generation	225
+
+225	49	1
+
+Intrazonal Node Angles	225
+
+225	279	10.929	-0	10.929
+
+Connected Intrazonal Node Angles	225
+
+225	277	-5.46448
+
+225	278	-5.46448
+Connected load to node 225 is -28 MW
+225	28 MW
+
+Generation	226
+
+Intrazonal Node Angles	226
+
+226	280	-20.4975	-34.7222	14.2248
+
+Connected Intrazonal Node Angles	226
+
+226	277	-14.2248
+
+226	281	34.7222
+Connected load to node 226 is -2 MW
+226	2 MW
+
+Generation	227
+
+Intrazonal Node Angles	227
+
+227	281	21.5989	-13.1234	34.7222
+
+Connected Intrazonal Node Angles	227
+
+227	280	-34.7222
+
+227	282	13.1234
+Connected load to node 227 is -8 MW
+227	8 MW
+
+Generation	228
+
+228	50	1
+
+Intrazonal Node Angles	228
+
+228	282	-10.231	-28.87	18.6391
+
+Connected Intrazonal Node Angles	228
+
+228	275	-5.51572
+
+228	281	-13.1234
+
+228	283	13.245
+
+228	284	15.625
+Connected load to node 228 is -39 MW
+228	39 MW
+
+Generation	229
+
+229	51	1
+
+Intrazonal Node Angles	229
+
+229	283	13.245	-0	13.245
+
+Connected Intrazonal Node Angles	229
+
+229	282	-13.245
+Connected load to node 229 is 0 MW
+229	0 MW
+
+Generation	230
+
+230	52	1
+
+Intrazonal Node Angles	230
+
+230	284	15.625	-0	15.625
+
+Connected Intrazonal Node Angles	230
+
+230	282	-15.625
+Connected load to node 230 is -25 MW
+230	25 MW
+
+Generation	231
+
+231	53	1
+
+Intrazonal Node Angles	231
+
+231	285	38.1487	-0	38.1487
+
+Connected Intrazonal Node Angles	231
+
+231	189	-33.2226
+
+231	204	-4.92611
+Connected load to node 231 is 0 MW
+231	0 MW
+
+Generation	232
+
+Intrazonal Node Angles	232
+
+232	286	-79.814	-96.1538	16.3399
+
+Connected Intrazonal Node Angles	232
+
+232	204	-16.3399
+
+232	287	96.1538
+Connected load to node 232 is -8 MW
+232	8 MW
+
+Generation	233
+
+Intrazonal Node Angles	233
+
+233	287	109.649	-0	109.649
+
+Connected Intrazonal Node Angles	233
+
+233	199	-13.4953
+
+233	286	-96.1538
+Connected load to node 233 is -22 MW
+233	22 MW
+
+Generation	234
+
+234	54	1
+
+Intrazonal Node Angles	234
+
+234	288	246.914	-0	246.914
+
+Connected Intrazonal Node Angles	234
+
+234	240	-246.914
+Connected load to node 234 is 0 MW
+234	0 MW
+
+Generation	235
+
+Intrazonal Node Angles	235
+
+235	289	7.14286	-0	7.14286
+
+Connected Intrazonal Node Angles	235
+
+235	184	-7.14286
+Connected load to node 235 is -20 MW
+235	20 MW
+
+Generation	236
+
+Intrazonal Node Angles	236
+
+236	290	39.1724	-0	39.1724
+
+Connected Intrazonal Node Angles	236
+
+236	247	-20.79
+
+236	248	-18.3824
+Connected load to node 236 is -33 MW
+236	33 MW
+
+Coefficients corresponding to lower generation limits
+237	1	1	0
+237	0 MW
+238	2	1	0
+238	0 MW
+239	3	1	0
+239	0 MW
+240	4	1	0
+240	0 MW
+241	5	1	0
+241	0 MW
+242	6	1	0
+242	0 MW
+243	7	1	0
+243	0 MW
+244	8	1	0
+244	0 MW
+245	9	1	0
+245	0 MW
+246	10	1	0
+246	0 MW
+247	11	1	0
+247	0 MW
+248	12	1	0
+248	0 MW
+249	13	1	0
+249	0 MW
+250	14	1	0
+250	0 MW
+251	15	1	0
+251	0 MW
+252	16	1	0
+252	0 MW
+253	17	1	0
+253	0 MW
+254	18	1	0
+254	0 MW
+255	19	1	0
+255	0 MW
+256	20	1	0
+256	0 MW
+257	21	1	0
+257	0 MW
+258	22	1	0
+258	0 MW
+259	23	1	0
+259	0 MW
+260	24	1	0
+260	0 MW
+261	25	1	0
+261	0 MW
+262	26	1	0
+262	0 MW
+263	27	1	0
+263	0 MW
+264	28	1	0
+264	0 MW
+265	29	1	0
+265	0 MW
+266	30	1	0
+266	0 MW
+267	31	1	0
+267	0 MW
+268	32	1	0
+268	0 MW
+269	33	1	0
+269	0 MW
+270	34	1	0
+270	0 MW
+271	35	1	0
+271	0 MW
+272	36	1	0
+272	0 MW
+273	37	1	0
+273	0 MW
+274	38	1	0
+274	0 MW
+275	39	1	0
+275	0 MW
+276	40	1	0
+276	0 MW
+277	41	1	0
+277	0 MW
+278	42	1	0
+278	0 MW
+279	43	1	0
+279	0 MW
+280	44	1	0
+280	0 MW
+281	45	1	0
+281	0 MW
+282	46	1	0
+282	0 MW
+283	47	1	0
+283	0 MW
+284	48	1	0
+284	0 MW
+285	49	1	0
+285	0 MW
+286	50	1	0
+286	0 MW
+287	51	1	0
+287	0 MW
+288	52	1	0
+288	0 MW
+289	53	1	0
+289	0 MW
+290	54	1	0
+290	0 MW
+
+Coefficients corresponding to upper generation limits
+291	1	1	1
+291	100 MW
+292	2	1	1
+292	100 MW
+293	3	1	1
+293	100 MW
+294	4	1	1
+294	100 MW
+295	5	1	5.5
+295	550 MW
+296	6	1	1.85
+296	185 MW
+297	7	1	1
+297	100 MW
+298	8	1	1
+298	100 MW
+299	9	1	1
+299	100 MW
+300	10	1	1
+300	100 MW
+301	11	1	3.2
+301	320 MW
+302	12	1	4.14
+302	414 MW
+303	13	1	1
+303	100 MW
+304	14	1	1.07
+304	107 MW
+305	15	1	1
+305	100 MW
+306	16	1	1
+306	100 MW
+307	17	1	1
+307	100 MW
+308	18	1	1
+308	100 MW
+309	19	1	1
+309	100 MW
+310	20	1	1.19
+310	119 MW
+311	21	1	3.04
+311	304 MW
+312	22	1	1.48
+312	148 MW
+313	23	1	1
+313	100 MW
+314	24	1	1
+314	100 MW
+315	25	1	2.55
+315	255 MW
+316	26	1	2.6
+316	260 MW
+317	27	1	1
+317	100 MW
+318	28	1	4.91
+318	491 MW
+319	29	1	4.92
+319	492 MW
+320	30	1	8.052
+320	805.2 MW
+321	31	1	1
+321	100 MW
+322	32	1	1
+322	100 MW
+323	33	1	1
+323	100 MW
+324	34	1	1
+324	100 MW
+325	35	1	1
+325	100 MW
+326	36	1	1
+326	100 MW
+327	37	1	5.77
+327	577 MW
+328	38	1	1
+328	100 MW
+329	39	1	1.04
+329	104 MW
+330	40	1	7.07
+330	707 MW
+331	41	1	1
+331	100 MW
+332	42	1	1
+332	100 MW
+333	43	1	1
+333	100 MW
+334	44	1	1
+334	100 MW
+335	45	1	3.52
+335	352 MW
+336	46	1	1.4
+336	140 MW
+337	47	1	1
+337	100 MW
+338	48	1	1
+338	100 MW
+339	49	1	1
+339	100 MW
+340	50	1	1
+340	100 MW
+341	51	1	1.36
+341	136 MW
+342	52	1	1
+342	100 MW
+343	53	1	1
+343	100 MW
+344	54	1	1
+344	100 MW
+
+Coefficients corresponding to intra-zone Line Forward Flow Limit Constraints
+
+345	55	10.01	10.01
+
+345	56	-10.01	-	-10.01
+345	100 MW
+
+346	55	23.5849	23.5849
+
+346	57	-23.5849	-	-23.5849
+346	100 MW
+
+347	56	16.2338	16.2338
+
+347	66	-16.2338	-	-16.2338
+347	100 MW
+
+348	57	9.25926	9.25926
+
+348	59	-9.25926	-	-9.25926
+348	100 MW
+
+349	57	6.25	6.25
+
+349	66	-6.25	-	-6.25
+349	100 MW
+
+350	58	125.313	125.313
+
+350	59	-125.313	-	-125.313
+350	100 MW
+
+351	58	14.5349	14.5349
+
+351	65	-14.5349	-	-14.5349
+351	100 MW
+
+352	59	18.5185	18.5185
+
+352	60	-18.5185	-	-18.5185
+352	100 MW
+
+353	62	37.4532	37.4532
+
+353	59	-37.4532	-	-37.4532
+353	100 MW
+
+354	59	14.6628	14.6628
+
+354	65	-14.6628	-	-14.6628
+354	100 MW
+
+355	60	48.0769	48.0769
+
+355	61	-48.0769	-	-48.0769
+355	100 MW
+
+356	61	29.4118	29.4118
+
+356	66	-29.4118	-	-29.4118
+356	100 MW
+
+357	62	32.7869	32.7869
+
+357	63	-32.7869	-	-32.7869
+357	100 MW
+
+358	62	19.8413	19.8413
+
+358	84	-19.8413	-	-19.8413
+358	100 MW
+
+359	63	31.0559	31.0559
+
+359	64	-31.0559	-	-31.0559
+359	100 MW
+
+360	65	51.0204	51.0204
+
+360	66	-51.0204	-	-51.0204
+360	100 MW
+
+361	65	13.6799	13.6799
+
+361	67	-13.6799	-	-13.6799
+361	100 MW
+
+362	66	14.1443	14.1443
+
+362	68	-14.1443	-	-14.1443
+362	100 MW
+
+363	66	11.9904	11.9904
+
+363	70	-11.9904	-	-11.9904
+363	100 MW
+
+364	66	7.14286	7.14286
+
+364	171	-7.14286	-	-7.14286
+364	100 MW
+
+365	67	4.09165	4.09165
+
+365	69	-4.09165	-	-4.09165
+365	100 MW
+
+366	68	5.12821	5.12821
+
+366	69	-5.12821	-	-5.12821
+366	100 MW
+
+367	69	22.8833	22.8833
+
+367	71	-22.8833	-	-22.8833
+367	100 MW
+
+368	69	25.3807	25.3807
+
+368	73	-25.3807	-	-25.3807
+368	100 MW
+
+369	69	8.03859	8.03859
+
+369	87	-8.03859	-	-8.03859
+369	100 MW
+
+370	70	5.55247	5.55247
+
+370	71	-5.55247	-	-5.55247
+370	100 MW
+
+371	71	19.802	19.802
+
+371	72	-19.802	-	-19.802
+371	100 MW
+
+372	84	25.7732	25.7732
+
+372	71	-25.7732	-	-25.7732
+372	100 MW
+
+373	71	6.39795	6.39795
+
+373	85	-6.39795	-	-6.39795
+373	100 MW
+
+374	71	33.2226	33.2226
+
+374	167	-33.2226	-	-33.2226
+374	100 MW
+
+375	72	20.284	20.284
+
+375	73	-20.284	-	-20.284
+375	100 MW
+
+376	73	8.54701	8.54701
+
+376	74	-8.54701	-	-8.54701
+376	100 MW
+
+377	73	4.04858	4.04858
+
+377	88	-4.04858	-	-4.04858
+377	100 MW
+
+378	74	11.7786	11.7786
+
+378	75	-11.7786	-	-11.7786
+378	100 MW
+
+379	75	10.3093	10.3093
+
+379	76	-10.3093	-	-10.3093
+379	100 MW
+
+380	76	6.28931	6.28931
+
+380	77	-6.28931	-	-6.28931
+380	100 MW
+
+381	77	20.3252	20.3252
+
+381	78	-20.3252	-	-20.3252
+381	100 MW
+
+382	77	12.5	12.5
+
+382	79	-12.5	-	-12.5
+382	100 MW
+
+383	77	8.67303	8.67303
+
+383	86	-8.67303	-	-8.67303
+383	100 MW
+
+384	78	2.43013	2.43013
+
+384	124	-2.43013	-	-2.43013
+384	100 MW
+
+385	78	5.10204	5.10204
+
+385	126	-5.10204	-	-5.10204
+385	100 MW
+
+386	80	26.178	26.178
+
+386	79	-26.178	-	-26.178
+386	100 MW
+
+387	79	6.13497	6.13497
+
+387	81	-6.13497	-	-6.13497
+387	100 MW
+
+388	80	11.6279	11.6279
+
+388	84	-11.6279	-	-11.6279
+388	100 MW
+
+389	81	11.6959	11.6959
+
+389	82	-11.6959	-	-11.6959
+389	100 MW
+
+390	81	13.245	13.245
+
+390	86	-13.245	-	-13.245
+390	100 MW
+
+391	81	13.4953	13.4953
+
+391	169	-13.4953	-	-13.4953
+391	100 MW
+
+392	82	10.6045	10.6045
+
+392	83	-10.6045	-	-10.6045
+392	100 MW
+
+393	83	30.2115	30.2115
+
+393	85	-30.2115	-	-30.2115
+393	100 MW
+
+394	84	18.5185	18.5185
+
+394	92	-18.5185	-	-18.5185
+394	100 MW
+
+395	85	10.1523	10.1523
+
+395	86	-10.1523	-	-10.1523
+395	100 MW
+
+396	86	4.92611	4.92611
+
+396	167	-4.92611	-	-4.92611
+396	100 MW
+
+397	86	16.3399	16.3399
+
+397	168	-16.3399	-	-16.3399
+397	100 MW
+
+398	87	7.04225	7.04225
+
+398	91	-7.04225	-	-7.04225
+398	100 MW
+
+399	88	37.3134	37.3134
+
+399	90	-37.3134	-	-37.3134
+399	100 MW
+
+400	88	106.383	106.383
+
+400	91	-106.383	-	-106.383
+400	100 MW
+
+401	88	5.94884	5.94884
+
+401	97	-5.94884	-	-5.94884
+401	100 MW
+
+402	89	98.0392	98.0392
+
+402	90	-98.0392	-	-98.0392
+402	100 MW
+
+403	89	20.1207	20.1207
+
+403	91	-20.1207	-	-20.1207
+403	100 MW
+
+404	92	26.6667	26.6667
+
+404	91	-26.6667	-	-26.6667
+404	100 MW
+
+405	91	9.43396	9.43396
+
+405	93	-9.43396	-	-9.43396
+405	100 MW
+
+406	91	5.95238	5.95238
+
+406	94	-5.95238	-	-5.95238
+406	100 MW
+
+407	92	10.142	10.142
+
+407	119	-10.142	-	-10.142
+407	100 MW
+
+408	93	16.5289	16.5289
+
+408	94	-16.5289	-	-16.5289
+408	100 MW
+
+409	94	20.5339	20.5339
+
+409	95	-20.5339	-	-20.5339
+409	100 MW
+
+410	94	5.46448	5.46448
+
+410	96	-5.46448	-	-5.46448
+410	100 MW
+
+411	95	7.40741	7.40741
+
+411	96	-7.40741	-	-7.40741
+411	100 MW
+
+412	96	3.09598	3.09598
+
+412	103	-3.09598	-	-3.09598
+412	100 MW
+
+413	96	3.09598	3.09598
+
+413	103	-3.09598	-	-3.09598
+413	100 MW
+
+414	97	4.07498	4.07498
+
+414	98	-4.07498	-	-4.07498
+414	100 MW
+
+415	98	11.0988	11.0988
+
+415	99	-11.0988	-	-11.0988
+415	100 MW
+
+416	99	7.37463	7.37463
+
+416	100	-7.37463	-	-7.37463
+416	100 MW
+
+417	99	5.37634	5.37634
+
+417	103	-5.37634	-	-5.37634
+417	100 MW
+
+418	100	7.87402	7.87402
+
+418	101	-7.87402	-	-7.87402
+418	100 MW
+
+419	100	5.29101	5.29101
+
+419	102	-5.29101	-	-5.29101
+419	100 MW
+
+420	101	16	16
+
+420	103	-16	-	-16
+420	100 MW
+
+421	101	3.59971	3.59971
+
+421	123	-3.59971	-	-3.59971
+421	100 MW
+
+422	102	19.802	19.802
+
+422	103	-19.802	-	-19.802
+422	100 MW
+
+423	103	13.2979	13.2979
+
+423	104	-13.2979	-	-13.2979
+423	100 MW
+
+424	103	7.29927	7.29927
+
+424	105	-7.29927	-	-7.29927
+424	100 MW
+
+425	103	3.46021	3.46021
+
+425	108	-3.46021	-	-3.46021
+425	100 MW
+
+426	103	3.43643	3.43643
+
+426	108	-3.43643	-	-3.43643
+426	100 MW
+
+427	103	10.8814	10.8814
+
+427	120	-10.8814	-	-10.8814
+427	100 MW
+
+428	103	10.8814	10.8814
+
+428	120	-10.8814	-	-10.8814
+428	100 MW
+
+429	103	3.08642	3.08642
+
+429	123	-3.08642	-	-3.08642
+429	100 MW
+
+430	104	7.46269	7.46269
+
+430	111	-7.46269	-	-7.46269
+430	100 MW
+
+431	105	17.0068	17.0068
+
+431	106	-17.0068	-	-17.0068
+431	100 MW
+
+432	105	13.9082	13.9082
+
+432	112	-13.9082	-	-13.9082
+432	100 MW
+
+433	106	6.11621	6.11621
+
+433	107	-6.11621	-	-6.11621
+433	100 MW
+
+434	107	8.19672	8.19672
+
+434	108	-8.19672	-	-8.19672
+434	100 MW
+
+435	108	14.1443	14.1443
+
+435	109	-14.1443	-	-14.1443
+435	100 MW
+
+436	108	104.712	104.712
+
+436	110	-104.712	-	-104.712
+436	100 MW
+
+437	108	4.3611	4.3611
+
+437	113	-4.3611	-	-4.3611
+437	100 MW
+
+438	109	66.2252	66.2252
+
+438	110	-66.2252	-	-66.2252
+438	100 MW
+
+439	109	4.63392	4.63392
+
+439	113	-4.63392	-	-4.63392
+439	100 MW
+
+440	110	10.352	10.352
+
+440	111	-10.352	-	-10.352
+440	100 MW
+
+441	110	10.352	10.352
+
+441	112	-10.352	-	-10.352
+441	100 MW
+
+442	110	3.98406	3.98406
+
+442	113	-3.98406	-	-3.98406
+442	100 MW
+
+443	110	4.1841	4.1841
+
+443	113	-4.1841	-	-4.1841
+443	100 MW
+
+444	113	6.89655	6.89655
+
+444	114	-6.89655	-	-6.89655
+444	100 MW
+
+445	113	6.66667	6.66667
+
+445	115	-6.66667	-	-6.66667
+445	100 MW
+
+446	117	25.9067	25.9067
+
+446	113	-25.9067	-	-25.9067
+446	100 MW
+
+447	114	74.0741	74.0741
+
+447	115	-74.0741	-	-74.0741
+447	100 MW
+
+448	114	17.8253	17.8253
+
+448	116	-17.8253	-	-17.8253
+448	100 MW
+
+449	115	26.5957	26.5957
+
+449	116	-26.5957	-	-26.5957
+449	100 MW
+
+450	118	37.3134	37.3134
+
+450	115	-37.3134	-	-37.3134
+450	100 MW
+
+451	116	4.58716	4.58716
+
+451	120	-4.58716	-	-4.58716
+451	100 MW
+
+452	116	8.54701	8.54701
+
+452	121	-8.54701	-	-8.54701
+452	100 MW
+
+453	117	50	50
+
+453	118	-50	-	-50
+453	100 MW
+
+454	118	33.1126	33.1126
+
+454	119	-33.1126	-	-33.1126
+454	100 MW
+
+455	119	27.027	27.027
+
+455	120	-27.027	-	-27.027
+455	100 MW
+
+456	119	62.5	62.5
+
+456	122	-62.5	-	-62.5
+456	100 MW
+
+457	120	9.85222	9.85222
+
+457	121	-9.85222	-	-9.85222
+457	100 MW
+
+458	122	27.027	27.027
+
+458	123	-27.027	-	-27.027
+458	100 MW
+
+459	122	49.505	49.505
+
+459	135	-49.505	-	-49.505
+459	100 MW
+
+460	122	246.914	246.914
+
+460	170	-246.914	-	-246.914
+460	100 MW
+
+461	123	7.87402	7.87402
+
+461	124	-7.87402	-	-7.87402
+461	100 MW
+
+462	123	8.19672	8.19672
+
+462	129	-8.19672	-	-8.19672
+462	100 MW
+
+463	123	9.90099	9.90099
+
+463	131	-9.90099	-	-9.90099
+463	100 MW
+
+464	124	28.169	28.169
+
+464	125	-28.169	-	-28.169
+464	100 MW
+
+465	124	7.55858	7.55858
+
+465	128	-7.55858	-	-7.55858
+465	100 MW
+
+466	124	7.0922	7.0922
+
+466	129	-7.0922	-	-7.0922
+466	100 MW
+
+467	125	5.55556	5.55556
+
+467	126	-5.55556	-	-5.55556
+467	100 MW
+
+468	125	22.0264	22.0264
+
+468	127	-22.0264	-	-22.0264
+468	100 MW
+
+469	128	24.6305	24.6305
+
+469	129	-24.6305	-	-24.6305
+469	100 MW
+
+470	129	5.0025	5.0025
+
+470	131	-5.0025	-	-5.0025
+470	100 MW
+
+471	129	20.79	20.79
+
+471	172	-20.79	-	-20.79
+471	100 MW
+
+472	130	6.75676	6.75676
+
+472	131	-6.75676	-	-6.75676
+472	100 MW
+
+473	130	18.3824	18.3824
+
+473	172	-18.3824	-	-18.3824
+473	100 MW
+
+474	131	80.6452	80.6452
+
+474	132	-80.6452	-	-80.6452
+474	100 MW
+
+475	131	20.6186	20.6186
+
+475	134	-20.6186	-	-20.6186
+475	100 MW
+
+476	131	9.52381	9.52381
+
+476	134	-9.52381	-	-9.52381
+476	100 MW
+
+477	131	11.7233	11.7233
+
+477	136	-11.7233	-	-11.7233
+477	100 MW
+
+478	132	40.9836	40.9836
+
+478	133	-40.9836	-	-40.9836
+478	100 MW
+
+479	133	14.2045	14.2045
+
+479	134	-14.2045	-	-14.2045
+479	100 MW
+
+480	135	27.027	27.027
+
+480	134	-27.027	-	-27.027
+480	100 MW
+
+481	134	5.49451	5.49451
+
+481	150	-5.49451	-	-5.49451
+481	100 MW
+
+482	134	10.7066	10.7066
+
+482	151	-10.7066	-	-10.7066
+482	100 MW
+
+483	134	9.25926	9.25926
+
+483	152	-9.25926	-	-9.25926
+483	100 MW
+
+484	134	4.85437	4.85437
+
+484	153	-4.85437	-	-4.85437
+484	100 MW
+
+485	136	27.2851	27.2851
+
+485	137	-27.2851	-	-27.2851
+485	100 MW
+
+486	136	18.8679	18.8679
+
+486	150	-18.8679	-	-18.8679
+486	100 MW
+
+487	137	7.57576	7.57576
+
+487	138	-7.57576	-	-7.57576
+487	100 MW
+
+488	137	6.75676	6.75676
+
+488	139	-6.75676	-	-6.75676
+488	100 MW
+
+489	138	15.6006	15.6006
+
+489	139	-15.6006	-	-15.6006
+489	100 MW
+
+490	139	8.13008	8.13008
+
+490	140	-8.13008	-	-8.13008
+490	100 MW
+
+491	139	9.80392	9.80392
+
+491	142	-9.80392	-	-9.80392
+491	100 MW
+
+492	139	5.78035	5.78035
+
+492	143	-5.78035	-	-5.78035
+492	100 MW
+
+493	140	4.8216	4.8216
+
+493	141	-4.8216	-	-4.8216
+493	100 MW
+
+494	142	14.0449	14.0449
+
+494	143	-14.0449	-	-14.0449
+494	100 MW
+
+495	143	5.31915	5.31915
+
+495	144	-5.31915	-	-5.31915
+495	100 MW
+
+496	143	10.0301	10.0301
+
+496	144	-10.0301	-	-10.0301
+496	100 MW
+
+497	143	19.802	19.802
+
+497	146	-19.802	-	-19.802
+497	100 MW
+
+498	143	6.32511	6.32511
+
+498	146	-6.32511	-	-6.32511
+498	100 MW
+
+499	144	11.9617	11.9617
+
+499	145	-11.9617	-	-11.9617
+499	100 MW
+
+500	145	7.86164	7.86164
+
+500	146	-7.86164	-	-7.86164
+500	100 MW
+
+501	146	11.7925	11.7925
+
+501	147	-11.7925	-	-11.7925
+501	100 MW
+
+502	146	6.32911	6.32911
+
+502	148	-6.32911	-	-6.32911
+502	100 MW
+
+503	146	3.38983	3.38983
+
+503	154	-3.38983	-	-3.38983
+503	100 MW
+
+504	146	17.8891	17.8891
+
+504	156	-17.8891	-	-17.8891
+504	100 MW
+
+505	147	13.6612	13.6612
+
+505	148	-13.6612	-	-13.6612
+505	100 MW
+
+506	148	23.0415	23.0415
+
+506	149	-23.0415	-	-23.0415
+506	100 MW
+
+507	148	11.5075	11.5075
+
+507	150	-11.5075	-	-11.5075
+507	100 MW
+
+508	148	17.2414	17.2414
+
+508	154	-17.2414	-	-17.2414
+508	100 MW
+
+509	149	18.2815	18.2815
+
+509	150	-18.2815	-	-18.2815
+509	100 MW
+
+510	150	11.2994	11.2994
+
+510	151	-11.2994	-	-11.2994
+510	100 MW
+
+511	152	5.58659	5.58659
+
+511	154	-5.58659	-	-5.58659
+511	100 MW
+
+512	153	12.3001	12.3001
+
+512	154	-12.3001	-	-12.3001
+512	100 MW
+
+513	154	7.92393	7.92393
+
+513	155	-7.92393	-	-7.92393
+513	100 MW
+
+514	154	19.0476	19.0476
+
+514	157	-19.0476	-	-19.0476
+514	100 MW
+
+515	154	4.90196	4.90196
+
+515	158	-4.90196	-	-4.90196
+515	100 MW
+
+516	154	4.36681	4.36681
+
+516	160	-4.36681	-	-4.36681
+516	100 MW
+
+517	155	8.92857	8.92857
+
+517	156	-8.92857	-	-8.92857
+517	100 MW
+
+518	157	6.31313	6.31313
+
+518	158	-6.31313	-	-6.31313
+518	100 MW
+
+519	157	6.15385	6.15385
+
+519	159	-6.15385	-	-6.15385
+519	100 MW
+
+520	157	5.51572	5.51572
+
+520	164	-5.51572	-	-5.51572
+520	100 MW
+
+521	158	26.455	26.455
+
+521	159	-26.455	-	-26.455
+521	100 MW
+
+522	159	18.2815	18.2815
+
+522	160	-18.2815	-	-18.2815
+522	100 MW
+
+523	159	5.46448	5.46448
+
+523	161	-5.46448	-	-5.46448
+523	100 MW
+
+524	159	14.2248	14.2248
+
+524	162	-14.2248	-	-14.2248
+524	100 MW
+
+525	160	5.46448	5.46448
+
+525	161	-5.46448	-	-5.46448
+525	100 MW
+
+526	162	34.7222	34.7222
+
+526	163	-34.7222	-	-34.7222
+526	100 MW
+
+527	163	13.1234	13.1234
+
+527	164	-13.1234	-	-13.1234
+527	100 MW
+
+528	164	13.245	13.245
+
+528	165	-13.245	-	-13.245
+528	100 MW
+
+529	164	15.625	15.625
+
+529	166	-15.625	-	-15.625
+529	100 MW
+
+530	168	96.1538	96.1538
+
+530	169	-96.1538	-	-96.1538
+530	100 MW
+
+Coefficients corresponding to intra-zone Line Reverse Flow Limit Constraints
+
+531	55	10.01	10.01
+
+531	56	-10.01	-	-10.01
+531	-100 MW
+
+532	55	23.5849	23.5849
+
+532	57	-23.5849	-	-23.5849
+532	-100 MW
+
+533	56	16.2338	16.2338
+
+533	66	-16.2338	-	-16.2338
+533	-100 MW
+
+534	57	9.25926	9.25926
+
+534	59	-9.25926	-	-9.25926
+534	-100 MW
+
+535	57	6.25	6.25
+
+535	66	-6.25	-	-6.25
+535	-100 MW
+
+536	58	125.313	125.313
+
+536	59	-125.313	-	-125.313
+536	-100 MW
+
+537	58	14.5349	14.5349
+
+537	65	-14.5349	-	-14.5349
+537	-100 MW
+
+538	59	18.5185	18.5185
+
+538	60	-18.5185	-	-18.5185
+538	-100 MW
+
+539	62	37.4532	37.4532
+
+539	59	-37.4532	-	-37.4532
+539	-100 MW
+
+540	59	14.6628	14.6628
+
+540	65	-14.6628	-	-14.6628
+540	-100 MW
+
+541	60	48.0769	48.0769
+
+541	61	-48.0769	-	-48.0769
+541	-100 MW
+
+542	61	29.4118	29.4118
+
+542	66	-29.4118	-	-29.4118
+542	-100 MW
+
+543	62	32.7869	32.7869
+
+543	63	-32.7869	-	-32.7869
+543	-100 MW
+
+544	62	19.8413	19.8413
+
+544	84	-19.8413	-	-19.8413
+544	-100 MW
+
+545	63	31.0559	31.0559
+
+545	64	-31.0559	-	-31.0559
+545	-100 MW
+
+546	65	51.0204	51.0204
+
+546	66	-51.0204	-	-51.0204
+546	-100 MW
+
+547	65	13.6799	13.6799
+
+547	67	-13.6799	-	-13.6799
+547	-100 MW
+
+548	66	14.1443	14.1443
+
+548	68	-14.1443	-	-14.1443
+548	-100 MW
+
+549	66	11.9904	11.9904
+
+549	70	-11.9904	-	-11.9904
+549	-100 MW
+
+550	66	7.14286	7.14286
+
+550	171	-7.14286	-	-7.14286
+550	-100 MW
+
+551	67	4.09165	4.09165
+
+551	69	-4.09165	-	-4.09165
+551	-100 MW
+
+552	68	5.12821	5.12821
+
+552	69	-5.12821	-	-5.12821
+552	-100 MW
+
+553	69	22.8833	22.8833
+
+553	71	-22.8833	-	-22.8833
+553	-100 MW
+
+554	69	25.3807	25.3807
+
+554	73	-25.3807	-	-25.3807
+554	-100 MW
+
+555	69	8.03859	8.03859
+
+555	87	-8.03859	-	-8.03859
+555	-100 MW
+
+556	70	5.55247	5.55247
+
+556	71	-5.55247	-	-5.55247
+556	-100 MW
+
+557	71	19.802	19.802
+
+557	72	-19.802	-	-19.802
+557	-100 MW
+
+558	84	25.7732	25.7732
+
+558	71	-25.7732	-	-25.7732
+558	-100 MW
+
+559	71	6.39795	6.39795
+
+559	85	-6.39795	-	-6.39795
+559	-100 MW
+
+560	71	33.2226	33.2226
+
+560	167	-33.2226	-	-33.2226
+560	-100 MW
+
+561	72	20.284	20.284
+
+561	73	-20.284	-	-20.284
+561	-100 MW
+
+562	73	8.54701	8.54701
+
+562	74	-8.54701	-	-8.54701
+562	-100 MW
+
+563	73	4.04858	4.04858
+
+563	88	-4.04858	-	-4.04858
+563	-100 MW
+
+564	74	11.7786	11.7786
+
+564	75	-11.7786	-	-11.7786
+564	-100 MW
+
+565	75	10.3093	10.3093
+
+565	76	-10.3093	-	-10.3093
+565	-100 MW
+
+566	76	6.28931	6.28931
+
+566	77	-6.28931	-	-6.28931
+566	-100 MW
+
+567	77	20.3252	20.3252
+
+567	78	-20.3252	-	-20.3252
+567	-100 MW
+
+568	77	12.5	12.5
+
+568	79	-12.5	-	-12.5
+568	-100 MW
+
+569	77	8.67303	8.67303
+
+569	86	-8.67303	-	-8.67303
+569	-100 MW
+
+570	78	2.43013	2.43013
+
+570	124	-2.43013	-	-2.43013
+570	-100 MW
+
+571	78	5.10204	5.10204
+
+571	126	-5.10204	-	-5.10204
+571	-100 MW
+
+572	80	26.178	26.178
+
+572	79	-26.178	-	-26.178
+572	-100 MW
+
+573	79	6.13497	6.13497
+
+573	81	-6.13497	-	-6.13497
+573	-100 MW
+
+574	80	11.6279	11.6279
+
+574	84	-11.6279	-	-11.6279
+574	-100 MW
+
+575	81	11.6959	11.6959
+
+575	82	-11.6959	-	-11.6959
+575	-100 MW
+
+576	81	13.245	13.245
+
+576	86	-13.245	-	-13.245
+576	-100 MW
+
+577	81	13.4953	13.4953
+
+577	169	-13.4953	-	-13.4953
+577	-100 MW
+
+578	82	10.6045	10.6045
+
+578	83	-10.6045	-	-10.6045
+578	-100 MW
+
+579	83	30.2115	30.2115
+
+579	85	-30.2115	-	-30.2115
+579	-100 MW
+
+580	84	18.5185	18.5185
+
+580	92	-18.5185	-	-18.5185
+580	-100 MW
+
+581	85	10.1523	10.1523
+
+581	86	-10.1523	-	-10.1523
+581	-100 MW
+
+582	86	4.92611	4.92611
+
+582	167	-4.92611	-	-4.92611
+582	-100 MW
+
+583	86	16.3399	16.3399
+
+583	168	-16.3399	-	-16.3399
+583	-100 MW
+
+584	87	7.04225	7.04225
+
+584	91	-7.04225	-	-7.04225
+584	-100 MW
+
+585	88	37.3134	37.3134
+
+585	90	-37.3134	-	-37.3134
+585	-100 MW
+
+586	88	106.383	106.383
+
+586	91	-106.383	-	-106.383
+586	-100 MW
+
+587	88	5.94884	5.94884
+
+587	97	-5.94884	-	-5.94884
+587	-100 MW
+
+588	89	98.0392	98.0392
+
+588	90	-98.0392	-	-98.0392
+588	-100 MW
+
+589	89	20.1207	20.1207
+
+589	91	-20.1207	-	-20.1207
+589	-100 MW
+
+590	92	26.6667	26.6667
+
+590	91	-26.6667	-	-26.6667
+590	-100 MW
+
+591	91	9.43396	9.43396
+
+591	93	-9.43396	-	-9.43396
+591	-100 MW
+
+592	91	5.95238	5.95238
+
+592	94	-5.95238	-	-5.95238
+592	-100 MW
+
+593	92	10.142	10.142
+
+593	119	-10.142	-	-10.142
+593	-100 MW
+
+594	93	16.5289	16.5289
+
+594	94	-16.5289	-	-16.5289
+594	-100 MW
+
+595	94	20.5339	20.5339
+
+595	95	-20.5339	-	-20.5339
+595	-100 MW
+
+596	94	5.46448	5.46448
+
+596	96	-5.46448	-	-5.46448
+596	-100 MW
+
+597	95	7.40741	7.40741
+
+597	96	-7.40741	-	-7.40741
+597	-100 MW
+
+598	96	3.09598	3.09598
+
+598	103	-3.09598	-	-3.09598
+598	-100 MW
+
+599	96	3.09598	3.09598
+
+599	103	-3.09598	-	-3.09598
+599	-100 MW
+
+600	97	4.07498	4.07498
+
+600	98	-4.07498	-	-4.07498
+600	-100 MW
+
+601	98	11.0988	11.0988
+
+601	99	-11.0988	-	-11.0988
+601	-100 MW
+
+602	99	7.37463	7.37463
+
+602	100	-7.37463	-	-7.37463
+602	-100 MW
+
+603	99	5.37634	5.37634
+
+603	103	-5.37634	-	-5.37634
+603	-100 MW
+
+604	100	7.87402	7.87402
+
+604	101	-7.87402	-	-7.87402
+604	-100 MW
+
+605	100	5.29101	5.29101
+
+605	102	-5.29101	-	-5.29101
+605	-100 MW
+
+606	101	16	16
+
+606	103	-16	-	-16
+606	-100 MW
+
+607	101	3.59971	3.59971
+
+607	123	-3.59971	-	-3.59971
+607	-100 MW
+
+608	102	19.802	19.802
+
+608	103	-19.802	-	-19.802
+608	-100 MW
+
+609	103	13.2979	13.2979
+
+609	104	-13.2979	-	-13.2979
+609	-100 MW
+
+610	103	7.29927	7.29927
+
+610	105	-7.29927	-	-7.29927
+610	-100 MW
+
+611	103	3.46021	3.46021
+
+611	108	-3.46021	-	-3.46021
+611	-100 MW
+
+612	103	3.43643	3.43643
+
+612	108	-3.43643	-	-3.43643
+612	-100 MW
+
+613	103	10.8814	10.8814
+
+613	120	-10.8814	-	-10.8814
+613	-100 MW
+
+614	103	10.8814	10.8814
+
+614	120	-10.8814	-	-10.8814
+614	-100 MW
+
+615	103	3.08642	3.08642
+
+615	123	-3.08642	-	-3.08642
+615	-100 MW
+
+616	104	7.46269	7.46269
+
+616	111	-7.46269	-	-7.46269
+616	-100 MW
+
+617	105	17.0068	17.0068
+
+617	106	-17.0068	-	-17.0068
+617	-100 MW
+
+618	105	13.9082	13.9082
+
+618	112	-13.9082	-	-13.9082
+618	-100 MW
+
+619	106	6.11621	6.11621
+
+619	107	-6.11621	-	-6.11621
+619	-100 MW
+
+620	107	8.19672	8.19672
+
+620	108	-8.19672	-	-8.19672
+620	-100 MW
+
+621	108	14.1443	14.1443
+
+621	109	-14.1443	-	-14.1443
+621	-100 MW
+
+622	108	104.712	104.712
+
+622	110	-104.712	-	-104.712
+622	-100 MW
+
+623	108	4.3611	4.3611
+
+623	113	-4.3611	-	-4.3611
+623	-100 MW
+
+624	109	66.2252	66.2252
+
+624	110	-66.2252	-	-66.2252
+624	-100 MW
+
+625	109	4.63392	4.63392
+
+625	113	-4.63392	-	-4.63392
+625	-100 MW
+
+626	110	10.352	10.352
+
+626	111	-10.352	-	-10.352
+626	-100 MW
+
+627	110	10.352	10.352
+
+627	112	-10.352	-	-10.352
+627	-100 MW
+
+628	110	3.98406	3.98406
+
+628	113	-3.98406	-	-3.98406
+628	-100 MW
+
+629	110	4.1841	4.1841
+
+629	113	-4.1841	-	-4.1841
+629	-100 MW
+
+630	113	6.89655	6.89655
+
+630	114	-6.89655	-	-6.89655
+630	-100 MW
+
+631	113	6.66667	6.66667
+
+631	115	-6.66667	-	-6.66667
+631	-100 MW
+
+632	117	25.9067	25.9067
+
+632	113	-25.9067	-	-25.9067
+632	-100 MW
+
+633	114	74.0741	74.0741
+
+633	115	-74.0741	-	-74.0741
+633	-100 MW
+
+634	114	17.8253	17.8253
+
+634	116	-17.8253	-	-17.8253
+634	-100 MW
+
+635	115	26.5957	26.5957
+
+635	116	-26.5957	-	-26.5957
+635	-100 MW
+
+636	118	37.3134	37.3134
+
+636	115	-37.3134	-	-37.3134
+636	-100 MW
+
+637	116	4.58716	4.58716
+
+637	120	-4.58716	-	-4.58716
+637	-100 MW
+
+638	116	8.54701	8.54701
+
+638	121	-8.54701	-	-8.54701
+638	-100 MW
+
+639	117	50	50
+
+639	118	-50	-	-50
+639	-100 MW
+
+640	118	33.1126	33.1126
+
+640	119	-33.1126	-	-33.1126
+640	-100 MW
+
+641	119	27.027	27.027
+
+641	120	-27.027	-	-27.027
+641	-100 MW
+
+642	119	62.5	62.5
+
+642	122	-62.5	-	-62.5
+642	-100 MW
+
+643	120	9.85222	9.85222
+
+643	121	-9.85222	-	-9.85222
+643	-100 MW
+
+644	122	27.027	27.027
+
+644	123	-27.027	-	-27.027
+644	-100 MW
+
+645	122	49.505	49.505
+
+645	135	-49.505	-	-49.505
+645	-100 MW
+
+646	122	246.914	246.914
+
+646	170	-246.914	-	-246.914
+646	-100 MW
+
+647	123	7.87402	7.87402
+
+647	124	-7.87402	-	-7.87402
+647	-100 MW
+
+648	123	8.19672	8.19672
+
+648	129	-8.19672	-	-8.19672
+648	-100 MW
+
+649	123	9.90099	9.90099
+
+649	131	-9.90099	-	-9.90099
+649	-100 MW
+
+650	124	28.169	28.169
+
+650	125	-28.169	-	-28.169
+650	-100 MW
+
+651	124	7.55858	7.55858
+
+651	128	-7.55858	-	-7.55858
+651	-100 MW
+
+652	124	7.0922	7.0922
+
+652	129	-7.0922	-	-7.0922
+652	-100 MW
+
+653	125	5.55556	5.55556
+
+653	126	-5.55556	-	-5.55556
+653	-100 MW
+
+654	125	22.0264	22.0264
+
+654	127	-22.0264	-	-22.0264
+654	-100 MW
+
+655	128	24.6305	24.6305
+
+655	129	-24.6305	-	-24.6305
+655	-100 MW
+
+656	129	5.0025	5.0025
+
+656	131	-5.0025	-	-5.0025
+656	-100 MW
+
+657	129	20.79	20.79
+
+657	172	-20.79	-	-20.79
+657	-100 MW
+
+658	130	6.75676	6.75676
+
+658	131	-6.75676	-	-6.75676
+658	-100 MW
+
+659	130	18.3824	18.3824
+
+659	172	-18.3824	-	-18.3824
+659	-100 MW
+
+660	131	80.6452	80.6452
+
+660	132	-80.6452	-	-80.6452
+660	-100 MW
+
+661	131	20.6186	20.6186
+
+661	134	-20.6186	-	-20.6186
+661	-100 MW
+
+662	131	9.52381	9.52381
+
+662	134	-9.52381	-	-9.52381
+662	-100 MW
+
+663	131	11.7233	11.7233
+
+663	136	-11.7233	-	-11.7233
+663	-100 MW
+
+664	132	40.9836	40.9836
+
+664	133	-40.9836	-	-40.9836
+664	-100 MW
+
+665	133	14.2045	14.2045
+
+665	134	-14.2045	-	-14.2045
+665	-100 MW
+
+666	135	27.027	27.027
+
+666	134	-27.027	-	-27.027
+666	-100 MW
+
+667	134	5.49451	5.49451
+
+667	150	-5.49451	-	-5.49451
+667	-100 MW
+
+668	134	10.7066	10.7066
+
+668	151	-10.7066	-	-10.7066
+668	-100 MW
+
+669	134	9.25926	9.25926
+
+669	152	-9.25926	-	-9.25926
+669	-100 MW
+
+670	134	4.85437	4.85437
+
+670	153	-4.85437	-	-4.85437
+670	-100 MW
+
+671	136	27.2851	27.2851
+
+671	137	-27.2851	-	-27.2851
+671	-100 MW
+
+672	136	18.8679	18.8679
+
+672	150	-18.8679	-	-18.8679
+672	-100 MW
+
+673	137	7.57576	7.57576
+
+673	138	-7.57576	-	-7.57576
+673	-100 MW
+
+674	137	6.75676	6.75676
+
+674	139	-6.75676	-	-6.75676
+674	-100 MW
+
+675	138	15.6006	15.6006
+
+675	139	-15.6006	-	-15.6006
+675	-100 MW
+
+676	139	8.13008	8.13008
+
+676	140	-8.13008	-	-8.13008
+676	-100 MW
+
+677	139	9.80392	9.80392
+
+677	142	-9.80392	-	-9.80392
+677	-100 MW
+
+678	139	5.78035	5.78035
+
+678	143	-5.78035	-	-5.78035
+678	-100 MW
+
+679	140	4.8216	4.8216
+
+679	141	-4.8216	-	-4.8216
+679	-100 MW
+
+680	142	14.0449	14.0449
+
+680	143	-14.0449	-	-14.0449
+680	-100 MW
+
+681	143	5.31915	5.31915
+
+681	144	-5.31915	-	-5.31915
+681	-100 MW
+
+682	143	10.0301	10.0301
+
+682	144	-10.0301	-	-10.0301
+682	-100 MW
+
+683	143	19.802	19.802
+
+683	146	-19.802	-	-19.802
+683	-100 MW
+
+684	143	6.32511	6.32511
+
+684	146	-6.32511	-	-6.32511
+684	-100 MW
+
+685	144	11.9617	11.9617
+
+685	145	-11.9617	-	-11.9617
+685	-100 MW
+
+686	145	7.86164	7.86164
+
+686	146	-7.86164	-	-7.86164
+686	-100 MW
+
+687	146	11.7925	11.7925
+
+687	147	-11.7925	-	-11.7925
+687	-100 MW
+
+688	146	6.32911	6.32911
+
+688	148	-6.32911	-	-6.32911
+688	-100 MW
+
+689	146	3.38983	3.38983
+
+689	154	-3.38983	-	-3.38983
+689	-100 MW
+
+690	146	17.8891	17.8891
+
+690	156	-17.8891	-	-17.8891
+690	-100 MW
+
+691	147	13.6612	13.6612
+
+691	148	-13.6612	-	-13.6612
+691	-100 MW
+
+692	148	23.0415	23.0415
+
+692	149	-23.0415	-	-23.0415
+692	-100 MW
+
+693	148	11.5075	11.5075
+
+693	150	-11.5075	-	-11.5075
+693	-100 MW
+
+694	148	17.2414	17.2414
+
+694	154	-17.2414	-	-17.2414
+694	-100 MW
+
+695	149	18.2815	18.2815
+
+695	150	-18.2815	-	-18.2815
+695	-100 MW
+
+696	150	11.2994	11.2994
+
+696	151	-11.2994	-	-11.2994
+696	-100 MW
+
+697	152	5.58659	5.58659
+
+697	154	-5.58659	-	-5.58659
+697	-100 MW
+
+698	153	12.3001	12.3001
+
+698	154	-12.3001	-	-12.3001
+698	-100 MW
+
+699	154	7.92393	7.92393
+
+699	155	-7.92393	-	-7.92393
+699	-100 MW
+
+700	154	19.0476	19.0476
+
+700	157	-19.0476	-	-19.0476
+700	-100 MW
+
+701	154	4.90196	4.90196
+
+701	158	-4.90196	-	-4.90196
+701	-100 MW
+
+702	154	4.36681	4.36681
+
+702	160	-4.36681	-	-4.36681
+702	-100 MW
+
+703	155	8.92857	8.92857
+
+703	156	-8.92857	-	-8.92857
+703	-100 MW
+
+704	157	6.31313	6.31313
+
+704	158	-6.31313	-	-6.31313
+704	-100 MW
+
+705	157	6.15385	6.15385
+
+705	159	-6.15385	-	-6.15385
+705	-100 MW
+
+706	157	5.51572	5.51572
+
+706	164	-5.51572	-	-5.51572
+706	-100 MW
+
+707	158	26.455	26.455
+
+707	159	-26.455	-	-26.455
+707	-100 MW
+
+708	159	18.2815	18.2815
+
+708	160	-18.2815	-	-18.2815
+708	-100 MW
+
+709	159	5.46448	5.46448
+
+709	161	-5.46448	-	-5.46448
+709	-100 MW
+
+710	159	14.2248	14.2248
+
+710	162	-14.2248	-	-14.2248
+710	-100 MW
+
+711	160	5.46448	5.46448
+
+711	161	-5.46448	-	-5.46448
+711	-100 MW
+
+712	162	34.7222	34.7222
+
+712	163	-34.7222	-	-34.7222
+712	-100 MW
+
+713	163	13.1234	13.1234
+
+713	164	-13.1234	-	-13.1234
+713	-100 MW
+
+714	164	13.245	13.245
+
+714	165	-13.245	-	-13.245
+714	-100 MW
+
+715	164	15.625	15.625
+
+715	166	-15.625	-	-15.625
+715	-100 MW
+
+716	168	96.1538	96.1538
+
+716	169	-96.1538	-	-96.1538
+716	-100 MW
+
+Coefficients corresponding to intra-zone Line Forward Flow Limit Constraints
+
+717	173	23.5849	23.5849
+
+717	175	-23.5849	-	-23.5849
+717	100 MW
+
+718	174	16.2338	16.2338
+
+718	184	-16.2338	-	-16.2338
+718	100 MW
+
+719	175	9.25926	9.25926
+
+719	177	-9.25926	-	-9.25926
+719	100 MW
+
+720	175	6.25	6.25
+
+720	184	-6.25	-	-6.25
+720	100 MW
+
+721	176	125.313	125.313
+
+721	177	-125.313	-	-125.313
+721	100 MW
+
+722	176	14.5349	14.5349
+
+722	183	-14.5349	-	-14.5349
+722	100 MW
+
+723	177	18.5185	18.5185
+
+723	178	-18.5185	-	-18.5185
+723	100 MW
+
+724	180	37.4532	37.4532
+
+724	177	-37.4532	-	-37.4532
+724	100 MW
+
+725	177	14.6628	14.6628
+
+725	183	-14.6628	-	-14.6628
+725	100 MW
+
+726	178	48.0769	48.0769
+
+726	179	-48.0769	-	-48.0769
+726	100 MW
+
+727	179	29.4118	29.4118
+
+727	184	-29.4118	-	-29.4118
+727	100 MW
+
+728	180	32.7869	32.7869
+
+728	181	-32.7869	-	-32.7869
+728	100 MW
+
+729	180	19.8413	19.8413
+
+729	202	-19.8413	-	-19.8413
+729	100 MW
+
+730	181	31.0559	31.0559
+
+730	182	-31.0559	-	-31.0559
+730	100 MW
+
+731	183	51.0204	51.0204
+
+731	184	-51.0204	-	-51.0204
+731	100 MW
+
+732	183	13.6799	13.6799
+
+732	185	-13.6799	-	-13.6799
+732	100 MW
+
+733	184	14.1443	14.1443
+
+733	186	-14.1443	-	-14.1443
+733	100 MW
+
+734	184	11.9904	11.9904
+
+734	188	-11.9904	-	-11.9904
+734	100 MW
+
+735	184	7.14286	7.14286
+
+735	289	-7.14286	-	-7.14286
+735	100 MW
+
+736	185	4.09165	4.09165
+
+736	187	-4.09165	-	-4.09165
+736	100 MW
+
+737	186	5.12821	5.12821
+
+737	187	-5.12821	-	-5.12821
+737	100 MW
+
+738	187	22.8833	22.8833
+
+738	189	-22.8833	-	-22.8833
+738	100 MW
+
+739	187	25.3807	25.3807
+
+739	191	-25.3807	-	-25.3807
+739	100 MW
+
+740	187	8.03859	8.03859
+
+740	205	-8.03859	-	-8.03859
+740	100 MW
+
+741	188	5.55247	5.55247
+
+741	189	-5.55247	-	-5.55247
+741	100 MW
+
+742	189	19.802	19.802
+
+742	190	-19.802	-	-19.802
+742	100 MW
+
+743	202	25.7732	25.7732
+
+743	189	-25.7732	-	-25.7732
+743	100 MW
+
+744	189	6.39795	6.39795
+
+744	203	-6.39795	-	-6.39795
+744	100 MW
+
+745	189	33.2226	33.2226
+
+745	285	-33.2226	-	-33.2226
+745	100 MW
+
+746	190	20.284	20.284
+
+746	191	-20.284	-	-20.284
+746	100 MW
+
+747	191	8.54701	8.54701
+
+747	192	-8.54701	-	-8.54701
+747	100 MW
+
+748	191	4.04858	4.04858
+
+748	206	-4.04858	-	-4.04858
+748	100 MW
+
+749	192	11.7786	11.7786
+
+749	193	-11.7786	-	-11.7786
+749	100 MW
+
+750	193	10.3093	10.3093
+
+750	194	-10.3093	-	-10.3093
+750	100 MW
+
+751	194	6.28931	6.28931
+
+751	195	-6.28931	-	-6.28931
+751	100 MW
+
+752	195	20.3252	20.3252
+
+752	196	-20.3252	-	-20.3252
+752	100 MW
+
+753	195	12.5	12.5
+
+753	197	-12.5	-	-12.5
+753	100 MW
+
+754	195	8.67303	8.67303
+
+754	204	-8.67303	-	-8.67303
+754	100 MW
+
+755	196	2.43013	2.43013
+
+755	242	-2.43013	-	-2.43013
+755	100 MW
+
+756	196	5.10204	5.10204
+
+756	244	-5.10204	-	-5.10204
+756	100 MW
+
+757	198	26.178	26.178
+
+757	197	-26.178	-	-26.178
+757	100 MW
+
+758	197	6.13497	6.13497
+
+758	199	-6.13497	-	-6.13497
+758	100 MW
+
+759	198	11.6279	11.6279
+
+759	202	-11.6279	-	-11.6279
+759	100 MW
+
+760	199	11.6959	11.6959
+
+760	200	-11.6959	-	-11.6959
+760	100 MW
+
+761	199	13.245	13.245
+
+761	204	-13.245	-	-13.245
+761	100 MW
+
+762	199	13.4953	13.4953
+
+762	287	-13.4953	-	-13.4953
+762	100 MW
+
+763	200	10.6045	10.6045
+
+763	201	-10.6045	-	-10.6045
+763	100 MW
+
+764	201	30.2115	30.2115
+
+764	203	-30.2115	-	-30.2115
+764	100 MW
+
+765	202	18.5185	18.5185
+
+765	210	-18.5185	-	-18.5185
+765	100 MW
+
+766	203	10.1523	10.1523
+
+766	204	-10.1523	-	-10.1523
+766	100 MW
+
+767	204	4.92611	4.92611
+
+767	285	-4.92611	-	-4.92611
+767	100 MW
+
+768	204	16.3399	16.3399
+
+768	286	-16.3399	-	-16.3399
+768	100 MW
+
+769	205	7.04225	7.04225
+
+769	209	-7.04225	-	-7.04225
+769	100 MW
+
+770	206	37.3134	37.3134
+
+770	208	-37.3134	-	-37.3134
+770	100 MW
+
+771	206	106.383	106.383
+
+771	209	-106.383	-	-106.383
+771	100 MW
+
+772	206	5.94884	5.94884
+
+772	215	-5.94884	-	-5.94884
+772	100 MW
+
+773	207	98.0392	98.0392
+
+773	208	-98.0392	-	-98.0392
+773	100 MW
+
+774	207	20.1207	20.1207
+
+774	209	-20.1207	-	-20.1207
+774	100 MW
+
+775	210	26.6667	26.6667
+
+775	209	-26.6667	-	-26.6667
+775	100 MW
+
+776	209	9.43396	9.43396
+
+776	211	-9.43396	-	-9.43396
+776	100 MW
+
+777	209	5.95238	5.95238
+
+777	212	-5.95238	-	-5.95238
+777	100 MW
+
+778	210	10.142	10.142
+
+778	237	-10.142	-	-10.142
+778	100 MW
+
+779	211	16.5289	16.5289
+
+779	212	-16.5289	-	-16.5289
+779	100 MW
+
+780	212	20.5339	20.5339
+
+780	213	-20.5339	-	-20.5339
+780	100 MW
+
+781	212	5.46448	5.46448
+
+781	214	-5.46448	-	-5.46448
+781	100 MW
+
+782	213	7.40741	7.40741
+
+782	214	-7.40741	-	-7.40741
+782	100 MW
+
+783	214	3.09598	3.09598
+
+783	221	-3.09598	-	-3.09598
+783	100 MW
+
+784	214	3.09598	3.09598
+
+784	221	-3.09598	-	-3.09598
+784	100 MW
+
+785	215	4.07498	4.07498
+
+785	216	-4.07498	-	-4.07498
+785	100 MW
+
+786	216	11.0988	11.0988
+
+786	217	-11.0988	-	-11.0988
+786	100 MW
+
+787	217	7.37463	7.37463
+
+787	218	-7.37463	-	-7.37463
+787	100 MW
+
+788	217	5.37634	5.37634
+
+788	221	-5.37634	-	-5.37634
+788	100 MW
+
+789	218	7.87402	7.87402
+
+789	219	-7.87402	-	-7.87402
+789	100 MW
+
+790	218	5.29101	5.29101
+
+790	220	-5.29101	-	-5.29101
+790	100 MW
+
+791	219	16	16
+
+791	221	-16	-	-16
+791	100 MW
+
+792	219	3.59971	3.59971
+
+792	241	-3.59971	-	-3.59971
+792	100 MW
+
+793	220	19.802	19.802
+
+793	221	-19.802	-	-19.802
+793	100 MW
+
+794	221	13.2979	13.2979
+
+794	222	-13.2979	-	-13.2979
+794	100 MW
+
+795	221	7.29927	7.29927
+
+795	223	-7.29927	-	-7.29927
+795	100 MW
+
+796	221	3.46021	3.46021
+
+796	226	-3.46021	-	-3.46021
+796	100 MW
+
+797	221	3.43643	3.43643
+
+797	226	-3.43643	-	-3.43643
+797	100 MW
+
+798	221	10.8814	10.8814
+
+798	238	-10.8814	-	-10.8814
+798	100 MW
+
+799	221	10.8814	10.8814
+
+799	238	-10.8814	-	-10.8814
+799	100 MW
+
+800	221	3.08642	3.08642
+
+800	241	-3.08642	-	-3.08642
+800	100 MW
+
+801	222	7.46269	7.46269
+
+801	229	-7.46269	-	-7.46269
+801	100 MW
+
+802	223	17.0068	17.0068
+
+802	224	-17.0068	-	-17.0068
+802	100 MW
+
+803	223	13.9082	13.9082
+
+803	230	-13.9082	-	-13.9082
+803	100 MW
+
+804	224	6.11621	6.11621
+
+804	225	-6.11621	-	-6.11621
+804	100 MW
+
+805	225	8.19672	8.19672
+
+805	226	-8.19672	-	-8.19672
+805	100 MW
+
+806	226	14.1443	14.1443
+
+806	227	-14.1443	-	-14.1443
+806	100 MW
+
+807	226	104.712	104.712
+
+807	228	-104.712	-	-104.712
+807	100 MW
+
+808	226	4.3611	4.3611
+
+808	231	-4.3611	-	-4.3611
+808	100 MW
+
+809	227	66.2252	66.2252
+
+809	228	-66.2252	-	-66.2252
+809	100 MW
+
+810	227	4.63392	4.63392
+
+810	231	-4.63392	-	-4.63392
+810	100 MW
+
+811	228	10.352	10.352
+
+811	229	-10.352	-	-10.352
+811	100 MW
+
+812	228	10.352	10.352
+
+812	230	-10.352	-	-10.352
+812	100 MW
+
+813	228	3.98406	3.98406
+
+813	231	-3.98406	-	-3.98406
+813	100 MW
+
+814	228	4.1841	4.1841
+
+814	231	-4.1841	-	-4.1841
+814	100 MW
+
+815	231	6.89655	6.89655
+
+815	232	-6.89655	-	-6.89655
+815	100 MW
+
+816	231	6.66667	6.66667
+
+816	233	-6.66667	-	-6.66667
+816	100 MW
+
+817	235	25.9067	25.9067
+
+817	231	-25.9067	-	-25.9067
+817	100 MW
+
+818	232	74.0741	74.0741
+
+818	233	-74.0741	-	-74.0741
+818	100 MW
+
+819	232	17.8253	17.8253
+
+819	234	-17.8253	-	-17.8253
+819	100 MW
+
+820	233	26.5957	26.5957
+
+820	234	-26.5957	-	-26.5957
+820	100 MW
+
+821	236	37.3134	37.3134
+
+821	233	-37.3134	-	-37.3134
+821	100 MW
+
+822	234	4.58716	4.58716
+
+822	238	-4.58716	-	-4.58716
+822	100 MW
+
+823	234	8.54701	8.54701
+
+823	239	-8.54701	-	-8.54701
+823	100 MW
+
+824	235	50	50
+
+824	236	-50	-	-50
+824	100 MW
+
+825	236	33.1126	33.1126
+
+825	237	-33.1126	-	-33.1126
+825	100 MW
+
+826	237	27.027	27.027
+
+826	238	-27.027	-	-27.027
+826	100 MW
+
+827	237	62.5	62.5
+
+827	240	-62.5	-	-62.5
+827	100 MW
+
+828	238	9.85222	9.85222
+
+828	239	-9.85222	-	-9.85222
+828	100 MW
+
+829	240	27.027	27.027
+
+829	241	-27.027	-	-27.027
+829	100 MW
+
+830	240	49.505	49.505
+
+830	253	-49.505	-	-49.505
+830	100 MW
+
+831	240	246.914	246.914
+
+831	288	-246.914	-	-246.914
+831	100 MW
+
+832	241	7.87402	7.87402
+
+832	242	-7.87402	-	-7.87402
+832	100 MW
+
+833	241	8.19672	8.19672
+
+833	247	-8.19672	-	-8.19672
+833	100 MW
+
+834	241	9.90099	9.90099
+
+834	249	-9.90099	-	-9.90099
+834	100 MW
+
+835	242	28.169	28.169
+
+835	243	-28.169	-	-28.169
+835	100 MW
+
+836	242	7.55858	7.55858
+
+836	246	-7.55858	-	-7.55858
+836	100 MW
+
+837	242	7.0922	7.0922
+
+837	247	-7.0922	-	-7.0922
+837	100 MW
+
+838	243	5.55556	5.55556
+
+838	244	-5.55556	-	-5.55556
+838	100 MW
+
+839	243	22.0264	22.0264
+
+839	245	-22.0264	-	-22.0264
+839	100 MW
+
+840	246	24.6305	24.6305
+
+840	247	-24.6305	-	-24.6305
+840	100 MW
+
+841	247	5.0025	5.0025
+
+841	249	-5.0025	-	-5.0025
+841	100 MW
+
+842	247	20.79	20.79
+
+842	290	-20.79	-	-20.79
+842	100 MW
+
+843	248	6.75676	6.75676
+
+843	249	-6.75676	-	-6.75676
+843	100 MW
+
+844	248	18.3824	18.3824
+
+844	290	-18.3824	-	-18.3824
+844	100 MW
+
+845	249	80.6452	80.6452
+
+845	250	-80.6452	-	-80.6452
+845	100 MW
+
+846	249	20.6186	20.6186
+
+846	252	-20.6186	-	-20.6186
+846	100 MW
+
+847	249	9.52381	9.52381
+
+847	252	-9.52381	-	-9.52381
+847	100 MW
+
+848	249	11.7233	11.7233
+
+848	254	-11.7233	-	-11.7233
+848	100 MW
+
+849	250	40.9836	40.9836
+
+849	251	-40.9836	-	-40.9836
+849	100 MW
+
+850	251	14.2045	14.2045
+
+850	252	-14.2045	-	-14.2045
+850	100 MW
+
+851	253	27.027	27.027
+
+851	252	-27.027	-	-27.027
+851	100 MW
+
+852	252	5.49451	5.49451
+
+852	268	-5.49451	-	-5.49451
+852	100 MW
+
+853	252	10.7066	10.7066
+
+853	269	-10.7066	-	-10.7066
+853	100 MW
+
+854	252	9.25926	9.25926
+
+854	270	-9.25926	-	-9.25926
+854	100 MW
+
+855	252	4.85437	4.85437
+
+855	271	-4.85437	-	-4.85437
+855	100 MW
+
+856	254	27.2851	27.2851
+
+856	255	-27.2851	-	-27.2851
+856	100 MW
+
+857	254	18.8679	18.8679
+
+857	268	-18.8679	-	-18.8679
+857	100 MW
+
+858	255	7.57576	7.57576
+
+858	256	-7.57576	-	-7.57576
+858	100 MW
+
+859	255	6.75676	6.75676
+
+859	257	-6.75676	-	-6.75676
+859	100 MW
+
+860	256	15.6006	15.6006
+
+860	257	-15.6006	-	-15.6006
+860	100 MW
+
+861	257	8.13008	8.13008
+
+861	258	-8.13008	-	-8.13008
+861	100 MW
+
+862	257	9.80392	9.80392
+
+862	260	-9.80392	-	-9.80392
+862	100 MW
+
+863	257	5.78035	5.78035
+
+863	261	-5.78035	-	-5.78035
+863	100 MW
+
+864	258	4.8216	4.8216
+
+864	259	-4.8216	-	-4.8216
+864	100 MW
+
+865	260	14.0449	14.0449
+
+865	261	-14.0449	-	-14.0449
+865	100 MW
+
+866	261	5.31915	5.31915
+
+866	262	-5.31915	-	-5.31915
+866	100 MW
+
+867	261	10.0301	10.0301
+
+867	262	-10.0301	-	-10.0301
+867	100 MW
+
+868	261	19.802	19.802
+
+868	264	-19.802	-	-19.802
+868	100 MW
+
+869	261	6.32511	6.32511
+
+869	264	-6.32511	-	-6.32511
+869	100 MW
+
+870	262	11.9617	11.9617
+
+870	263	-11.9617	-	-11.9617
+870	100 MW
+
+871	263	7.86164	7.86164
+
+871	264	-7.86164	-	-7.86164
+871	100 MW
+
+872	264	11.7925	11.7925
+
+872	265	-11.7925	-	-11.7925
+872	100 MW
+
+873	264	6.32911	6.32911
+
+873	266	-6.32911	-	-6.32911
+873	100 MW
+
+874	264	3.38983	3.38983
+
+874	272	-3.38983	-	-3.38983
+874	100 MW
+
+875	264	17.8891	17.8891
+
+875	274	-17.8891	-	-17.8891
+875	100 MW
+
+876	265	13.6612	13.6612
+
+876	266	-13.6612	-	-13.6612
+876	100 MW
+
+877	266	23.0415	23.0415
+
+877	267	-23.0415	-	-23.0415
+877	100 MW
+
+878	266	11.5075	11.5075
+
+878	268	-11.5075	-	-11.5075
+878	100 MW
+
+879	266	17.2414	17.2414
+
+879	272	-17.2414	-	-17.2414
+879	100 MW
+
+880	267	18.2815	18.2815
+
+880	268	-18.2815	-	-18.2815
+880	100 MW
+
+881	268	11.2994	11.2994
+
+881	269	-11.2994	-	-11.2994
+881	100 MW
+
+882	270	5.58659	5.58659
+
+882	272	-5.58659	-	-5.58659
+882	100 MW
+
+883	271	12.3001	12.3001
+
+883	272	-12.3001	-	-12.3001
+883	100 MW
+
+884	272	7.92393	7.92393
+
+884	273	-7.92393	-	-7.92393
+884	100 MW
+
+885	272	19.0476	19.0476
+
+885	275	-19.0476	-	-19.0476
+885	100 MW
+
+886	272	4.90196	4.90196
+
+886	276	-4.90196	-	-4.90196
+886	100 MW
+
+887	272	4.36681	4.36681
+
+887	278	-4.36681	-	-4.36681
+887	100 MW
+
+888	273	8.92857	8.92857
+
+888	274	-8.92857	-	-8.92857
+888	100 MW
+
+889	275	6.31313	6.31313
+
+889	276	-6.31313	-	-6.31313
+889	100 MW
+
+890	275	6.15385	6.15385
+
+890	277	-6.15385	-	-6.15385
+890	100 MW
+
+891	275	5.51572	5.51572
+
+891	282	-5.51572	-	-5.51572
+891	100 MW
+
+892	276	26.455	26.455
+
+892	277	-26.455	-	-26.455
+892	100 MW
+
+893	277	18.2815	18.2815
+
+893	278	-18.2815	-	-18.2815
+893	100 MW
+
+894	277	5.46448	5.46448
+
+894	279	-5.46448	-	-5.46448
+894	100 MW
+
+895	277	14.2248	14.2248
+
+895	280	-14.2248	-	-14.2248
+895	100 MW
+
+896	278	5.46448	5.46448
+
+896	279	-5.46448	-	-5.46448
+896	100 MW
+
+897	280	34.7222	34.7222
+
+897	281	-34.7222	-	-34.7222
+897	100 MW
+
+898	281	13.1234	13.1234
+
+898	282	-13.1234	-	-13.1234
+898	100 MW
+
+899	282	13.245	13.245
+
+899	283	-13.245	-	-13.245
+899	100 MW
+
+900	282	15.625	15.625
+
+900	284	-15.625	-	-15.625
+900	100 MW
+
+901	286	96.1538	96.1538
+
+901	287	-96.1538	-	-96.1538
+901	100 MW
+
+Coefficients corresponding to intra-zone Line Reverse Flow Limit Constraints
+
+902	173	23.5849	23.5849
+
+902	175	-23.5849	-	-23.5849
+902	-100 MW
+
+903	174	16.2338	16.2338
+
+903	184	-16.2338	-	-16.2338
+903	-100 MW
+
+904	175	9.25926	9.25926
+
+904	177	-9.25926	-	-9.25926
+904	-100 MW
+
+905	175	6.25	6.25
+
+905	184	-6.25	-	-6.25
+905	-100 MW
+
+906	176	125.313	125.313
+
+906	177	-125.313	-	-125.313
+906	-100 MW
+
+907	176	14.5349	14.5349
+
+907	183	-14.5349	-	-14.5349
+907	-100 MW
+
+908	177	18.5185	18.5185
+
+908	178	-18.5185	-	-18.5185
+908	-100 MW
+
+909	180	37.4532	37.4532
+
+909	177	-37.4532	-	-37.4532
+909	-100 MW
+
+910	177	14.6628	14.6628
+
+910	183	-14.6628	-	-14.6628
+910	-100 MW
+
+911	178	48.0769	48.0769
+
+911	179	-48.0769	-	-48.0769
+911	-100 MW
+
+912	179	29.4118	29.4118
+
+912	184	-29.4118	-	-29.4118
+912	-100 MW
+
+913	180	32.7869	32.7869
+
+913	181	-32.7869	-	-32.7869
+913	-100 MW
+
+914	180	19.8413	19.8413
+
+914	202	-19.8413	-	-19.8413
+914	-100 MW
+
+915	181	31.0559	31.0559
+
+915	182	-31.0559	-	-31.0559
+915	-100 MW
+
+916	183	51.0204	51.0204
+
+916	184	-51.0204	-	-51.0204
+916	-100 MW
+
+917	183	13.6799	13.6799
+
+917	185	-13.6799	-	-13.6799
+917	-100 MW
+
+918	184	14.1443	14.1443
+
+918	186	-14.1443	-	-14.1443
+918	-100 MW
+
+919	184	11.9904	11.9904
+
+919	188	-11.9904	-	-11.9904
+919	-100 MW
+
+920	184	7.14286	7.14286
+
+920	289	-7.14286	-	-7.14286
+920	-100 MW
+
+921	185	4.09165	4.09165
+
+921	187	-4.09165	-	-4.09165
+921	-100 MW
+
+922	186	5.12821	5.12821
+
+922	187	-5.12821	-	-5.12821
+922	-100 MW
+
+923	187	22.8833	22.8833
+
+923	189	-22.8833	-	-22.8833
+923	-100 MW
+
+924	187	25.3807	25.3807
+
+924	191	-25.3807	-	-25.3807
+924	-100 MW
+
+925	187	8.03859	8.03859
+
+925	205	-8.03859	-	-8.03859
+925	-100 MW
+
+926	188	5.55247	5.55247
+
+926	189	-5.55247	-	-5.55247
+926	-100 MW
+
+927	189	19.802	19.802
+
+927	190	-19.802	-	-19.802
+927	-100 MW
+
+928	202	25.7732	25.7732
+
+928	189	-25.7732	-	-25.7732
+928	-100 MW
+
+929	189	6.39795	6.39795
+
+929	203	-6.39795	-	-6.39795
+929	-100 MW
+
+930	189	33.2226	33.2226
+
+930	285	-33.2226	-	-33.2226
+930	-100 MW
+
+931	190	20.284	20.284
+
+931	191	-20.284	-	-20.284
+931	-100 MW
+
+932	191	8.54701	8.54701
+
+932	192	-8.54701	-	-8.54701
+932	-100 MW
+
+933	191	4.04858	4.04858
+
+933	206	-4.04858	-	-4.04858
+933	-100 MW
+
+934	192	11.7786	11.7786
+
+934	193	-11.7786	-	-11.7786
+934	-100 MW
+
+935	193	10.3093	10.3093
+
+935	194	-10.3093	-	-10.3093
+935	-100 MW
+
+936	194	6.28931	6.28931
+
+936	195	-6.28931	-	-6.28931
+936	-100 MW
+
+937	195	20.3252	20.3252
+
+937	196	-20.3252	-	-20.3252
+937	-100 MW
+
+938	195	12.5	12.5
+
+938	197	-12.5	-	-12.5
+938	-100 MW
+
+939	195	8.67303	8.67303
+
+939	204	-8.67303	-	-8.67303
+939	-100 MW
+
+940	196	2.43013	2.43013
+
+940	242	-2.43013	-	-2.43013
+940	-100 MW
+
+941	196	5.10204	5.10204
+
+941	244	-5.10204	-	-5.10204
+941	-100 MW
+
+942	198	26.178	26.178
+
+942	197	-26.178	-	-26.178
+942	-100 MW
+
+943	197	6.13497	6.13497
+
+943	199	-6.13497	-	-6.13497
+943	-100 MW
+
+944	198	11.6279	11.6279
+
+944	202	-11.6279	-	-11.6279
+944	-100 MW
+
+945	199	11.6959	11.6959
+
+945	200	-11.6959	-	-11.6959
+945	-100 MW
+
+946	199	13.245	13.245
+
+946	204	-13.245	-	-13.245
+946	-100 MW
+
+947	199	13.4953	13.4953
+
+947	287	-13.4953	-	-13.4953
+947	-100 MW
+
+948	200	10.6045	10.6045
+
+948	201	-10.6045	-	-10.6045
+948	-100 MW
+
+949	201	30.2115	30.2115
+
+949	203	-30.2115	-	-30.2115
+949	-100 MW
+
+950	202	18.5185	18.5185
+
+950	210	-18.5185	-	-18.5185
+950	-100 MW
+
+951	203	10.1523	10.1523
+
+951	204	-10.1523	-	-10.1523
+951	-100 MW
+
+952	204	4.92611	4.92611
+
+952	285	-4.92611	-	-4.92611
+952	-100 MW
+
+953	204	16.3399	16.3399
+
+953	286	-16.3399	-	-16.3399
+953	-100 MW
+
+954	205	7.04225	7.04225
+
+954	209	-7.04225	-	-7.04225
+954	-100 MW
+
+955	206	37.3134	37.3134
+
+955	208	-37.3134	-	-37.3134
+955	-100 MW
+
+956	206	106.383	106.383
+
+956	209	-106.383	-	-106.383
+956	-100 MW
+
+957	206	5.94884	5.94884
+
+957	215	-5.94884	-	-5.94884
+957	-100 MW
+
+958	207	98.0392	98.0392
+
+958	208	-98.0392	-	-98.0392
+958	-100 MW
+
+959	207	20.1207	20.1207
+
+959	209	-20.1207	-	-20.1207
+959	-100 MW
+
+960	210	26.6667	26.6667
+
+960	209	-26.6667	-	-26.6667
+960	-100 MW
+
+961	209	9.43396	9.43396
+
+961	211	-9.43396	-	-9.43396
+961	-100 MW
+
+962	209	5.95238	5.95238
+
+962	212	-5.95238	-	-5.95238
+962	-100 MW
+
+963	210	10.142	10.142
+
+963	237	-10.142	-	-10.142
+963	-100 MW
+
+964	211	16.5289	16.5289
+
+964	212	-16.5289	-	-16.5289
+964	-100 MW
+
+965	212	20.5339	20.5339
+
+965	213	-20.5339	-	-20.5339
+965	-100 MW
+
+966	212	5.46448	5.46448
+
+966	214	-5.46448	-	-5.46448
+966	-100 MW
+
+967	213	7.40741	7.40741
+
+967	214	-7.40741	-	-7.40741
+967	-100 MW
+
+968	214	3.09598	3.09598
+
+968	221	-3.09598	-	-3.09598
+968	-100 MW
+
+969	214	3.09598	3.09598
+
+969	221	-3.09598	-	-3.09598
+969	-100 MW
+
+970	215	4.07498	4.07498
+
+970	216	-4.07498	-	-4.07498
+970	-100 MW
+
+971	216	11.0988	11.0988
+
+971	217	-11.0988	-	-11.0988
+971	-100 MW
+
+972	217	7.37463	7.37463
+
+972	218	-7.37463	-	-7.37463
+972	-100 MW
+
+973	217	5.37634	5.37634
+
+973	221	-5.37634	-	-5.37634
+973	-100 MW
+
+974	218	7.87402	7.87402
+
+974	219	-7.87402	-	-7.87402
+974	-100 MW
+
+975	218	5.29101	5.29101
+
+975	220	-5.29101	-	-5.29101
+975	-100 MW
+
+976	219	16	16
+
+976	221	-16	-	-16
+976	-100 MW
+
+977	219	3.59971	3.59971
+
+977	241	-3.59971	-	-3.59971
+977	-100 MW
+
+978	220	19.802	19.802
+
+978	221	-19.802	-	-19.802
+978	-100 MW
+
+979	221	13.2979	13.2979
+
+979	222	-13.2979	-	-13.2979
+979	-100 MW
+
+980	221	7.29927	7.29927
+
+980	223	-7.29927	-	-7.29927
+980	-100 MW
+
+981	221	3.46021	3.46021
+
+981	226	-3.46021	-	-3.46021
+981	-100 MW
+
+982	221	3.43643	3.43643
+
+982	226	-3.43643	-	-3.43643
+982	-100 MW
+
+983	221	10.8814	10.8814
+
+983	238	-10.8814	-	-10.8814
+983	-100 MW
+
+984	221	10.8814	10.8814
+
+984	238	-10.8814	-	-10.8814
+984	-100 MW
+
+985	221	3.08642	3.08642
+
+985	241	-3.08642	-	-3.08642
+985	-100 MW
+
+986	222	7.46269	7.46269
+
+986	229	-7.46269	-	-7.46269
+986	-100 MW
+
+987	223	17.0068	17.0068
+
+987	224	-17.0068	-	-17.0068
+987	-100 MW
+
+988	223	13.9082	13.9082
+
+988	230	-13.9082	-	-13.9082
+988	-100 MW
+
+989	224	6.11621	6.11621
+
+989	225	-6.11621	-	-6.11621
+989	-100 MW
+
+990	225	8.19672	8.19672
+
+990	226	-8.19672	-	-8.19672
+990	-100 MW
+
+991	226	14.1443	14.1443
+
+991	227	-14.1443	-	-14.1443
+991	-100 MW
+
+992	226	104.712	104.712
+
+992	228	-104.712	-	-104.712
+992	-100 MW
+
+993	226	4.3611	4.3611
+
+993	231	-4.3611	-	-4.3611
+993	-100 MW
+
+994	227	66.2252	66.2252
+
+994	228	-66.2252	-	-66.2252
+994	-100 MW
+
+995	227	4.63392	4.63392
+
+995	231	-4.63392	-	-4.63392
+995	-100 MW
+
+996	228	10.352	10.352
+
+996	229	-10.352	-	-10.352
+996	-100 MW
+
+997	228	10.352	10.352
+
+997	230	-10.352	-	-10.352
+997	-100 MW
+
+998	228	3.98406	3.98406
+
+998	231	-3.98406	-	-3.98406
+998	-100 MW
+
+999	228	4.1841	4.1841
+
+999	231	-4.1841	-	-4.1841
+999	-100 MW
+
+1000	231	6.89655	6.89655
+
+1000	232	-6.89655	-	-6.89655
+1000	-100 MW
+
+1001	231	6.66667	6.66667
+
+1001	233	-6.66667	-	-6.66667
+1001	-100 MW
+
+1002	235	25.9067	25.9067
+
+1002	231	-25.9067	-	-25.9067
+1002	-100 MW
+
+1003	232	74.0741	74.0741
+
+1003	233	-74.0741	-	-74.0741
+1003	-100 MW
+
+1004	232	17.8253	17.8253
+
+1004	234	-17.8253	-	-17.8253
+1004	-100 MW
+
+1005	233	26.5957	26.5957
+
+1005	234	-26.5957	-	-26.5957
+1005	-100 MW
+
+1006	236	37.3134	37.3134
+
+1006	233	-37.3134	-	-37.3134
+1006	-100 MW
+
+1007	234	4.58716	4.58716
+
+1007	238	-4.58716	-	-4.58716
+1007	-100 MW
+
+1008	234	8.54701	8.54701
+
+1008	239	-8.54701	-	-8.54701
+1008	-100 MW
+
+1009	235	50	50
+
+1009	236	-50	-	-50
+1009	-100 MW
+
+1010	236	33.1126	33.1126
+
+1010	237	-33.1126	-	-33.1126
+1010	-100 MW
+
+1011	237	27.027	27.027
+
+1011	238	-27.027	-	-27.027
+1011	-100 MW
+
+1012	237	62.5	62.5
+
+1012	240	-62.5	-	-62.5
+1012	-100 MW
+
+1013	238	9.85222	9.85222
+
+1013	239	-9.85222	-	-9.85222
+1013	-100 MW
+
+1014	240	27.027	27.027
+
+1014	241	-27.027	-	-27.027
+1014	-100 MW
+
+1015	240	49.505	49.505
+
+1015	253	-49.505	-	-49.505
+1015	-100 MW
+
+1016	240	246.914	246.914
+
+1016	288	-246.914	-	-246.914
+1016	-100 MW
+
+1017	241	7.87402	7.87402
+
+1017	242	-7.87402	-	-7.87402
+1017	-100 MW
+
+1018	241	8.19672	8.19672
+
+1018	247	-8.19672	-	-8.19672
+1018	-100 MW
+
+1019	241	9.90099	9.90099
+
+1019	249	-9.90099	-	-9.90099
+1019	-100 MW
+
+1020	242	28.169	28.169
+
+1020	243	-28.169	-	-28.169
+1020	-100 MW
+
+1021	242	7.55858	7.55858
+
+1021	246	-7.55858	-	-7.55858
+1021	-100 MW
+
+1022	242	7.0922	7.0922
+
+1022	247	-7.0922	-	-7.0922
+1022	-100 MW
+
+1023	243	5.55556	5.55556
+
+1023	244	-5.55556	-	-5.55556
+1023	-100 MW
+
+1024	243	22.0264	22.0264
+
+1024	245	-22.0264	-	-22.0264
+1024	-100 MW
+
+1025	246	24.6305	24.6305
+
+1025	247	-24.6305	-	-24.6305
+1025	-100 MW
+
+1026	247	5.0025	5.0025
+
+1026	249	-5.0025	-	-5.0025
+1026	-100 MW
+
+1027	247	20.79	20.79
+
+1027	290	-20.79	-	-20.79
+1027	-100 MW
+
+1028	248	6.75676	6.75676
+
+1028	249	-6.75676	-	-6.75676
+1028	-100 MW
+
+1029	248	18.3824	18.3824
+
+1029	290	-18.3824	-	-18.3824
+1029	-100 MW
+
+1030	249	80.6452	80.6452
+
+1030	250	-80.6452	-	-80.6452
+1030	-100 MW
+
+1031	249	20.6186	20.6186
+
+1031	252	-20.6186	-	-20.6186
+1031	-100 MW
+
+1032	249	9.52381	9.52381
+
+1032	252	-9.52381	-	-9.52381
+1032	-100 MW
+
+1033	249	11.7233	11.7233
+
+1033	254	-11.7233	-	-11.7233
+1033	-100 MW
+
+1034	250	40.9836	40.9836
+
+1034	251	-40.9836	-	-40.9836
+1034	-100 MW
+
+1035	251	14.2045	14.2045
+
+1035	252	-14.2045	-	-14.2045
+1035	-100 MW
+
+1036	253	27.027	27.027
+
+1036	252	-27.027	-	-27.027
+1036	-100 MW
+
+1037	252	5.49451	5.49451
+
+1037	268	-5.49451	-	-5.49451
+1037	-100 MW
+
+1038	252	10.7066	10.7066
+
+1038	269	-10.7066	-	-10.7066
+1038	-100 MW
+
+1039	252	9.25926	9.25926
+
+1039	270	-9.25926	-	-9.25926
+1039	-100 MW
+
+1040	252	4.85437	4.85437
+
+1040	271	-4.85437	-	-4.85437
+1040	-100 MW
+
+1041	254	27.2851	27.2851
+
+1041	255	-27.2851	-	-27.2851
+1041	-100 MW
+
+1042	254	18.8679	18.8679
+
+1042	268	-18.8679	-	-18.8679
+1042	-100 MW
+
+1043	255	7.57576	7.57576
+
+1043	256	-7.57576	-	-7.57576
+1043	-100 MW
+
+1044	255	6.75676	6.75676
+
+1044	257	-6.75676	-	-6.75676
+1044	-100 MW
+
+1045	256	15.6006	15.6006
+
+1045	257	-15.6006	-	-15.6006
+1045	-100 MW
+
+1046	257	8.13008	8.13008
+
+1046	258	-8.13008	-	-8.13008
+1046	-100 MW
+
+1047	257	9.80392	9.80392
+
+1047	260	-9.80392	-	-9.80392
+1047	-100 MW
+
+1048	257	5.78035	5.78035
+
+1048	261	-5.78035	-	-5.78035
+1048	-100 MW
+
+1049	258	4.8216	4.8216
+
+1049	259	-4.8216	-	-4.8216
+1049	-100 MW
+
+1050	260	14.0449	14.0449
+
+1050	261	-14.0449	-	-14.0449
+1050	-100 MW
+
+1051	261	5.31915	5.31915
+
+1051	262	-5.31915	-	-5.31915
+1051	-100 MW
+
+1052	261	10.0301	10.0301
+
+1052	262	-10.0301	-	-10.0301
+1052	-100 MW
+
+1053	261	19.802	19.802
+
+1053	264	-19.802	-	-19.802
+1053	-100 MW
+
+1054	261	6.32511	6.32511
+
+1054	264	-6.32511	-	-6.32511
+1054	-100 MW
+
+1055	262	11.9617	11.9617
+
+1055	263	-11.9617	-	-11.9617
+1055	-100 MW
+
+1056	263	7.86164	7.86164
+
+1056	264	-7.86164	-	-7.86164
+1056	-100 MW
+
+1057	264	11.7925	11.7925
+
+1057	265	-11.7925	-	-11.7925
+1057	-100 MW
+
+1058	264	6.32911	6.32911
+
+1058	266	-6.32911	-	-6.32911
+1058	-100 MW
+
+1059	264	3.38983	3.38983
+
+1059	272	-3.38983	-	-3.38983
+1059	-100 MW
+
+1060	264	17.8891	17.8891
+
+1060	274	-17.8891	-	-17.8891
+1060	-100 MW
+
+1061	265	13.6612	13.6612
+
+1061	266	-13.6612	-	-13.6612
+1061	-100 MW
+
+1062	266	23.0415	23.0415
+
+1062	267	-23.0415	-	-23.0415
+1062	-100 MW
+
+1063	266	11.5075	11.5075
+
+1063	268	-11.5075	-	-11.5075
+1063	-100 MW
+
+1064	266	17.2414	17.2414
+
+1064	272	-17.2414	-	-17.2414
+1064	-100 MW
+
+1065	267	18.2815	18.2815
+
+1065	268	-18.2815	-	-18.2815
+1065	-100 MW
+
+1066	268	11.2994	11.2994
+
+1066	269	-11.2994	-	-11.2994
+1066	-100 MW
+
+1067	270	5.58659	5.58659
+
+1067	272	-5.58659	-	-5.58659
+1067	-100 MW
+
+1068	271	12.3001	12.3001
+
+1068	272	-12.3001	-	-12.3001
+1068	-100 MW
+
+1069	272	7.92393	7.92393
+
+1069	273	-7.92393	-	-7.92393
+1069	-100 MW
+
+1070	272	19.0476	19.0476
+
+1070	275	-19.0476	-	-19.0476
+1070	-100 MW
+
+1071	272	4.90196	4.90196
+
+1071	276	-4.90196	-	-4.90196
+1071	-100 MW
+
+1072	272	4.36681	4.36681
+
+1072	278	-4.36681	-	-4.36681
+1072	-100 MW
+
+1073	273	8.92857	8.92857
+
+1073	274	-8.92857	-	-8.92857
+1073	-100 MW
+
+1074	275	6.31313	6.31313
+
+1074	276	-6.31313	-	-6.31313
+1074	-100 MW
+
+1075	275	6.15385	6.15385
+
+1075	277	-6.15385	-	-6.15385
+1075	-100 MW
+
+1076	275	5.51572	5.51572
+
+1076	282	-5.51572	-	-5.51572
+1076	-100 MW
+
+1077	276	26.455	26.455
+
+1077	277	-26.455	-	-26.455
+1077	-100 MW
+
+1078	277	18.2815	18.2815
+
+1078	278	-18.2815	-	-18.2815
+1078	-100 MW
+
+1079	277	5.46448	5.46448
+
+1079	279	-5.46448	-	-5.46448
+1079	-100 MW
+
+1080	277	14.2248	14.2248
+
+1080	280	-14.2248	-	-14.2248
+1080	-100 MW
+
+1081	278	5.46448	5.46448
+
+1081	279	-5.46448	-	-5.46448
+1081	-100 MW
+
+1082	280	34.7222	34.7222
+
+1082	281	-34.7222	-	-34.7222
+1082	-100 MW
+
+1083	281	13.1234	13.1234
+
+1083	282	-13.1234	-	-13.1234
+1083	-100 MW
+
+1084	282	13.245	13.245
+
+1084	283	-13.245	-	-13.245
+1084	-100 MW
+
+1085	282	15.625	15.625
+
+1085	284	-15.625	-	-15.625
+1085	-100 MW
+
+1086	286	96.1538	96.1538
+
+1086	287	-96.1538	-	-96.1538
+1086	-100 MW
+
+Constraint bounds (rows) Specified
+
+Total number of rows: 1086
+
+Coefficient Matrix specified
+
+Total time taken to define the rows, columns, objective and populate the coefficient matrix = 0.019835 s 
+
+The solution to the problem is OPTIMAL.
+
+The Optimal Objective value (Generation Dispatch cost) is: 110343
+
+Total time taken to solve the MILP Line Construction Decision Making Problem instance and retrieve the results = 0.066797 s 

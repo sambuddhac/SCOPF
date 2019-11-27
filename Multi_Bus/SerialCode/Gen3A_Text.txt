@@ -1,0 +1,5 @@
+Number of Generators: 3	Number of Fields: 6
+Connection Node	Quadratic Cost Coefficient ($/MW^2h)	Linear Cost Coefficient($/MWh)	No Load Cost($/h)	Pmax (MW)	Pmin(MW)
+1	0	10	0	1000	0
+2	0	30	0	1000	0
+3	0	20	0	1000	0

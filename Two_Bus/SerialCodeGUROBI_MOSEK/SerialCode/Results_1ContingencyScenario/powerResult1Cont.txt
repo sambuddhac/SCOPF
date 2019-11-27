@@ -1,0 +1,11 @@
+Gen#	Conn.	MW
+1	1	500.002
+2	2	299.998
+T.line#	From	To	From MW	To MW
+1	1	2	-66.6674	66.6674
+2	1	2	-66.6674	66.6674
+3	2	1	66.6674	-66.6674
+T.line#	Contingency Scenario	From	To	From MW	To MW
+1	1	1	2	-100	100
+2	1	1	2	-1.5e-99	1.5e-99
+3	1	2	1	100	-100

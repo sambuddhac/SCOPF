@@ -1,0 +1,3 @@
+Number of Loads:1	Number of Fields:2
+Connection Node	Load Magnitude (MW)
+2	-15

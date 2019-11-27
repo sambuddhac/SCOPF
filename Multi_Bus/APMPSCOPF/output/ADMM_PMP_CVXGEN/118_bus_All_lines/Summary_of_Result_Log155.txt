@@ -1,0 +1,14 @@
+
+Execution time (s): 74.7006
+
+Last value of dual residual / Rho = 1.66662e-05
+
+Last value of primal residual = 0.0035209
+
+Last value of Rho = 7.28652
+
+Last value of dual residual = 0.000121438
+
+Total Number of Iterations = 80001
+
+Last value of Objective = 80474.8

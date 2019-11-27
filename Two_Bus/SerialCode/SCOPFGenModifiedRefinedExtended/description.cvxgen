@@ -1,0 +1,38 @@
+# Produced by CVXGEN, 2015-03-26 00:40:17 -0400.
+# CVXGEN is Copyright (C) 2006-2012 Jacob Mattingley, jem@cvxgen.com.
+# The code in this file is Copyright (C) 2006-2012 Jacob Mattingley.
+# CVXGEN, or solvers produced by CVXGEN, cannot be used for commercial
+# applications without prior written permission from Jacob Mattingley.
+
+# Filename: description.cvxgen.
+# Description: A description of the CVXGEN problem.
+
+dimensions
+  m=401
+end
+
+parameters
+  contNum nonnegative # Number of contingencies
+  rho positive # ADMM tuning parameter
+  ones (m) # Vector of all ones
+  PgMax positive; PgMin nonnegative # Generator Limits
+  c2 nonnegative; c1 nonnegative; c0 nonnegative # Generator cost coefficients, quadratic, liear and constant terms respectively
+  Pg_N_init (m) # Generator injection from last iteration
+  Pg_N_avg (m) # Net average power from last iteration
+  Thetag_N_avg (m) # Net average bus voltage angle from last iteration
+  ug_N (m) # Dual variable for net power balance
+  vg_N (m) #  Dual variable for net angle balance
+  Vg_N_avg (m) # Average of dual variable for net angle balance from last to last iteration
+
+end
+
+variables
+  Pg # Generator real power output
+  Thetag (m) # Generator bus angle
+end
+
+minimize
+  c2*square(Pg)+c1*Pg+c0+(rho/2)*(sum(square(Pg*ones-Pg_N_init+Pg_N_avg+ug_N)+square(Thetag-Vg_N_avg-Thetag_N_avg+vg_N))+(contNum)*square(Pg))
+subject to
+  PgMin <= Pg <= PgMax
+end

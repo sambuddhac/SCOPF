@@ -1,0 +1,14 @@
+
+Execution time (s): 2.67438
+
+Last value of dual residual / Rho = -nan
+
+Last value of primal residual = -nan
+
+Last value of l2-norm Dual Residual = 	-nan
+
+Last value of l_infinity-norm Dual Residual = 	1.21619e-06
+
+Total Number of Iterations = 9873
+
+Last value of Objective = 7700

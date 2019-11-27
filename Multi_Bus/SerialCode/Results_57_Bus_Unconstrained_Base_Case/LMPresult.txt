@@ -1,0 +1,173 @@
+
+Locational Marginal Prices for Real Power at nodes ($/MWh): 
+1	Contingency Scenario: 	0	-41.552
+
+Node : 	1	 LMP : 	-41.552	 $/MWh
+2	Contingency Scenario: 	0	-41.552
+
+Node : 	2	 LMP : 	-41.552	 $/MWh
+3	Contingency Scenario: 	0	-41.552
+
+Node : 	3	 LMP : 	-41.552	 $/MWh
+4	Contingency Scenario: 	0	-41.552
+
+Node : 	4	 LMP : 	-41.552	 $/MWh
+5	Contingency Scenario: 	0	-41.552
+
+Node : 	5	 LMP : 	-41.552	 $/MWh
+6	Contingency Scenario: 	0	-41.552
+
+Node : 	6	 LMP : 	-41.552	 $/MWh
+7	Contingency Scenario: 	0	-41.552
+
+Node : 	7	 LMP : 	-41.552	 $/MWh
+8	Contingency Scenario: 	0	-41.552
+
+Node : 	8	 LMP : 	-41.552	 $/MWh
+9	Contingency Scenario: 	0	-41.552
+
+Node : 	9	 LMP : 	-41.552	 $/MWh
+10	Contingency Scenario: 	0	-41.552
+
+Node : 	10	 LMP : 	-41.552	 $/MWh
+11	Contingency Scenario: 	0	-41.552
+
+Node : 	11	 LMP : 	-41.552	 $/MWh
+12	Contingency Scenario: 	0	-41.552
+
+Node : 	12	 LMP : 	-41.552	 $/MWh
+13	Contingency Scenario: 	0	-41.552
+
+Node : 	13	 LMP : 	-41.552	 $/MWh
+14	Contingency Scenario: 	0	-41.552
+
+Node : 	14	 LMP : 	-41.552	 $/MWh
+15	Contingency Scenario: 	0	-41.552
+
+Node : 	15	 LMP : 	-41.552	 $/MWh
+16	Contingency Scenario: 	0	-41.552
+
+Node : 	16	 LMP : 	-41.552	 $/MWh
+17	Contingency Scenario: 	0	-41.552
+
+Node : 	17	 LMP : 	-41.552	 $/MWh
+18	Contingency Scenario: 	0	-41.552
+
+Node : 	18	 LMP : 	-41.552	 $/MWh
+19	Contingency Scenario: 	0	-41.552
+
+Node : 	19	 LMP : 	-41.552	 $/MWh
+20	Contingency Scenario: 	0	-41.552
+
+Node : 	20	 LMP : 	-41.552	 $/MWh
+21	Contingency Scenario: 	0	-41.552
+
+Node : 	21	 LMP : 	-41.552	 $/MWh
+22	Contingency Scenario: 	0	-41.552
+
+Node : 	22	 LMP : 	-41.552	 $/MWh
+23	Contingency Scenario: 	0	-41.552
+
+Node : 	23	 LMP : 	-41.552	 $/MWh
+24	Contingency Scenario: 	0	-41.552
+
+Node : 	24	 LMP : 	-41.552	 $/MWh
+25	Contingency Scenario: 	0	-41.552
+
+Node : 	25	 LMP : 	-41.552	 $/MWh
+26	Contingency Scenario: 	0	-41.552
+
+Node : 	26	 LMP : 	-41.552	 $/MWh
+27	Contingency Scenario: 	0	-41.552
+
+Node : 	27	 LMP : 	-41.552	 $/MWh
+28	Contingency Scenario: 	0	-41.552
+
+Node : 	28	 LMP : 	-41.552	 $/MWh
+29	Contingency Scenario: 	0	-41.552
+
+Node : 	29	 LMP : 	-41.552	 $/MWh
+30	Contingency Scenario: 	0	-41.552
+
+Node : 	30	 LMP : 	-41.552	 $/MWh
+31	Contingency Scenario: 	0	-41.5519
+
+Node : 	31	 LMP : 	-41.5519	 $/MWh
+32	Contingency Scenario: 	0	-41.552
+
+Node : 	32	 LMP : 	-41.552	 $/MWh
+33	Contingency Scenario: 	0	-41.5519
+
+Node : 	33	 LMP : 	-41.5519	 $/MWh
+34	Contingency Scenario: 	0	-41.552
+
+Node : 	34	 LMP : 	-41.552	 $/MWh
+35	Contingency Scenario: 	0	-41.552
+
+Node : 	35	 LMP : 	-41.552	 $/MWh
+36	Contingency Scenario: 	0	-41.552
+
+Node : 	36	 LMP : 	-41.552	 $/MWh
+37	Contingency Scenario: 	0	-41.552
+
+Node : 	37	 LMP : 	-41.552	 $/MWh
+38	Contingency Scenario: 	0	-41.552
+
+Node : 	38	 LMP : 	-41.552	 $/MWh
+39	Contingency Scenario: 	0	-41.552
+
+Node : 	39	 LMP : 	-41.552	 $/MWh
+40	Contingency Scenario: 	0	-41.552
+
+Node : 	40	 LMP : 	-41.552	 $/MWh
+41	Contingency Scenario: 	0	-41.552
+
+Node : 	41	 LMP : 	-41.552	 $/MWh
+42	Contingency Scenario: 	0	-41.552
+
+Node : 	42	 LMP : 	-41.552	 $/MWh
+43	Contingency Scenario: 	0	-41.552
+
+Node : 	43	 LMP : 	-41.552	 $/MWh
+44	Contingency Scenario: 	0	-41.552
+
+Node : 	44	 LMP : 	-41.552	 $/MWh
+45	Contingency Scenario: 	0	-41.552
+
+Node : 	45	 LMP : 	-41.552	 $/MWh
+46	Contingency Scenario: 	0	-41.552
+
+Node : 	46	 LMP : 	-41.552	 $/MWh
+47	Contingency Scenario: 	0	-41.552
+
+Node : 	47	 LMP : 	-41.552	 $/MWh
+48	Contingency Scenario: 	0	-41.552
+
+Node : 	48	 LMP : 	-41.552	 $/MWh
+49	Contingency Scenario: 	0	-41.552
+
+Node : 	49	 LMP : 	-41.552	 $/MWh
+50	Contingency Scenario: 	0	-41.552
+
+Node : 	50	 LMP : 	-41.552	 $/MWh
+51	Contingency Scenario: 	0	-41.552
+
+Node : 	51	 LMP : 	-41.552	 $/MWh
+52	Contingency Scenario: 	0	-41.552
+
+Node : 	52	 LMP : 	-41.552	 $/MWh
+53	Contingency Scenario: 	0	-41.552
+
+Node : 	53	 LMP : 	-41.552	 $/MWh
+54	Contingency Scenario: 	0	-41.552
+
+Node : 	54	 LMP : 	-41.552	 $/MWh
+55	Contingency Scenario: 	0	-41.552
+
+Node : 	55	 LMP : 	-41.552	 $/MWh
+56	Contingency Scenario: 	0	-41.552
+
+Node : 	56	 LMP : 	-41.552	 $/MWh
+57	Contingency Scenario: 	0	-41.552
+
+Node : 	57	 LMP : 	-41.552	 $/MWh

@@ -1,0 +1,14 @@
+******************************* GUIDE TO BIG PICTURE FOLDER **************************************
+
+1. The folder consists of two sub-folders. viz: a) APMP_CVXGEN and b) APP_GUROBI
+	a) APMP_CVXGEN consists of the simulation results of APP+ADMM-PMP algorithm performed on the IEEE 118 bus test case for two different instances
+		i) The file "118_bus_all_lines_analyzed.txt" corresponds to the situation when all the 186 lines has been marked for contingency analysis (along with a healthy base-case. The file shows the APP residulas, which is the second norm of the disagreements betwen the base-case generation MW as believed by the base-case coarse-grain and that by each of the scenarios. Here we can see that the SCOPF problem just after one APP iteration reaches a residual value of 0.0528382. (with good agreement between the MW values and line flows)
+
+		ii) The file "118_bus_line_1_to_2_analyzed.txt" corresponds to the situation where only one line, that between buses 1 and 2 have been considered for contingency analysis. It can be seen that we have performed 10 outer APP iterations and the residual value is never greater than 0.000897648. 
+
+	b) APP_GUROBI consists of simulation results where we used the APP to achieve consensus just as in a). But, instead of solving the inner OPF using ADMM-PMP, we just used a centralized OPF solver using GUROBI to solve it. The results for the folowing three instances have been included
+		i) The file "14_bus_six_lines_analyzed.txt" consists of the simulation result for the IEEE 14 bus test system with the lines 3-4, 4-7, 4-9, 5-6, 6-11, 12-13 being analyzed for contingency. We did 100 APP iterations, and the resicual values are as listed in the rightmost column.
+
+		ii) The file "118_bus_all_lines_analyzed.txt" is the same as before, but in this case, we did 100 AP iterations, and we can see that it roughly settles around 0.12 as residual value of the APP. It can be seen that actually CVXGEN gives much more accurate result in just one iteration.
+
+		iii) The file "118_bus_line_1_to_2_analyzed.txt" also is the same as before, and in this case, we can see that there is much better consensus. 
