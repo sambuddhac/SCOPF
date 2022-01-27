@@ -3,16 +3,3 @@
 Initial Value of the Tolerance to kick-start the APP outer iterations= 1000
 
 
-APP Itearion Count	APP Tolerance
-1	0.406323
-2	0.406323
-3	0.406323
-4	0.406323
-5	0.406323
-6	0.406323
-7	0.406323
-8	0.76766
-9	1.81121
-10	1.81121
-
-Execution time (s): 409.375

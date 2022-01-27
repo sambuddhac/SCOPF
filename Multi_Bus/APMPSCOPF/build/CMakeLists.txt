@@ -11,7 +11,7 @@ set(CMAKE_CXX_FLAGS "-std=c++0x")
 # Project's name
 project(SerialCode)
 INCLUDE_DIRECTORIES($ENV{GUROBI_HOME}/include)
-SET(GUR_LIB libgurobi80.so)
+SET(GUR_LIB libgurobi90.so)
 SET(GUR_LIBR libgurobi_c++.a)
 SET(GUR_LIBRA libgurobi_g++5.2.a)
 # The following folder will be included
@@ -27,4 +27,4 @@ SerialCode
 /home/samie/code/ADMM_Based_Proximal_Message_Passing_Distributed_OPF/SCOPF/Multi_Bus/APMPSCOPF/code/gensolverBase.cpp
 /home/samie/code/ADMM_Based_Proximal_Message_Passing_Distributed_OPF/SCOPF/Multi_Bus/APMPSCOPF/code/gensolverCont.cpp
 )
-TARGET_LINK_LIBRARIES(SerialCode /home/samie/opt/gurobi801/linux64/lib/${GUR_LIBR};/home/samie/opt/gurobi801/linux64/lib/${GUR_LIBRA};/home/samie/opt/gurobi801/linux64/lib/${GUR_LIB}  ${CMAKE_DL_LIBS})
+TARGET_LINK_LIBRARIES(SerialCode /home/samie/opt/gurobi900/linux64/lib/${GUR_LIBR};/home/samie/opt/gurobi900/linux64/lib/${GUR_LIBRA};/home/samie/opt/gurobi900/linux64/lib/${GUR_LIB}  ${CMAKE_DL_LIBS})
